@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:healthyme_app/objectbox_store.dart';
 
-void main() {
+void main() async{
+  await initObjectBox();
   runApp(const MyApp());
+
 }
 
 class MyApp extends StatelessWidget {
