@@ -1,16 +1,15 @@
-
 import 'package:healthyme_app/models/ingredient.dart';
 import 'package:healthyme_app/models/selectedingredient.dart';
-import 'package:healthyme_app/widgets/IngredientCard.dart';
+import 'package:healthyme_app/widgets/ingredient_card.dart';
 import 'package:flutter/material.dart';
 import 'package:healthyme_app/objectbox.g.dart';
 import 'package:healthyme_app/objectbox_store.dart';
 
-class CarbsView extends StatefulWidget{
+class CarbsView extends StatefulWidget {
   @override
   CarbsViewState createState() => CarbsViewState();
-
 }
+
 class CarbsViewState extends State<CarbsView> {
   late Box<Ingredient> ingredientBox;
   late Box<SelectedIngredient> selectedBox;
@@ -26,14 +25,12 @@ class CarbsViewState extends State<CarbsView> {
     loadIngredients();
   }
 
-    void loadIngredients() {
+  void loadIngredients() {
     final allIngredients = ingredientBox.getAll();
     final allSelected = selectedBox.getAll();
     setState(() {
       ingredients = allIngredients;
-     selectedIds = allSelected.map((s) => s.ingredientId).toSet();
-
-
+      selectedIds = allSelected.map((s) => s.ingredientId).toSet();
     });
   }
 
@@ -70,20 +67,8 @@ class CarbsViewState extends State<CarbsView> {
                   isAdded: isAdded,
                   onToggle: () => toggleIngredient(ingredient),
                 );
-                
               },
             ),
     );
   }
-
-
-
-
-
-
-
 }
-
-
-
-
