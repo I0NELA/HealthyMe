@@ -4,6 +4,7 @@ import 'package:healthyme_app/objectbox_store.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   await initObjectBox();
   runApp(MyApp());
 }
