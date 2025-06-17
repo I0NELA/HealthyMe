@@ -123,7 +123,7 @@ class _CarbsViewState extends State<CarbsView> {
             ],
           ),
           Positioned(
-            bottom: 30,
+            bottom: 90,
             left: 0,
             right: 0,
             child: CupertinoButton.filled(
