@@ -1,7 +1,53 @@
 import 'package:flutter/cupertino.dart';
+import 'package:healthyme_app/main.dart';
+import 'package:healthyme_app/models/ingredient.dart';
 import 'package:healthyme_app/views/MacroViews/carbs_view.dart';
 
-class HomeScreenView extends StatelessWidget {
+class HomeScreenView extends StatefulWidget {
+  @override
+  _HomeScreenViewState createState() => _HomeScreenViewState();
+}
+
+class _HomeScreenViewState extends State<HomeScreenView> {
+  List<Ingredient> selectedCarbs = [];
+
+  @override
+  Widget build(BuildContext context) {
+    return CupertinoPageScaffold(
+      child: Column(
+        children: [
+          Text("Selected: ${selectedCarbs.length}"),
+          Text("Selected: ${selectedCarbs.length}"),
+          CupertinoButton(
+            child: Text("Go to Carbs"),
+            onPressed: () async {
+              final updatedIds = await Navigator.push(
+                context,
+                CupertinoPageRoute(
+                  builder: (_) => CarbsView(
+                    carbs: objectBox.getCarbs(),
+                    initiallySelected: selectedCarbs,
+                  ),
+                ),
+              );
+
+              if (updatedIds != null) {
+                setState(() {
+                  selectedCarbs = updatedIds;
+                });
+              }
+            },
+          ),
+          Text("Selected: ${selectedCarbs.length}"),
+        ],
+      ),
+    );
+  }
+}
+
+
+
+/* class HomeScreenView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
@@ -17,9 +63,12 @@ class HomeScreenView extends StatelessWidget {
                   children: [
                     CupertinoButton.filled(
                       onPressed: () {
+                        final carbs = objectBox.getCarbs();
                         Navigator.push(
                           context,
-                          CupertinoPageRoute(builder: (_) => CarbsView()),
+                          CupertinoPageRoute(
+                            builder: (_) => CarbsView(carbs: carbs),
+                          ),
                         );
                       },
                       child: Text("Carbs"),
@@ -34,7 +83,7 @@ class HomeScreenView extends StatelessWidget {
     );
   }
 }
-
+ */
           //These are the Bottom Icons(WE can remove this code if we use the tab bar)
 
           /*

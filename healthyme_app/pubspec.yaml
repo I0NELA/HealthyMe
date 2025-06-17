@@ -17,6 +17,7 @@ dependencies:
   provider: ^6.1.5
   objectbox: ^4.3.0
   objectbox_flutter_libs: any
+  csv: ^5.0.0
 
 dev_dependencies:
   flutter_test:
@@ -30,3 +31,4 @@ flutter:
   assets: 
       - lib/assets/home_icon.svg
       - lib/assets/chat_icon.svg
+      - lib/assets/ingredient_dataset.csv

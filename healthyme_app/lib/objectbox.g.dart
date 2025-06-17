@@ -45,7 +45,7 @@ final _entities = <obx_int.ModelEntity>[
   obx_int.ModelEntity(
     id: const obx_int.IdUid(2, 4176517391390478111),
     name: 'Ingredient',
-    lastPropertyId: const obx_int.IdUid(3, 6509722974170491555),
+    lastPropertyId: const obx_int.IdUid(4, 3240625911498871733),
     flags: 0,
     properties: <obx_int.ModelProperty>[
       obx_int.ModelProperty(
@@ -61,8 +61,8 @@ final _entities = <obx_int.ModelEntity>[
         flags: 0,
       ),
       obx_int.ModelProperty(
-        id: const obx_int.IdUid(3, 6509722974170491555),
-        name: 'imageUrl',
+        id: const obx_int.IdUid(4, 3240625911498871733),
+        name: 'macro',
         type: 9,
         flags: 0,
       ),
@@ -116,7 +116,7 @@ obx_int.ModelDefinition getObjectBoxModel() {
     lastSequenceId: const obx_int.IdUid(0, 0),
     retiredEntityUids: const [],
     retiredIndexUids: const [],
-    retiredPropertyUids: const [],
+    retiredPropertyUids: const [6509722974170491555],
     retiredRelationUids: const [],
     modelVersion: 5,
     modelVersionParserMinimum: 5,
@@ -164,11 +164,11 @@ obx_int.ModelDefinition getObjectBoxModel() {
       },
       objectToFB: (Ingredient object, fb.Builder fbb) {
         final nameOffset = fbb.writeString(object.name);
-        final imageUrlOffset = fbb.writeString(object.imageUrl);
-        fbb.startTable(4);
+        final macroOffset = fbb.writeString(object.macro);
+        fbb.startTable(5);
         fbb.addInt64(0, object.id);
         fbb.addOffset(1, nameOffset);
-        fbb.addOffset(2, imageUrlOffset);
+        fbb.addOffset(3, macroOffset);
         fbb.finish(fbb.endTable());
         return object.id;
       },
@@ -184,13 +184,13 @@ obx_int.ModelDefinition getObjectBoxModel() {
         final nameParam = const fb.StringReader(
           asciiOptimization: true,
         ).vTableGet(buffer, rootOffset, 6, '');
-        final imageUrlParam = const fb.StringReader(
+        final macroParam = const fb.StringReader(
           asciiOptimization: true,
-        ).vTableGet(buffer, rootOffset, 8, '');
+        ).vTableGet(buffer, rootOffset, 10, '');
         final object = Ingredient(
           id: idParam,
           name: nameParam,
-          imageUrl: imageUrlParam,
+          macro: macroParam,
         );
 
         return object;
@@ -226,8 +226,8 @@ class Ingredient_ {
     _entities[1].properties[1],
   );
 
-  /// See [Ingredient.imageUrl].
-  static final imageUrl = obx.QueryStringProperty<Ingredient>(
+  /// See [Ingredient.macro].
+  static final macro = obx.QueryStringProperty<Ingredient>(
     _entities[1].properties[2],
   );
 }
