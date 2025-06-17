@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoApp(
-       theme: CupertinoThemeData(
+      theme: CupertinoThemeData(
         primaryColor: Color.fromARGB(255, 145, 199, 136),
       ),
       title: 'My Flutter App', // <-- This is the app title
