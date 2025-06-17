@@ -34,3 +34,4 @@ flutter:
   assets: 
       - lib/assets/home_icon.svg
       - lib/assets/chat_icon.svg
+      - lib/assets/ingredient_dataset.csv

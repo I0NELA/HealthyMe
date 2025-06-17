@@ -1,7 +1,56 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:healthyme_app/models/ingredient.dart';
 
-class IngredientCard extends StatefulWidget {
+class IngredientCard extends StatelessWidget {
+  /*   Ingredient ingredient;
+  bool isAdded;
+  VoidCallback onToggle; */
+
+  final Ingredient ingredient;
+  final bool isAdded;
+  final VoidCallback onToggle;
+
+  const IngredientCard({
+    Key? key,
+    required this.ingredient,
+    required this.isAdded,
+    required this.onToggle,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      color: isAdded ? const Color.fromARGB(255, 212, 238, 213) : Colors.white,
+      margin: const EdgeInsets.symmetric(horizontal: 40, vertical: 6),
+      child: ListTile(
+        onTap: onToggle,
+        leading: CircleAvatar(backgroundColor: Colors.grey),
+        title: Text(ingredient.name),
+        trailing: Icon(
+          isAdded ? Icons.check_circle : Icons.add_circle_outline,
+          color: isAdded ? Colors.green : null,
+        ),
+      ),
+    );
+  }
+}
+
+
+
+/* class IngredientCard extends StatefulWidget {
+  final Ingredient ingredient;
+  final bool isAdded;
+  final VoidCallback onToggle;
+
+  const IngredientCard({
+    Key? key,
+    required this.ingredient,
+    required this.isAdded,
+    required this.onToggle,
+  }) : super(key: key);
+
+  @override
   State<IngredientCard> createState() => _IngredientCardState();
 }
 
@@ -28,7 +77,7 @@ class _IngredientCardState extends State<IngredientCard> {
               "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fbutter&psig=AOvVaw2n8udtU8tKIsf_tCXrHL4i&ust=1750174991662000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCGjYek9o0DFQAAAAAdAAAAABAE",
             ),
           ),
-          title: Text("Butter"),
+          title: Text(widget.ingredient.name),
 
           trailing: Icon(
             isAdded ? Icons.check_circle : Icons.add_circle_outline,
@@ -39,7 +88,7 @@ class _IngredientCardState extends State<IngredientCard> {
     );
   }
 }
-
+ */
 
 
 

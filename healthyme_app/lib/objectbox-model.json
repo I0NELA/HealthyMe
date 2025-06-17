@@ -24,7 +24,7 @@
     },
     {
       "id": "2:4176517391390478111",
-      "lastPropertyId": "3:6509722974170491555",
+      "lastPropertyId": "4:3240625911498871733",
       "name": "Ingredient",
       "properties": [
         {
@@ -39,8 +39,8 @@
           "type": 9
         },
         {
-          "id": "3:6509722974170491555",
-          "name": "imageUrl",
+          "id": "4:3240625911498871733",
+          "name": "macro",
           "type": 9
         }
       ],
@@ -55,7 +55,9 @@
   "modelVersionParserMinimum": 5,
   "retiredEntityUids": [],
   "retiredIndexUids": [],
-  "retiredPropertyUids": [],
+  "retiredPropertyUids": [
+    6509722974170491555
+  ],
   "retiredRelationUids": [],
   "version": 1
 }

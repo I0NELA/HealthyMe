@@ -1,18 +1,22 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
+import 'package:healthyme_app/main.dart';
+import 'package:healthyme_app/models/ingredient.dart';
 import 'package:healthyme_app/views/MacroViews/carbs_view.dart';
 import 'package:healthyme_app/views/recipe_detail_view.dart';
 
 class HomeScreen extends StatefulWidget {
-  const HomeScreen({super.key});
+  //const HomeScreen({super.key});
 
   @override
-  State<HomeScreen> createState() => _HomeScreenState();
+  _HomeScreenState createState() => _HomeScreenState();
 }
 
 class _HomeScreenState extends State<HomeScreen> {
   @override
+  List<Ingredient> selectedCarbs = [];
+
   Widget build(BuildContext context) {
     return CupertinoTabScaffold(
       tabBar: CupertinoTabBar(
@@ -63,7 +67,10 @@ class _HomeScreenState extends State<HomeScreen> {
                                         event is FlTapUpEvent) {
                                       Navigator.of(context).push(
                                         CupertinoPageRoute(
-                                          builder: (context) => CarbsView(),
+                                          builder: (context) => CarbsView(
+                                            carbs: objectBox.getCarbs(),
+                                            initiallySelected: selectedCarbs,
+                                          ),
                                         ),
                                       );
                                     }
