@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:healthyme_app/views/homescreen_view.dart';
 import 'package:healthyme_app/widgets/ingredient_card.dart';
 
+
 class CarbsView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -72,7 +73,7 @@ class CarbsView extends StatelessWidget {
                 onPressed: () {
                   Navigator.push(
                     context,
-                    CupertinoPageRoute(builder: (_) => HomeScreenView()),
+                    CupertinoPageRoute(builder: (_) => HomeScreen()),
                   );
                 },
                 color: CupertinoColors.activeBlue, // Optional background color

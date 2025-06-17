@@ -3,6 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:healthyme_app/objectbox_store.dart';
 import 'package:healthyme_app/views/homescreen_view.dart';
+import 'package:healthyme_app/views/homescreen_view.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
@@ -16,8 +17,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoApp(
+       theme: CupertinoThemeData(
+        primaryColor: Color.fromARGB(255, 145, 199, 136),
+      ),
       title: 'My Flutter App', // <-- This is the app title
-      home: HomeScreenView(),
+      home: HomeScreen(),
     );
   }
 }
