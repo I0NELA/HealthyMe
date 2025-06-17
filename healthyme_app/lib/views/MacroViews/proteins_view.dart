@@ -8,11 +8,13 @@ class ProteinsView extends StatefulWidget {
   final List<Ingredient> proteins;
   //final Set<int> selectedIds;
   final List<Ingredient> initiallySelected;
+  final String previousPageTitle;
 
   const ProteinsView({
     required this.proteins,
     //required this.selectedIds,
     required this.initiallySelected,
+    required this.previousPageTitle,
   });
 
   @override
@@ -55,7 +57,10 @@ class _ProteinsViewState extends State<ProteinsView> {
         children: [
           CustomScrollView(
             slivers: [
-              const CupertinoSliverNavigationBar(largeTitle: Text('proteins')),
+              CupertinoSliverNavigationBar(
+  largeTitle: const Text('Proteins'),
+  previousPageTitle: widget.previousPageTitle,
+),
               SliverToBoxAdapter(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(

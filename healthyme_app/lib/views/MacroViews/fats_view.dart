@@ -8,11 +8,13 @@ class FatsView extends StatefulWidget {
   final List<Ingredient> fats;
   //final Set<int> selectedIds;
   final List<Ingredient> initiallySelected;
+  final String previousPageTitle;
 
   const FatsView({
     required this.fats,
     //required this.selectedIds,
     required this.initiallySelected,
+    required this.previousPageTitle,
   });
 
   @override
@@ -55,7 +57,10 @@ class _FatsViewState extends State<FatsView> {
         children: [
           CustomScrollView(
             slivers: [
-              const CupertinoSliverNavigationBar(largeTitle: Text('fats')),
+              CupertinoSliverNavigationBar(
+                largeTitle: const Text('Fats'),
+                previousPageTitle: widget.previousPageTitle,
+              ),
               SliverToBoxAdapter(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(

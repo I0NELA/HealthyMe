@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       theme: CupertinoThemeData(
         primaryColor: Color.fromARGB(255, 145, 199, 136),
       ),
-      title: 'My Flutter App', // <-- This is the app title
+      title: 'My Flutter App', 
       home: HomeScreen(),
     );
   }
