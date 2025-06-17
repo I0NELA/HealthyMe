@@ -1,0 +1,3456 @@
+nutrition_simplified
+name,protein,fat,carbs,Macro
+margarine with yoghurt,0.06,9.8,0.07,fat
+sunflower seed butter,2.8,8.8,3.7,fat
+hazelnut oil,0.0,13.6,0.0,fat
+menhaden fish oil,0.0,218.0,0.0,fat
+cod liver fish oil,0.0,13.6,0.0,fat
+sardine oil,0.0,13.6,0.0,fat
+cupu assu oil,0.0,13.6,0.0,fat
+lard,0.0,12.8,0.0,fat
+sesame butter,2.9,8.1,3.8,fat
+margarine spread,0.08,6.7,0.1,fat
+lard vegetable oil,0.0,12.8,0.0,fat
+shortening,0.0,12.8,0.0,fat
+vegetable oil spread,0.01,8.4,0.1,fat
+cottonseed oil,0.0,13.6,0.0,fat
+vegetable oil spread fat free,0.2,0.5,0.4,fat
+soy margarine,0.0,9.9,0.0,fat
+margarine with salt,0.03,11.3,0.02,fat
+margarine,0.04,11.5,0.02,fat
+salmon fish oil,0.0,13.6,0.0,fat
+nutmeg butter oil,0.0,218.0,0.0,fat
+almond butter,3.4,8.9,3.0,fat
+sour cream shoprite,0.0,5.0,1.0,fat
+ucuhuba butter oil,0.0,13.6,0.0,fat
+chicken fat,0.0,12.8,0.0,fat
+herring fish oil,0.0,13.6,0.0,fat
+bacon grease,0.0,4.3,0.0,fat
+turkey fat,0.0,5.0,0.0,fat
+beef tallow,0.0,12.8,0.0,fat
+goose fat,0.0,5.0,0.0,fat
+duck fat,0.0,5.0,0.0,fat
+mutton tallow,0.0,5.0,0.0,fat
+grapeseed oil,0.0,13.6,0.0,fat
+sheanut oil,0.0,218.0,0.0,fat
+almond oil,0.0,13.6,0.0,fat
+sunflower oil,0.0,13.6,0.0,fat
+cashew butter,2.8,7.9,4.4,fat
+canola oil,0.0,14.0,0.0,fat
+babassu oil,0.0,218.0,0.0,fat
+teaseed oil,0.0,13.6,0.0,fat
+avocado oil,0.0,14.0,0.0,fat
+vegetable palm kernel oil,0.0,13.6,0.0,fat
+coconut oil,0.0,13.6,0.0,fat
+safflower oil,0.0,13.6,0.0,fat
+vegetable oil,0.0,13.6,0.0,fat
+apricot kernel oil,0.0,4.5,0.0,fat
+peanut oil,0.0,13.5,0.0,fat
+poppyseed oil,0.0,13.6,0.0,fat
+flaxseed oil,0.09,13.6,0.0,fat
+tomatoseed oil,0.0,218.0,0.0,fat
+wheat germ oil,0.0,13.6,0.0,fat
+sesame oil,0.0,4.5,0.0,fat
+corn granola oil,0.0,14.0,0.0,fat
+cocoa butter oil,0.0,13.6,0.0,fat
+olive oil,0.0,13.5,0.0,fat
+palm kernel oil,0.0,4.5,0.0,fat
+mustard oil,0.0,14.0,0.0,fat
+rice bran oil,0.0,13.6,0.0,fat
+vegetable macaroni dry,11.0,0.9,62.9,carbs
+chow mein noodles,5.9,9.9,37.5,carbs
+chinese noodles,0.2,0.09,111.9,carbs
+vegetable macaroni cooked,6.1,0.1,35.7,carbs
+corn pasta dry,7.8,2.2,83.2,carbs
+egg noodles dry,5.4,1.7,27.1,carbs
+whole wheat spaghetti dry,4.1,0.4,21.2,carbs
+japanese soba noodles dry,4.1,0.2,21.1,carbs
+rice noodles dry,1.0,0.2,23.6,carbs
+spinach spaghetti dry,3.8,0.4,21.2,carbs
+egg noodles cooked,3.6,1.7,20.1,carbs
+japanese somen noodles cooked,7.0,0.3,48.5,carbs
+whole wheat macaroni dry,15.4,1.5,78.8,carbs
+pasta marinara and ground beef sauce,2.5,1.6,4.1,carbs
+macaroni raw,13.7,1.6,78.4,carbs
+spaghetti dry,3.7,0.4,21.1,carbs
+fusilli cucina,0.0,0.4,3.4,carbs
+japanese somen noodles dry,3.2,0.2,21.0,carbs
+pasta cooked,11.8,2.4,57.3,carbs
+macaroni cooked,8.1,1.3,43.2,carbs
+spinach egg noodles dry,5.6,1.7,26.7,carbs
+japanese soba noodles cooked,5.8,0.1,24.4,carbs
+rice noodles cooked,3.2,0.4,42.3,carbs
+whole wheat macaroni cooked,7.5,0.8,37.2,carbs
+spaghetti cooked,13.3,2.1,71.0,carbs
+whole wheat spaghetti cooked,7.5,0.8,37.2,carbs
+waffle,5.9,10.6,24.7,carbs
+baked taco shell,0.8,2.7,8.3,carbs
+puff pastry,18.1,94.3,112.0,carbs
+blueberry muffin,2.6,9.2,30.2,carbs
+bread crumbs,14.4,5.7,77.7,carbs
+warm cinnamon roll mcdonalds,2.0,5.1,15.0,carbs
+corn muffin,3.9,5.5,33.7,carbs
+tortilla,14.3,1.9,98.4,carbs
+croutons seasoned,4.3,7.3,25.4,carbs
+buttermilk waffle,2.4,3.1,16.0,carbs
+flour tortilla,3.9,3.7,24.1,carbs
+glazed donut,0.8,3.0,6.2,carbs
+corn tortilla,1.4,0.7,10.7,carbs
+muffin,3.9,6.5,23.6,carbs
+croutons,1.0,0.5,5.9,carbs
+donut with jelly filling,5.0,15.9,33.2,carbs
+sweet cinnamon rolls,5.1,13.6,42.2,carbs
+oat bran muffin,1.2,1.3,8.2,carbs
+french cruller donut,1.3,7.5,24.4,carbs
+pancakes,2.4,3.7,10.8,carbs
+chocolate donut,2.7,11.9,34.4,carbs
+sweet cheese rolls,4.7,12.1,28.8,carbs
+eclair,4.4,19.2,11.2,fat
+donut with cream filling,5.4,20.8,25.5,carbs
+fruit toaster pastry,2.4,5.6,37.1,carbs
+donut,2.3,10.3,22.9,carbs
+pancakes whole wheat,3.7,2.9,12.9,carbs
+keikitos,2.9,10.6,22.3,carbs
+zwieback,0.7,0.7,5.2,carbs
+chocolate coated donut,0.9,4.5,9.2,carbs
+waffle toasted,2.4,3.2,16.3,carbs
+cinnamon toaster pastry,2.6,7.1,34.1,carbs
+wheat bran bread,3.2,1.2,17.2,carbs
+white bread,2.6,1.0,14.3,carbs
+oat bran bread,3.1,1.3,11.9,carbs
+whole wheat bread natures own,0.0,1.0,0.0,fat
+high protein bread dr zaks,0.0,3.0,15.3,carbs
+wheat bread,3.1,1.3,13.8,carbs
+egg bread toasted,3.9,2.4,19.5,carbs
+butter toastbrot ja,0.0,0.9,2.0,carbs
+vienna bread toasted,3.8,0.6,18.0,carbs
+vienna bread,3.8,0.6,18.1,carbs
+protein bread,2.3,0.4,8.3,carbs
+banana bread,2.5,6.0,31.1,carbs
+rice bran bread,2.4,1.2,11.7,carbs
+white fibre wonder bread,3.5,1.0,18.0,carbs
+focaccia,5.0,4.5,20.4,carbs
+oat bran bread toasted,3.1,1.3,11.8,carbs
+rye bread,2.7,1.1,15.5,carbs
+wheat germ bread,2.7,0.8,13.5,carbs
+protein bread toasted,2.2,0.4,8.2,carbs
+oatmeal bread,2.3,1.2,13.1,carbs
+arepa,5.4,5.3,36.4,carbs
+raisin bread toasted,2.5,1.4,16.5,carbs
+cracked wheat bread,2.5,1.1,14.0,carbs
+garlic bread,3.6,7.1,17.9,carbs
+rye bread toasted,2.7,1.0,15.4,carbs
+whole wheat bread,3.9,2.5,23.6,carbs
+whole wheat bread toasted,3.9,2.5,23.7,carbs
+pan dulce bread,5.9,7.3,35.5,carbs
+rice bran bread toasted,2.4,1.3,11.8,carbs
+pita bread whole wheat,2.7,0.7,15.4,carbs
+wheat germ bread toasted,2.7,0.8,13.6,carbs
+pumpernickel bread,2.3,0.8,12.4,carbs
+frybread,10.2,18.6,73.4,carbs
+white bread toasted,2.5,1.1,15.4,carbs
+piki bread,2.5,2.0,20.2,carbs
+wheat bread toasted,3.1,1.0,13.4,carbs
+pita bread,5.5,0.7,33.4,carbs
+potato bread,4.0,1.0,15.1,carbs
+egg bread,3.8,2.4,19.1,carbs
+oatmeal bread toasted,2.3,1.2,13.2,carbs
+cheese bread,5.0,10.0,21.5,carbs
+pumpernickel bread toasted,2.8,1.0,15.1,carbs
+raisin bread,2.5,1.4,16.7,carbs
+pumpernickel roll,3.0,0.8,14.8,carbs
+cinnamon raisin bagel,2.5,0.4,14.4,carbs
+english muffin,5.0,1.1,25.5,carbs
+rye dinner roll,4.4,1.5,22.8,carbs
+english muffin whole wheat,5.8,1.4,26.7,carbs
+dinner roll whole wheat,2.4,1.3,14.3,carbs
+dinner roll,2.4,1.8,12.9,carbs
+hotdog roll,4.1,1.6,21.1,carbs
+bagel,10.0,1.5,47.9,carbs
+oat bran bagel,7.4,0.8,36.8,carbs
+pain au chocolat de la boulangerie,0.0,12.0,0.0,fat
+egg bagel,2.8,0.5,13.8,carbs
+english muffin toasted,5.4,1.1,27.4,carbs
+english muffin whole wheat toasted,5.9,1.4,26.9,carbs
+biscuit,7.1,16.5,45.0,carbs
+french roll,3.3,1.6,19.1,carbs
+oat bran dinner roll,3.1,1.5,13.3,carbs
+pecan shortbread cookies,0.7,4.6,8.2,carbs
+oatmeal cookies,1.6,4.5,17.2,carbs
+chocolate wafers,7.4,15.9,81.1,carbs
+vanilla wafers low fat,4.0,12.2,58.9,carbs
+chocolate chip cookies mcdonalds,1.6,6.4,18.7,carbs
+gingersnap cookies,0.4,0.7,5.4,carbs
+biscotti abbracci mulino bianco,0.4,2.6,0.8,fat
+chocolate chip cookie,0.5,2.8,9.3,carbs
+brownie,2.9,9.8,38.3,carbs
+shortbread cookies,0.5,1.9,5.2,carbs
+oatmeal cookies with raisins,1.0,2.4,10.3,carbs
+peanut butter sandwich cookies,1.2,3.0,9.2,carbs
+sugar cookies,0.8,3.2,10.2,carbs
+chocolate covered graham crackers,0.8,3.2,9.3,carbs
+raisin cookies,0.6,2.0,10.2,carbs
+vanilla wafers,0.3,1.2,4.3,carbs
+graham crackers,5.8,8.5,64.5,carbs
+peanut butter cookies,1.8,4.8,11.8,carbs
+vanilla sandwich cookie,0.7,3.0,10.8,carbs
+sugar wafers with creme filling,0.4,2.3,7.1,carbs
+cheese puffs,2.1,12.8,18.6,carbs
+saltine crackers,0.3,0.3,2.2,carbs
+trail mix,4.1,8.8,13.5,carbs
+corn cones,1.6,7.6,17.8,carbs
+chocolate pretzels,0.8,1.8,7.8,carbs
+french toast sticks,1.3,3.8,8.9,carbs
+crackers,1.1,4.2,9.8,carbs
+sesame sticks,1.1,3.7,4.7,carbs
+cheese crackers,0.8,1.6,4.2,carbs
+oriental rice cracker mix,4.9,7.2,14.6,carbs
+breadsticks,3.0,2.4,17.1,carbs
+milk crackers,0.8,1.7,7.7,carbs
+matzo crackers whole wheat,3.7,0.4,22.1,carbs
+matzo crackers with egg,3.4,0.6,22.0,carbs
+granola bites,0.4,0.9,3.3,carbs
+crackers whole wheat,3.0,4.0,19.5,carbs
+tropical trail mix,8.8,23.9,91.8,carbs
+soft pretzels,9.4,3.6,79.8,carbs
+corn tostada shell,0.8,2.9,7.9,carbs
+matzo crackers,2.8,0.4,23.4,carbs
+sesame crunch,0.2,0.6,0.9,carbs
+trail mix with chocolate chips,20.7,46.6,65.6,carbs
+cracker meal,10.7,2.0,93.0,carbs
+puffed rice,2.4,0.2,34.1,carbs
+filinchen gutena,0.4,0.2,0.5,carbs
+melba toast crackers,3.6,1.0,23.0,carbs
+matzo crackers with egg onion,2.8,1.1,21.6,carbs
+cornnuts,2.4,4.4,20.3,carbs
+bagel chips,21.6,26.5,116.1,carbs
+pretzels,3.0,0.9,24.1,carbs
+potato raw,4.3,0.2,37.2,carbs
+gatto di patate home made,0.0,9.4,4.0,fat
+baked potato,4.3,0.2,36.6,carbs
+potato sticks,2.4,12.4,19.2,carbs
+potato cooked,1.1,0.01,12.1,carbs
+vivaldi potatoes sainsburys,0.0,0.1,0.0,fat
+potato ham chowder soup,6.5,12.5,13.4,carbs
+russet potato raw,7.9,0.3,66.7,carbs
+russet potato baked,7.9,0.4,64.1,carbs
+french fries,0.2,0.4,2.2,carbs
+potato scalloped,7.0,9.0,26.4,carbs
+cottage fries,0.2,0.4,1.9,carbs
+mashed potatoes,4.0,6.8,35.5,carbs
+mashed potato with milk and butter,3.9,8.9,35.3,carbs
+red potato raw,4.0,0.3,33.9,carbs
+potato pancake,1.3,3.2,6.1,carbs
+potato puffs,2.6,11.0,35.5,carbs
+red potato baked,2.0,0.1,16.7,carbs
+potatoes canned,3.6,0.3,29.7,carbs
+potato skin raw,1.0,0.1,4.7,carbs
+shoestring french fries,0.1,0.1,0.7,carbs
+hash brown potato,1.4,9.0,15.3,carbs
+baked chips lays,0.0,2.0,0.0,fat
+corn chips,1.9,10.0,17.2,carbs
+nacho cheese tortilla chips low fat,2.4,1.0,18.5,carbs
+corn chips barbecue,13.9,64.7,111.3,carbs
+corn chips unsalted,5.8,29.4,50.5,carbs
+potato chips fat free,21.9,1.4,190.1,carbs
+sweet chilli kettle baked chips,2.0,2.2,2.1,fat
+taro chips,0.05,0.6,1.6,carbs
+potato chips reduced fat,12.1,35.4,113.7,carbs
+onion snacks,2.3,6.8,19.5,carbs
+potato chips cheese,14.5,46.2,98.1,carbs
+yuca cassava chips,0.05,0.4,1.2,carbs
+tortilla chips low fat,3.1,1.6,22.6,carbs
+ranch flavor tortilla chips,14.2,48.8,124.2,carbs
+potato chips,2.1,10.4,15.9,carbs
+tortilla chips,2.1,6.2,20.3,carbs
+sweet potato chips,0.8,9.1,15.9,carbs
+nacho cheese tortilla chips,2.2,8.2,18.2,carbs
+vegetable chips,1.5,6.6,17.1,carbs
+taco flavor tortilla chips,17.9,54.9,143.2,carbs
+potato chips barbecue,15.2,64.2,104.5,carbs
+pita chips,3.5,4.6,20.5,carbs
+potato chips sour cream and onion,16.0,67.1,102.0,carbs
+adobo fresco,5.8,60.2,53.6,fat
+chili pepper sauce red,0.1,0.09,0.6,carbs
+creamy ranch sauce mcdonalds,0.3,14.7,1.0,fat
+catsup,0.2,0.07,4.5,carbs
+chili pepper sauce green,0.1,0.03,0.8,carbs
+red wine vinegar,0.06,0.0,0.01,protein
+fish sauce,0.9,0.01,0.7,protein
+coleslaw dressing reduced fat,0.0,3.4,6.8,carbs
+sour dressing,0.4,2.0,0.6,fat
+guava sauce cooked,0.8,0.3,22.6,carbs
+pizza sauce,5.5,2.9,21.8,carbs
+sweetn sour sauce mcdonalds,0.2,0.3,11.0,carbs
+nance syrup,0.03,0.0,0.8,carbs
+french dressing reduced fat,0.07,2.2,4.7,carbs
+peppercorn dressing,0.2,8.2,0.5,fat
+sorghum syrup,0.0,0.0,15.7,carbs
+ranch dressing fat free,0.04,0.3,3.7,carbs
+caesar dressing low calorie,0.03,0.7,2.8,carbs
+sweet sour dressing,0.08,0.0,0.6,carbs
+mayonnaise imitation fat free,0.04,0.4,2.5,carbs
+sofrito,26.4,37.5,11.2,fat
+turkey gravy instant,0.8,1.0,3.9,carbs
+teriyaki sauce,1.1,0.02,2.8,carbs
+tomato sauce,2.9,0.7,13.0,carbs
+barbecue sauce kraft,0.1,0.05,6.5,carbs
+cranberry sauce sweetened,0.6,0.4,107.8,carbs
+coleslaw dressing,0.1,5.3,3.8,fat
+onion gravy dry,2.2,0.7,16.2,carbs
+corn syrup light,0.0,0.09,16.9,carbs
+bacon tomato dressing,0.3,5.3,0.3,fat
+pancake syrup,0.0,0.08,13.9,carbs
+balsamic vinegar,0.04,0.0,2.7,carbs
+ranch dressing reduced fat,0.2,1.9,3.2,carbs
+barbecue sauce mcdonalds,0.4,0.3,10.3,carbs
+vinegar oil dressing,0.0,8.0,0.4,fat
+poppyseed dressing,0.2,5.5,4.0,fat
+honey mustard dressing,0.1,6.1,3.5,fat
+french dressing fat free,0.01,0.02,5.1,carbs
+vinegar,0.0,0.0,0.09,carbs
+spray dressing,0.07,0.9,1.3,carbs
+honey mustard dressing fat free,0.2,0.2,5.8,carbs
+mushroom gravy,3.0,6.4,13.0,carbs
+white sauce,9.6,26.6,22.9,fat
+marinara pasta sauce,3.7,3.9,19.9,carbs
+tomato sauce with mushrooms,3.6,0.3,20.7,carbs
+pork gravy powder,0.6,0.6,4.3,carbs
+beef gravy,8.7,5.5,11.2,carbs
+green goddess dressing,0.3,6.5,1.1,fat
+salsa con queso,7.9,23.8,27.9,carbs
+cocktail sauce,0.2,0.2,4.2,carbs
+worcestershire sauce,0.0,0.0,3.3,carbs
+barbecue sauce,0.1,0.1,6.9,carbs
+tomato sauce with onions,3.8,0.5,24.4,carbs
+brown gravy dry,0.6,0.6,3.6,carbs
+blue cheese dressing light,0.3,0.4,2.1,carbs
+spanish tomato sauce,3.5,0.7,17.7,carbs
+oyster sauce,0.2,0.07,2.0,carbs
+cheese sauce,1.5,2.2,0.8,fat
+hoisin sauce,0.5,0.5,7.1,carbs
+pickle relish,0.1,0.06,5.3,carbs
+tomato sauce with herbs cheese,5.2,4.7,25.0,carbs
+french dressing,0.1,7.2,2.5,fat
+mayonnaise hellmanns,0.0,1.7,0.09,fat
+canadian maple syrup,0.0,0.0,19.1,carbs
+maple syrup,0.09,0.05,13.4,carbs
+barbecue sauce bulls eye,0.1,0.1,6.4,carbs
+ranch dressing,0.2,6.7,0.9,fat
+tomato ketchup mp,0.0,0.0,0.2,carbs
+mayonnaise light,0.03,3.3,1.4,fat
+mayonnaise dressing,0.0,11.7,0.07,fat
+malt syrup,1.3,0.0,15.0,carbs
+gravy dry,3.3,2.0,14.5,carbs
+cranberry orange relish,0.8,0.3,127.1,carbs
+caesar dressing,0.3,8.5,0.5,fat
+italian dressing,0.03,3.1,1.8,fat
+brown gravy instant,0.6,0.8,4.0,carbs
+roquefort cheese dressing,0.8,1.1,0.4,fat
+blue cheese dressing,0.2,7.7,0.7,fat
+duck sauce,0.1,0.06,19.7,carbs
+au jus,2.8,0.5,5.9,carbs
+corn syrup dark,0.0,0.0,15.5,carbs
+buttermilk dressing light,0.2,1.9,3.2,carbs
+cider vinegar,0.0,0.0,0.1,carbs
+tartar sauce,0.2,2.5,2.0,fat
+pepper hot sauce,0.02,0.02,0.03,carbs
+tomato chili sauce,0.2,0.1,1.2,carbs
+turkey gravy dry,0.7,0.5,4.6,carbs
+salsa sauce,0.3,0.04,1.2,carbs
+steak sauce,0.2,0.0,3.7,carbs
+molasses,0.0,0.07,14.9,carbs
+italian dressing fat free,0.1,0.1,1.2,carbs
+plum sauce,0.2,0.2,8.1,carbs
+chow mein stir fry master foods,0.0,0.2,0.0,fat
+beef gravy instant,0.7,0.6,4.1,carbs
+horseradish,0.0,0.08,0.6,carbs
+grenadine,0.0,0.0,13.4,carbs
+tabasco sauce,0.04,0.0,0.01,protein
+sweet sour sauce,0.02,0.08,6.7,carbs
+salsa verde,0.2,0.1,1.0,carbs
+miso,2.6,1.2,5.1,carbs
+sprouted soybean cooked,8.0,4.2,6.1,protein
+soy flour roasted,29.6,18.6,28.6,protein
+soy flour low fat,40.0,7.8,30.7,protein
+green soybean cooked,11.1,5.8,9.9,protein
+azumaya tofu vitasoy,32.8,16.6,9.1,protein
+soy proteins isolate,22.8,1.0,2.1,protein
+tofu yogurt,9.2,4.7,41.8,carbs
+bacon meatless,15.4,42.5,9.1,fat
+meatless chicken fried,27.7,16.6,11.1,protein
+soymilk,7.1,4.8,8.4,carbs
+soy vermicelli,0.1,0.1,115.2,carbs
+tofu fried,2.4,2.6,1.2,fat
+tempeh,30.8,17.9,15.6,protein
+koyadofu,8.9,5.2,1.7,protein
+meatless meatloaf,11.8,5.0,4.5,protein
+soya vanille joghurt alpro,0.3,0.6,1.0,carbs
+soybean curd cheese,28.1,18.2,15.5,protein
+soy sauce,1.3,0.05,0.8,protein
+soybean dry roasted,36.8,20.1,30.4,protein
+soybean oil,0.0,13.6,0.0,fat
+meatless chicken,39.7,21.4,6.1,protein
+soybean cooked,28.6,15.4,17.1,protein
+soymilk nonfat,6.0,0.05,10.1,carbs
+soy flour,1.8,1.1,1.8,protein
+soybean lecithin oil,0.0,13.6,0.0,fat
+tofu raw,20.0,11.9,4.7,protein
+soy chips,7.5,2.1,15.0,carbs
+green soybean raw,33.2,17.4,28.3,protein
+soy proteins concentrate,18.0,0.1,7.2,protein
+soybean margarine,0.05,3.8,0.04,fat
+chocolate soymilk nonfat,6.0,0.05,20.7,carbs
+okara,3.9,2.1,15.3,carbs
+meatless meatballs,30.2,13.0,11.5,protein
+vanilla soymilk,7.9,4.3,15.3,carbs
+soy meal raw,54.8,2.9,49.0,protein
+soymilk low fat,4.0,1.5,17.5,carbs
+sprouted soybean raw,9.2,4.7,6.7,protein
+soybean raw,67.9,37.1,56.1,protein
+tempeh cooked,5.1,3.2,2.6,protein
+vanilla soymilk light,6.4,2.1,9.4,carbs
+chocolate soymilk,5.5,3.7,24.2,carbs
+soy oil,0.0,13.6,0.0,fat
+natto,14.2,8.8,11.5,protein
+chrysanthemum raw,1.7,0.3,1.5,protein
+gourd cooked,1.2,0.6,25.5,carbs
+cauliflower raw,0.2,0.08,0.6,carbs
+red cabbage raw,2.4,0.3,12.5,carbs
+broccoli raab raw,1.3,0.2,1.1,protein
+napa cabbage cooked,1.2,0.2,2.4,carbs
+kelp,0.07,0.07,0.5,carbs
+shallots raw,0.6,0.06,4.2,carbs
+bamboo shoots raw,4.7,0.5,9.4,carbs
+jute cooked,3.2,0.2,6.3,carbs
+red lettuce,0.4,0.08,0.6,carbs
+broccoli cooked,6.7,1.1,20.1,carbs
+romanesco raw,1.9,0.2,3.9,carbs
+eggplant raw,4.5,0.8,26.9,carbs
+leeks raw,1.3,0.3,12.6,carbs
+lemongrass citronella,0.04,0.08,1.2,carbs
+pumpkin cooked,1.8,0.2,12.0,carbs
+celery cooked,0.3,0.1,1.5,carbs
+serrano pepper,0.1,0.08,0.4,carbs
+nopales raw,1.1,0.06,2.9,carbs
+sweet potato leaves cooked,1.4,0.2,4.7,carbs
+eggplant cooked,0.8,0.2,8.1,carbs
+asparagus cooked,0.4,0.07,0.6,carbs
+rutabaga cooked,2.2,0.4,16.4,carbs
+parsnips raw,2.0,0.5,30.6,carbs
+sour pickles,0.5,0.3,3.5,carbs
+turnip greens cooked,1.6,0.3,6.3,carbs
+jerusalem artichokes,3.0,0.05,26.2,carbs
+collard raw,1.1,0.2,2.0,carbs
+chrysanthemum cooked,1.6,0.04,4.3,carbs
+oriental radish dried,9.2,0.8,73.5,carbs
+tomatillos,1.3,1.3,7.7,carbs
+taro shoots raw,0.8,0.07,2.0,carbs
+acorn squash raw,3.4,0.4,44.9,carbs
+leeks dried,0.5,0.03,2.4,carbs
+cabbage raw,3.6,0.3,16.2,carbs
+sweet red peppers cooked,0.7,0.1,4.5,carbs
+sweet red peppers raw,1.5,0.4,9.0,carbs
+cucumber peeled,0.8,0.2,2.9,carbs
+purslane raw,0.9,0.2,1.5,carbs
+peas onions cooked,4.6,0.4,15.5,carbs
+tomato cooked,1.2,0.1,4.9,carbs
+taro shoots cooked,1.0,0.1,4.5,carbs
+scots kale raw,1.9,0.4,5.6,carbs
+artichoke raw,4.2,0.2,13.5,carbs
+navy bean sprouts raw,6.4,0.7,13.6,carbs
+sweet pickles,0.9,0.7,33.8,carbs
+oriental radish cooked,1.0,0.4,5.0,carbs
+sweet potato leaves raw,0.9,0.2,3.1,carbs
+irishmoss,0.04,0.05,0.6,carbs
+drumstick leaves cooked,2.2,0.4,4.7,carbs
+winter squash raw,1.1,0.2,10.0,carbs
+pumpkin raw,1.2,0.1,7.5,carbs
+chicory greens,0.5,0.1,1.4,carbs
+spinach cooked,5.3,0.5,6.8,carbs
+radish pickled,1.7,0.5,7.8,carbs
+sweet onion,2.6,0.3,25.0,carbs
+salsify cooked,3.7,0.2,20.7,carbs
+radish seeds sprouted,1.4,1.0,1.4,protein
+turnips raw,1.6,0.2,11.8,carbs
+burdock root raw,1.8,0.2,20.5,carbs
+red cabbage cooked,2.6,0.2,11.8,carbs
+jute raw,1.3,0.05,1.6,carbs
+hot chile pepper dried,0.05,0.05,0.3,carbs
+salsify raw,4.4,0.3,24.7,carbs
+crookneck squash raw,1.3,0.3,4.9,carbs
+indian squash cooked,0.7,0.4,7.6,carbs
+poi,0.9,0.3,65.4,carbs
+sesbania flower cooked,1.2,0.01,5.3,carbs
+acorn squash cooked,2.3,0.3,29.9,carbs
+cauliflower cooked,2.3,0.6,5.1,carbs
+crookneck squash cooked,1.9,0.7,6.8,carbs
+laver seaweed,0.2,0.01,0.1,protein
+mountain yam cooked,2.5,0.1,29.0,carbs
+pumpkin flowers raw,0.3,0.08,1.1,carbs
+mustard greens raw,1.6,0.2,2.6,carbs
+arrowhead,0.6,0.08,2.4,carbs
+japanese cabbage,2.4,0.2,8.5,carbs
+mung bean sprouts cooked,2.5,0.1,4.5,carbs
+scallop squash cooked,1.9,0.3,5.9,carbs
+pumpkin leaves cooked,1.9,0.2,2.4,carbs
+hungarian pepper,0.2,0.1,1.8,carbs
+sweet potato baked,2.3,0.2,23.6,carbs
+chinese cabbage pe tsai raw,0.9,0.2,2.5,carbs
+taro raw,1.6,0.2,27.5,carbs
+yam bean jicama,0.9,0.1,11.5,carbs
+olives,0.09,0.9,0.5,fat
+mustard greens cooked,3.6,0.7,6.3,carbs
+pumpkin flowers cooked,1.5,0.1,4.4,carbs
+tree fern cooked,0.4,0.1,15.3,carbs
+yellow corn raw,15.6,7.9,123.3,carbs
+endive,0.6,0.1,1.7,carbs
+wakame,2.4,0.5,7.3,carbs
+tahitian taro raw,3.5,1.2,8.6,carbs
+broccoli raw,2.6,0.3,6.0,carbs
+sweet green peppers raw,1.3,0.3,6.9,carbs
+chinese cabbage pak choi cooked,2.7,0.3,3.0,carbs
+agar,0.05,0.06,0.3,carbs
+watercress,0.8,0.01,0.4,protein
+beet greens cooked,3.7,0.3,7.9,carbs
+winter squash cooked,1.8,0.7,18.1,carbs
+new zealand spinach raw,0.8,0.1,1.4,carbs
+okra,0.2,0.08,0.9,carbs
+yautia tannier,2.0,0.5,31.9,carbs
+mustard spinach cooked,3.1,0.4,5.0,carbs
+rhubarb cooked,0.9,0.1,74.9,carbs
+beets raw,2.2,0.2,13.0,carbs
+drumstick pods raw,2.1,0.2,8.5,carbs
+baby zucchini,0.3,0.09,0.3,protein
+onion raw,0.4,0.05,3.7,carbs
+romanesco cooked,3.7,0.4,7.7,carbs
+butternut squash raw,2.0,0.2,23.4,carbs
+amaranth leaves,0.7,0.08,1.1,carbs
+turnip greens raw,0.8,0.2,3.9,carbs
+spaghetti squash raw,0.6,0.6,7.0,carbs
+seaweed dry,3.1,0.3,9.2,carbs
+yam cooked,2.0,0.2,37.4,carbs
+corn dried,4.1,3.0,18.8,carbs
+cucumber,1.0,0.2,5.4,carbs
+arrowroot,5.1,0.2,16.1,carbs
+cardoon raw,1.2,0.2,7.2,carbs
+bamboo shoots cooked,1.8,0.3,2.3,carbs
+summer squash raw,3.1,0.5,8.7,carbs
+sweet potato raw,2.0,0.0,26.2,carbs
+green tomato,2.2,0.4,9.3,carbs
+beet greens raw,0.8,0.08,1.6,carbs
+savoy cabbage cooked,3.1,0.2,9.2,carbs
+witloof chicory,0.5,0.03,2.1,carbs
+turnips cooked,1.1,0.1,7.9,carbs
+dried tomatoes,0.3,0.05,1.1,carbs
+radicchio,0.9,0.2,2.9,carbs
+mixed vegetables cooked,5.2,0.3,23.8,carbs
+yellow tomato,2.1,0.6,6.3,carbs
+cardoon cooked,0.9,0.1,6.4,carbs
+spinach raw,0.9,0.1,1.1,carbs
+kale raw,0.6,0.3,0.9,carbs
+drumstick pods cooked,2.5,0.2,9.7,carbs
+kohlrabi raw,4.5,0.3,16.4,carbs
+lentil sprouts,6.9,0.4,17.0,carbs
+carrots raw,0.6,0.1,5.8,carbs
+red chili peppers,0.8,0.2,4.0,carbs
+fennel,2.9,0.5,17.1,carbs
+sweet corn white,2.4,0.9,13.9,carbs
+celeriac raw,2.3,0.5,14.4,carbs
+hubbard squash raw,2.3,0.6,10.1,carbs
+brussels sprouts cooked,0.5,0.1,1.5,carbs
+carrots cooked,0.3,0.09,3.8,carbs
+lambs quarters raw,0.08,0.07,0.07,protein
+lotus root cooked,0.1,0.06,1.4,carbs
+split peas raw,48.4,2.3,118.9,carbs
+scots kale cooked,2.5,0.5,7.3,carbs
+corn cooked,3.5,1.5,21.6,carbs
+radish raw,0.04,0.03,0.2,carbs
+stinging nettles,2.4,0.01,6.7,carbs
+baby carrots,0.03,0.05,1.2,carbs
+sweet yellow peppers,1.9,0.4,11.8,carbs
+taro leaves raw,1.4,0.2,1.9,carbs
+corn raw,4.7,1.9,26.7,carbs
+roselle,0.5,0.4,6.4,carbs
+drumstick leaves raw,2.0,0.3,1.7,protein
+scallop squash raw,1.6,0.3,5.0,carbs
+chicory roots,1.3,0.2,15.8,carbs
+brussels sprouts raw,0.6,0.08,1.7,carbs
+kale cooked,3.5,1.4,6.3,carbs
+pupusas con frijoles,7.0,11.4,39.7,carbs
+mustard cabbage,1.4,0.1,7.2,carbs
+gourd raw,1.1,0.2,4.1,carbs
+butternut squash cooked,1.8,0.2,21.0,carbs
+burdock root cooked,3.5,0.2,35.1,carbs
+cassava,2.8,0.6,78.4,carbs
+peas carrots cooked,4.9,0.7,16.2,carbs
+romaine lettuce,0.6,0.1,1.5,carbs
+yam raw,2.3,0.3,41.8,carbs
+chowchow pickles,3.7,2.2,65.3,carbs
+prairie turnips raw,0.3,0.03,4.5,carbs
+savoy cabbage raw,1.4,0.02,4.3,carbs
+celery raw,0.3,0.04,1.2,carbs
+celeriac cooked,1.5,0.3,9.1,carbs
+mustard spinach raw,3.3,0.5,5.9,carbs
+zucchini raw,3.1,0.8,8.1,carbs
+okra cooked,3.0,0.3,7.2,carbs
+white icicle radish,1.1,0.1,2.6,carbs
+orange tomato,1.3,0.2,3.5,carbs
+pumpkin leaves raw,1.2,0.2,0.9,protein
+spaghetti squash cooked,1.0,0.4,10.0,carbs
+white corn cooked,3.4,1.5,22.4,carbs
+artichoke cooked,3.5,0.4,14.3,carbs
+avocado,5.4,39.6,23.0,fat
+string beans wellsley farms,0.3,0.0,1.7,carbs
+lambs quarters cooked,5.8,1.3,9.0,carbs
+peas cooked,8.6,0.4,25.0,carbs
+beets cooked,0.8,0.08,5.0,carbs
+shallots dried,0.1,0.01,0.7,carbs
+green lettuce,2.0,0.2,4.3,carbs
+kohlrabi cooked,3.0,0.2,11.0,carbs
+kanpyo dried,4.6,0.3,35.1,carbs
+prairie turnips boiled,0.2,0.09,4.2,carbs
+broccoli raab cooked,3.3,0.4,2.7,protein
+summer squash cooked,2.7,1.0,9.9,carbs
+taro cooked,0.7,0.1,45.7,carbs
+spring onion scallions,0.4,0.08,1.5,carbs
+hubbard squash cooked,2.8,0.7,12.3,carbs
+jalapeno pepper,0.1,0.0,0.9,carbs
+new zealand spinach cooked,2.3,0.3,3.8,carbs
+sesbania flower raw,0.01,0.1,0.2,carbs
+spirulina dried,4.0,0.5,1.7,protein
+chinese cabbage pe tsai cooked,1.8,0.2,2.9,carbs
+zucchini cooked,2.1,0.6,4.8,carbs
+green olives pickled,0.07,0.4,0.1,fat
+lotus root raw,3.0,0.1,19.8,carbs
+grape leaves,0.8,0.3,2.4,carbs
+dill pickled cucumber,0.9,0.2,3.7,carbs
+skunk cabbage,1.5,0.1,1.8,carbs
+banana pepper,0.5,0.1,1.8,carbs
+oriental radish raw,2.0,0.3,13.9,carbs
+purslane cooked,1.7,0.2,4.1,carbs
+rhubarb raw,0.5,0.1,2.3,carbs
+swamp cabbage,2.0,0.2,3.6,carbs
+mung bean sprouts raw,0.6,0.04,1.2,carbs
+onion cooked,0.2,0.03,1.5,carbs
+swiss chard raw,0.6,0.04,1.3,carbs
+peas raw,7.9,0.6,21.0,carbs
+cabbage cooked,1.9,0.02,8.3,carbs
+taro leaves cooked,3.9,0.6,5.6,carbs
+leeks cooked,1.0,0.2,9.4,carbs
+split peas cooked,16.3,0.8,40.2,carbs
+sweet corn yellow,4.1,0.4,14.2,carbs
+asparagus raw,0.3,0.04,0.5,carbs
+collard cooked,5.1,1.4,10.7,carbs
+swiss chard cooked,3.3,0.1,7.2,carbs
+nopales cooked,2.0,0.0,4.9,carbs
+tahitian taro cooked,5.7,0.9,9.4,carbs
+chinese cabbage pak choi raw,1.1,0.1,1.5,carbs
+green chili pepper,0.9,0.1,4.3,carbs
+mountain yam raw,1.8,0.1,22.2,carbs
+parsnips cooked,2.1,0.5,27.2,carbs
+tomato stewed,2.4,3.3,16.1,carbs
+sweet green peppers cooked,0.7,0.1,4.5,carbs
+white corn raw,5.3,2.0,31.6,carbs
+rutabaga raw,8.3,1.2,66.5,carbs
+jalapeno peppers canned,1.3,1.3,6.4,carbs
+pumpkin canned,2.7,0.7,19.8,carbs
+peas onions canned,3.9,0.5,10.3,carbs
+sweet mashed potato canned,5.0,0.5,59.1,carbs
+hominy canned,2.4,1.5,23.5,carbs
+tomato puree canned,4.1,0.5,22.5,carbs
+dried tomatoes canned in oil,0.2,0.4,0.7,carbs
+mixed vegetables canned,3.5,0.6,17.5,carbs
+straw mushrooms canned,0.2,0.09,0.3,carbs
+capers canned,0.2,0.09,0.4,carbs
+red peppers canned,0.7,0.06,3.7,carbs
+carrots canned,2.6,0.6,24.4,carbs
+tomatoes in tomato juice canned,1.9,0.3,9.6,carbs
+asparagus canned,7.4,0.7,10.2,carbs
+sweet red peppers canned,1.1,0.4,5.5,carbs
+onions canned,0.5,0.08,2.5,carbs
+turnip greens canned,2.0,0.4,4.0,carbs
+hearts of palm,0.8,0.2,1.5,carbs
+spinach canned,4.9,0.9,6.8,carbs
+sweet potato canned,6.3,1.3,133.5,carbs
+corn canned,1.6,0.6,11.1,carbs
+peas carrots canned,5.5,0.7,21.6,carbs
+crookneck squash canned,1.3,0.1,6.2,carbs
+tomatoes canned,4.0,0.7,17.6,carbs
+pimento canned,2.1,0.6,9.8,carbs
+sweet green peppers canned,1.1,0.4,5.5,carbs
+peas canned,3.5,0.8,9.5,carbs
+chili peppers canned,1.0,0.4,6.4,carbs
+green peppers canned,0.7,0.07,3.7,carbs
+grape leaves canned,1.2,0.6,3.3,carbs
+sauerkraut canned,1.3,0.2,6.1,carbs
+beets canned,2.0,0.2,16.2,carbs
+stewed tomatoes canned,2.3,0.5,15.8,carbs
+tomato paste canned,11.3,1.2,49.5,carbs
+bacon ranch salad mcdonalds,28.1,20.1,19.4,protein
+caesar salad with grilled chicken mcdonalds,29.1,5.6,11.3,protein
+caesar salad mcdonalds,6.8,4.4,9.1,carbs
+vegetable salad,1.7,0.05,4.4,carbs
+vegetable salad with chicken,11.6,1.5,2.5,protein
+potato salad,6.7,20.5,27.9,carbs
+taco salad taco bell,35.7,48.9,80.5,carbs
+iceberg lettuce,0.5,0.04,1.7,carbs
+cornsalad,1.1,0.2,2.0,carbs
+potato salad with egg,4.9,23.5,40.5,carbs
+side salad mcdonalds,0.9,0.2,3.7,carbs
+caesar salad with crispy chicken mcdonalds,25.7,16.4,19.2,protein
+grape apple salad with walnuts,3.5,8.2,25.6,carbs
+vegetable salad with cheese egg,5.8,3.9,3.2,protein
+celtuce,0.07,0.09,0.3,carbs
+arugula,0.5,0.1,0.7,carbs
+vegetable salad with shrimp,9.7,1.7,4.4,protein
+coleslaw,1.8,18.9,28.4,carbs
+shiitake mushrooms cooked,0.3,0.01,2.6,carbs
+shiitake mushrooms raw,0.4,0.04,1.3,carbs
+crimini mushrooms,0.2,0.02,0.3,carbs
+mushrooms raw,2.2,0.2,2.3,carbs
+portabella mushrooms grilled,4.0,0.7,5.4,carbs
+maitake mushrooms,0.02,0.02,0.07,carbs
+shiitake mushrooms dried,0.3,0.06,2.7,carbs
+chanterelle mushrooms,0.03,0.06,0.4,carbs
+cloud ear fungus dried,2.6,0.2,20.4,carbs
+mushrooms cooked,3.4,0.7,8.3,carbs
+pepeao dried,1.2,0.1,19.4,carbs
+truffles,0.7,4.1,5.4,carbs
+jews ear,0.5,0.1,6.7,carbs
+enoki mushrooms,0.06,0.1,0.2,carbs
+morel mushrooms,0.4,0.07,0.7,carbs
+portabella mushrooms raw,1.8,0.3,3.3,carbs
+oyster mushroom,0.5,0.04,0.9,carbs
+chocolate pudding fat free,2.2,0.3,23.6,carbs
+tapioca pudding,2.1,4.3,23.9,carbs
+tapioca pudding fat free,1.6,0.4,23.9,carbs
+rice pudding,3.6,2.4,20.8,carbs
+corn pudding,11.1,12.6,42.4,carbs
+chocolate pudding,3.1,6.9,34.5,carbs
+lemon pudding,4.1,4.4,30.2,carbs
+vanilla pudding,2.2,5.7,33.9,carbs
+profeel proteiinirahka valio,175.0,0.4,19.3,protein
+cottage cheese creamed,2.2,0.9,0.7,protein
+zaziki milfina,0.0,4.4,0.0,fat
+cottage cheese low fat,28.0,2.3,6.1,protein
+cottage cheese nonfat,15.0,0.4,9.7,protein
+vanilla yogurt low fat,12.1,3.1,33.8,carbs
+classique yogurt plain 2 liberte,3.3,1.2,1.7,protein
+yoplait light strawberry yogurt yoplait,0.0,0.0,0.07,carbs
+vanilla yogurt,8.4,2.1,23.5,carbs
+chocolate yogurt,5.3,0.0,35.3,carbs
+yogurt parfait,5.0,1.5,23.6,carbs
+yogurt,5.2,4.9,7.0,carbs
+chocolate frozen yogurt,5.2,6.3,37.6,carbs
+frozen yogurt,5.2,6.3,37.6,carbs
+yogurt low fat,12.9,3.8,17.2,carbs
+vanilla yoghurt oikos,0.0,1.8,0.0,fat
+fruit yogurt,6.0,1.7,28.0,carbs
+danone low fat alsafi,0.0,1.7,0.09,fat
+fruit n yogurt parfait mcdonalds,4.1,1.9,30.9,carbs
+triple zero greek yogurt dannon oikos,0.04,0.0,22.5,carbs
+greek yogurt,17.3,0.7,6.1,protein
+chocolate rasberry protein mini proteinfx,0.0,2.9,0.0,fat
+gushers fruit gushers,0.0,6.0,0.2,fat
+egg fried,6.3,6.8,0.4,fat
+glucerna abbott,0.0,35.6,120.9,carbs
+sports drink,0.0,0.0,7.2,carbs
+peanut butter cookie protein syntha 6,0.0,6.0,5.0,fat
+hanfprotein pulver rohkostqualitat veganz,0.0,3.1,14.2,carbs
+smoothie high protein creamy chocolate slimfast,12.0,3.5,2.1,protein
+egg large,0.0,9.3,0.0,fat
+boysenberries frozen,1.5,0.3,16.1,carbs
+malt beverage,0.5,0.3,19.1,carbs
+chocolate powder for milk,1.0,0.5,19.9,carbs
+vegetable fruit juice,0.07,0.02,2.2,carbs
+cocoa powder unsweetened,1.1,0.7,3.1,carbs
+coconut milk,0.3,3.6,0.8,fat
+cocoa powder,0.5,0.3,5.9,carbs
+rice drink,0.7,2.3,22.0,carbs
+coconut water,1.7,0.5,8.9,carbs
+caramel med iced coffee dunkin donuts,0.0,9.0,0.0,fat
+instant coffee with water decaffeinated,0.2,0.0,0.8,carbs
+instant coffee powder,12.2,0.5,75.4,carbs
+instant coffee powder decaffeinated,0.2,0.07,1.4,carbs
+instant cappuccino powder,0.4,0.7,11.2,carbs
+coffee decaffeinated,0.2,0.0,0.0,protein
+espresso decaffeinated,0.06,0.01,0.5,carbs
+instant coffee with water,0.2,0.0,0.6,carbs
+coffee,0.3,0.07,0.0,protein
+espresso,0.02,0.09,0.5,carbs
+whey protein powder vanilla eas,0.0,1.7,0.0,fat
+energy drink sugar free red bull,0.6,0.2,1.8,carbs
+powerade coca cola,0.0,0.01,2.3,carbs
+amp energy pepsi,0.6,0.2,29.0,carbs
+gatorade g2 pepsi,0.07,0.05,0.6,carbs
+amp energy sugar free pepsi,0.0,0.0,2.5,carbs
+energy drink red bull,1.2,0.0,26.4,carbs
+powerade zero ion4 coca cola,0.0,0.0,0.0,protein
+full throttle coca cola,0.6,0.2,29.0,carbs
+passion fruit juice purple,1.7,0.4,35.7,carbs
+pomegranate juice,0.4,0.7,32.7,carbs
+cranberry apricot juice,0.5,0.0,39.7,carbs
+pineapple juice,0.9,0.3,32.2,carbs
+passion fruit juice yellow,1.0,0.1,33.6,carbs
+orange apricot juice,0.8,0.3,31.8,carbs
+tangerine juice,1.2,0.5,24.9,carbs
+orange juice,1.4,0.4,20.8,carbs
+grapefruit juice,1.2,0.2,22.7,carbs
+pineapple grapefruit juice,0.5,0.3,29.0,carbs
+tamarind nectar,0.2,0.3,37.0,carbs
+apple juice,0.2,0.3,28.0,carbs
+limeade,0.0,0.0,34.1,carbs
+guava nectar,0.2,0.2,40.8,carbs
+orange grapefruit juice,1.5,0.2,25.4,carbs
+orange juice sainsburys,0.0,0.09,0.0,fat
+cranberry apple juice,0.0,0.3,38.8,carbs
+pineapple orange juice,3.3,0.0,29.5,carbs
+pear nectar,0.3,0.06,39.4,carbs
+blackberry juice,0.8,1.5,19.5,carbs
+lemon juice,0.9,0.6,16.6,carbs
+cranberry grape juice,0.5,0.2,34.3,carbs
+citrus fruit juice,0.8,0.06,28.3,carbs
+prune juice,1.6,0.01,44.7,carbs
+guanabana nectar,0.3,0.4,37.5,carbs
+fruit juice,0.3,0.1,26.3,carbs
+horchata,0.1,0.2,3.3,carbs
+fruit punch,0.2,0.4,24.4,carbs
+apricot nectar,0.9,0.2,35.7,carbs
+orangensaft ja,0.0,0.0,1.4,carbs
+fruchtcocktail granini,0.0,0.4,1.0,carbs
+peach nectar,0.5,1.3,29.7,carbs
+orange pineapple juice,0.1,0.08,3.6,carbs
+cranberry juice,0.8,0.3,24.4,carbs
+white grapefruit juice,1.2,0.2,22.7,carbs
+mango nectar,0.3,0.2,32.9,carbs
+acerola cherry juice,1.0,0.7,11.6,carbs
+apple juice concentrate,1.1,0.8,86.5,carbs
+papaya nectar,0.4,0.4,36.3,carbs
+apple juice martinellis,0.0,0.0,0.0,protein
+lime juice,1.0,0.2,20.4,carbs
+grape juice,0.9,0.3,37.4,carbs
+water dannon,0.0,0.0,0.0,protein
+tap water,0.0,0.0,0.0,protein
+table water,0.0,0.0,0.0,protein
+fruit flavored water,0.0,0.0,13.0,carbs
+water,0.0,0.0,0.0,protein
+cola light coca cola,0.0,0.0,0.0,protein
+lemon lime soda,0.3,0.0,38.4,carbs
+tonic water,0.0,0.0,29.6,carbs
+lemonade low calorie,0.09,0.0,1.6,carbs
+ginger ale,0.0,0.0,17.5,carbs
+ice tea lemon flavor nestle,0.0,0.0,22.3,carbs
+sprite coca cola,0.1,0.06,20.3,carbs
+cola coca cola,0.0,0.0,38.9,carbs
+cola,0.1,0.07,19.1,carbs
+cream soda,0.0,0.0,65.7,carbs
+club soda,0.0,0.0,0.0,protein
+pink lemonade,0.1,0.3,21.6,carbs
+grape soda,0.0,0.0,41.7,carbs
+cola without caffeine coca cola,0.0,0.0,38.9,carbs
+white lemonade,0.1,0.0,20.8,carbs
+chocolate soda,0.0,0.0,52.6,carbs
+sweet tea lipton,0.0,0.0,35.0,carbs
+hibiscus tea,0.9,1.3,14.8,carbs
+instant lemon tea,0.1,0.0,0.3,carbs
+pesca tea santal,0.0,0.0,0.0,protein
+instant lemon tea sweetened,0.07,0.2,22.3,carbs
+tea with milk and sugar yorkshire,0.0,0.5,0.4,fat
+tea blueberry muffin tekanne,0.0,0.2,0.4,carbs
+chamomile tea,0.0,0.0,0.4,carbs
+black tea,0.0,0.0,0.7,carbs
+herb tea,0.0,0.0,0.4,carbs
+clam tomato juice,1.0,0.3,18.2,carbs
+tomato juice,2.1,0.7,8.6,carbs
+vegetable juice,1.5,0.2,11.1,carbs
+tomato vegetable juice,1.5,0.2,11.1,carbs
+carrot juice,1.9,0.3,18.6,carbs
+acorn dried,2.3,8.9,15.2,carbs
+fenugreek seeds,2.6,0.7,6.5,carbs
+peanut topping mcdonalds,7.9,15.0,4.6,fat
+beechnuts dried,1.9,15.0,10.1,fat
+breadnut tree seeds raw,1.7,0.3,13.1,carbs
+cumin seeds,0.4,0.5,0.9,carbs
+pili nuts dried,13.0,95.5,4.8,fat
+hazelnuts roasted,4.5,18.7,5.3,fat
+lupins cooked,25.8,4.8,15.4,protein
+hazelnuts blanched,3.9,17.3,4.8,fat
+brazilnuts dried,0.7,3.3,0.6,fat
+sunflower seeds dry roasted,1.5,4.0,1.9,fat
+ginkgo nuts canned,3.5,2.5,34.3,carbs
+peanuts cooked,24.3,39.6,38.3,fat
+pumpkin squash seeds dried,39.0,63.3,13.8,fat
+cashew nuts raw,5.2,12.4,8.5,fat
+sunflower seeds dried,9.6,23.7,9.2,fat
+lotus seeds dried,4.9,0.6,20.6,carbs
+butternuts dried,29.9,68.4,14.5,fat
+sesame seeds dried,1.6,4.5,2.1,fat
+breadfruit seeds,2.2,1.7,8.8,carbs
+pinyon pine nuts dried,0.08,0.07,0.01,protein
+pine nuts dried,18.5,92.3,17.7,fat
+flaxseeds,1.9,4.3,3.0,fat
+safflower seed kernels dried,4.6,10.9,9.7,fat
+pistachio nuts raw,24.9,55.8,33.8,fat
+peanuts raw,37.7,71.9,23.5,fat
+poppy seeds,1.6,3.7,2.5,fat
+valencia peanuts raw,36.6,69.5,30.5,fat
+spanish peanuts,38.2,72.4,23.1,fat
+dill seeds,1.1,1.0,3.6,carbs
+caraway seeds,1.3,1.0,3.3,carbs
+acorn raw,1.7,6.8,11.5,carbs
+almonds roasted,6.4,16.6,5.3,fat
+lotus seeds raw,1.2,0.1,4.9,carbs
+chestnuts cooked,0.6,0.4,7.9,carbs
+alfalfa seeds,0.1,0.08,0.0,protein
+virginia peanuts roasted,7.8,14.6,6.0,fat
+hazelnuts raw,11.2,45.6,12.5,fat
+anise seeds,0.4,0.3,1.1,carbs
+macadamia nuts roasted,2.3,22.8,4.0,fat
+studentenfutter alnatura,3.1,7.8,13.2,carbs
+pumpkin squash seeds roasted,2.4,3.9,1.2,fat
+water chestnut raw,1.7,0.1,29.7,carbs
+chestnuts roasted,0.5,0.3,7.9,carbs
+ginkgo nuts raw,1.2,0.5,10.6,carbs
+almonds raw,0.3,0.7,0.3,fat
+peanuts roasted,8.4,15.8,4.6,fat
+sunflower seeds toasted,23.1,76.1,27.6,fat
+sisymbrium seeds,9.0,3.4,43.1,carbs
+breadnut tree seeds dried,13.8,2.7,127.0,carbs
+pecans raw,10.0,78.4,15.1,fat
+chia seeds dried,4.7,8.7,11.9,carbs
+japanese chestnuts roasted,0.8,0.2,12.8,carbs
+sesame seeds toasted,1.4,3.8,2.1,fat
+cashew nuts roasted,5.1,14.3,9.0,fat
+lupins raw,65.1,17.5,72.7,carbs
+mustard seeds ground,0.5,0.7,0.6,fat
+mixed nuts roasted,5.2,15.4,7.6,fat
+salat mix alestro,0.0,5.2,2.4,fat
+chestnuts raw,3.5,3.3,66.0,carbs
+pistachio nuts roasted,6.3,13.7,8.5,fat
+walnut,0.8,3.3,0.7,fat
+celery seeds,1.2,1.6,2.7,carbs
+hickorynuts dried,15.3,77.2,21.9,fat
+spanish peanuts roasted,41.2,72.1,25.7,fat
+woca seeds dried,2.2,0.3,22.6,carbs
+pecans roasted,2.8,22.6,3.9,fat
+fennel seeds,0.3,0.3,1.0,carbs
+chinese chestnuts roasted,1.3,0.3,14.8,carbs
+watermelon seed kernels dried,30.6,51.2,16.5,fat
+macadamia nuts raw,0.4,4.0,0.7,fat
+pectin,0.2,0.2,45.2,carbs
+black walnut dried,1.2,3.0,0.5,fat
+water chestnut canned,1.2,0.02,17.2,carbs
+ginkgo nuts dried,2.9,0.6,20.5,carbs
+virginia peanuts raw,36.8,71.2,24.1,fat
+valencia peanuts roasted,8.1,15.4,4.9,fat
+nesfit diet cereal nestle,0.0,0.0,0.0,protein
+corn grits cooked,4.4,1.2,37.9,carbs
+amaranth flakes,5.9,2.7,27.0,carbs
+granola,8.2,14.6,32.3,carbs
+muesli with fruit nuts,4.3,3.4,45.7,carbs
+muesli master crumble,2.4,2.4,4.5,carbs
+bran flakes,4.0,0.8,32.2,carbs
+nut cereal,4.0,5.9,46.2,carbs
+corn flakes,1.7,0.3,24.6,carbs
+corn grits dry,0.7,0.2,7.7,carbs
+cream cheese,0.9,5.0,0.8,fat
+neufchatel cheese,7.8,19.4,3.1,fat
+requeijao cremoso light catupiry,0.8,3.6,0.9,fat
+ricotta cheese,1.5,2.0,1.5,fat
+cream cheese low fat,1.2,2.3,1.2,fat
+cream cheese fat free,2.8,0.2,1.4,protein
+gruyere cheese,8.3,9.1,0.1,fat
+cheddar cheese,6.4,9.3,0.9,fat
+parmesan cheese,6.4,4.5,0.6,protein
+romano cheese,1.6,1.3,0.2,protein
+parmesan cheese grated,1.4,1.4,0.7,protein
+port salut cheese,31.4,37.2,0.8,fat
+swiss cheese,6.7,7.7,0.4,fat
+goat cheese hard,8.6,10.1,0.6,fat
+gouda cheese,7.0,7.7,0.6,fat
+pepper jack cheese lucerne,5.0,6.0,0.0,fat
+caraway cheese,7.1,8.3,0.9,fat
+gjetost cheese,21.9,67.0,96.8,carbs
+tilsit cheese,9.8,10.4,0.8,fat
+goat cheese,6.1,8.4,0.01,fat
+brick cheese,7.0,8.9,0.8,fat
+asadero cheese,25.5,31.9,3.2,fat
+camembert cheese,5.9,7.3,0.1,fat
+provolone cheese reduced fat,27.9,19.9,4.0,protein
+roquefort cheese,18.3,26.0,1.7,fat
+queso blanco cheese,24.0,28.7,3.0,fat
+queso seco cheese,23.8,23.6,2.0,protein
+goat cheese soft,5.2,6.0,0.0,fat
+mozzarella cheese,6.7,6.6,0.7,protein
+chihuahua cheese,28.5,39.2,7.3,fat
+limburger cheese,6.0,8.2,0.1,fat
+muenster cheese,30.9,39.7,1.5,fat
+queso fresco cheese,22.1,29.1,3.6,fat
+brie cheese,6.2,8.3,0.1,fat
+pimento cheese,31.0,43.7,2.4,fat
+mexican cheese,27.7,21.7,3.8,protein
+feta cheese,4.3,6.4,1.2,fat
+mozzarella cheese fat free,35.8,0.0,4.0,protein
+provolone cheese,33.8,35.1,2.8,fat
+anejo cheese,28.3,39.6,6.1,fat
+honey,0.08,0.0,17.3,carbs
+apple butter,0.04,0.06,8.5,carbs
+fruit jam,0.0,0.1,13.8,carbs
+chocolate hazelnut spread,1.0,5.5,11.5,carbs
+peanut butter,3.3,7.4,3.6,fat
+peanut spread,3.8,8.5,2.2,fat
+chicken spread,10.1,9.8,2.3,protein
+cheese spread,17.0,68.6,8.4,fat
+tahini,2.7,7.2,3.9,fat
+orange marmalade,0.01,0.0,13.3,carbs
+american cheese spread,2.6,3.4,1.4,fat
+apricot jam,0.1,0.01,12.9,carbs
+chunky peanut butter,3.8,8.0,3.5,fat
+ham and cheese spread,2.4,2.8,0.3,fat
+chicken and rice casserole homade,2.0,1.0,2.4,carbs
+picnic loaf,4.2,4.7,1.3,fat
+corn tamale,5.8,12.0,44.3,carbs
+baked potato with cheese sauce bacon,18.4,25.9,44.4,carbs
+chinese egg roll,7.4,10.6,24.3,carbs
+butter croissant,4.7,12.0,26.1,carbs
+enchilada with cheese beef,11.9,17.6,30.5,carbs
+corned beef hash with potatoes,20.6,24.2,21.9,fat
+biscuit with egg cheese bacon,17.4,25.3,35.4,carbs
+bagel with ham egg cheese,26.7,18.5,52.4,carbs
+quesadilla with chicken,27.1,27.5,43.3,carbs
+corn rice,1.8,0.3,25.2,carbs
+kung pao chicken,59.0,42.2,41.5,protein
+beef empanada,10.1,16.3,27.8,carbs
+frijoles with cheese,11.4,7.8,28.7,carbs
+burrito with beef,9.1,8.1,43.9,carbs
+crispy chicken sandwich,14.8,17.6,33.2,carbs
+enchilada with cheese,15.4,25.3,21.2,fat
+pork egg roll,8.4,6.1,25.1,carbs
+corn on the cob with butter,4.5,3.4,31.9,carbs
+pancakes with butter syrup,4.1,7.0,45.4,carbs
+burrito with beans,7.0,6.7,35.7,carbs
+scrambled eggs,6.5,7.6,1.0,fat
+baked potato with sour cream,6.7,22.3,50.0,carbs
+turkey and gravy,14.1,6.3,11.1,protein
+chicken egg roll,8.4,3.6,22.8,carbs
+vegetable egg roll,5.2,3.6,25.0,carbs
+ham cheese roll,3.8,5.2,1.1,fat
+biscuit with ham,13.4,18.4,43.8,carbs
+lemon chicken,68.6,74.9,122.0,carbs
+hummus,12.0,21.1,49.5,carbs
+croissant with egg cheese,12.8,24.7,24.3,fat
+enchirito with cheese beef beans,17.9,16.1,33.8,carbs
+sweet sour pork,1.2,2.2,3.3,carbs
+crab cake,11.3,10.4,5.1,protein
+egg dinner roll,3.3,2.2,18.2,carbs
+english muffin with egg cheese sausage,22.1,29.9,28.8,fat
+buttermilk pancakes,2.6,3.5,10.9,carbs
+omelet,6.4,7.1,0.4,fat
+taco with chicken cheese lettuce,13.0,6.2,19.3,carbs
+spinach souffle,10.7,17.6,8.0,fat
+english muffin with cheese sausage,14.3,22.3,27.3,carbs
+potato gratin,12.4,18.6,27.6,carbs
+biscuit with egg,17.4,25.3,35.4,carbs
+french fries deep fried,2.4,10.5,29.4,carbs
+sweet sour chicken,1.8,2.3,4.4,carbs
+burrito with beans beef,27.8,18.0,47.0,carbs
+nachos with cinnamon sugar,7.2,36.0,63.4,carbs
+arroz con grandules,4.0,5.7,35.4,carbs
+chili con carne,14.7,8.8,33.1,carbs
+arroz con abichuelas,6.2,5.4,37.3,carbs
+biscuit with sausage,10.7,27.1,33.3,carbs
+vegetarian stew,42.0,7.4,17.3,protein
+chicken sandwich with cheese,29.4,38.8,41.6,carbs
+biscuit with egg steak,17.9,28.4,21.3,fat
+taco salad,10.0,11.2,17.9,carbs
+succotash,9.7,1.5,46.8,carbs
+nachos with cheese jalapeno peppers,16.8,34.1,60.1,carbs
+biscuit with egg ham,20.4,27.0,31.4,carbs
+ladyfingers,3.0,2.6,16.9,carbs
+mozzarella steak fried,4.6,5.9,7.7,carbs
+tamale navajo,11.7,11.4,33.7,carbs
+blueberry pancakes,2.3,3.5,11.0,carbs
+chimichanga with beef cheese,20.1,23.4,39.3,carbs
+egg cheese sandwich,15.6,19.4,25.9,carbs
+biscuit with egg bacon,17.0,31.1,28.6,fat
+pupusas con queso,13.7,15.5,26.2,carbs
+apple croissant,4.2,5.0,21.1,carbs
+refried red beans,11.7,16.1,36.0,carbs
+tostada with guacamole,6.2,11.6,16.0,carbs
+chicken sandwich,30.4,20.9,39.1,carbs
+fried rice,6.5,3.2,43.4,carbs
+pupusas del cerdo,14.0,12.7,28.1,carbs
+turkey pot pie,25.8,34.9,70.3,carbs
+cheese croissant,7.4,16.7,37.6,carbs
+chimichanga with beef,19.6,19.7,42.8,carbs
+french toast with butter,5.2,9.4,18.0,carbs
+ham egg cheese sandwich,19.2,16.3,30.9,carbs
+english muffin with butter,4.9,5.8,30.4,carbs
+savoury noodle one pan dinner tandaco,0.0,1.2,5.5,carbs
+ham cheese sandwich,20.7,15.5,33.3,carbs
+sweet gefilte fish,3.8,0.7,3.1,protein
+poached egg,6.3,4.7,0.4,protein
+tostada with beef cheese,19.0,16.3,22.8,carbs
+tostada with beans cheese,9.6,9.9,26.5,carbs
+pork tamale,10.4,12.8,22.4,carbs
+nachos with cheese,3.5,17.2,27.9,carbs
+pulled pork in barbecue sauce,32.8,11.0,46.7,carbs
+baked potato with cheese sauce,14.6,28.7,46.5,carbs
+baked beans,11.1,10.3,43.3,carbs
+arroz con frijoles,6.8,5.6,35.6,carbs
+taco with beef cheese lettuce,6.1,8.8,13.7,carbs
+burrito with beans cheese beef,7.3,6.6,19.8,carbs
+egg mix,2.4,2.2,0.1,protein
+falafel,2.3,3.0,5.4,carbs
+taco salad with chili con carne,11.6,8.8,17.7,carbs
+wonton wrappers,3.1,0.5,18.5,carbs
+hushpuppies,11.7,20.5,69.9,carbs
+chicken pot pie,14.6,34.6,57.3,carbs
+general tsos chicken,69.0,87.5,128.3,carbs
+burrito with beans cheese,13.6,11.2,57.8,carbs
+vegetarian fillets,19.6,15.3,7.7,protein
+biscuit with egg sausage,18.0,33.6,34.1,carbs
+chicken chow mein,40.8,16.9,50.1,carbs
+fruit burrito,2.5,9.5,35.0,carbs
+arroz con leche,8.1,9.3,63.0,carbs
+caramel custard flan,13.9,12.3,69.7,carbs
+gelatin dessert,3.3,0.0,38.3,carbs
+chocolate milk dessert,5.9,1.4,51.6,carbs
+chocolate mousse,6.2,24.0,24.1,carbs
+dulce de leche,1.3,1.4,10.5,carbs
+apple crisp,4.9,9.7,87.0,carbs
+spinach spaghetti cooked,6.4,0.9,36.6,carbs
+corn pasta cooked,3.7,1.0,39.1,carbs
+spaghetti with meat sauce,14.3,2.9,43.1,carbs
+pasta with meatballs in tomato sauce,10.6,13.0,28.3,carbs
+cheese tortellini,14.6,7.8,50.8,carbs
+pasta with sliced franks in tomato sauce,11.0,6.0,32.0,carbs
+lasagna,9.0,6.1,18.9,carbs
+macaroni cheese,12.6,9.4,43.7,carbs
+vegetable lasagna,15.6,13.7,32.2,carbs
+spinach egg noodles cooked,8.1,2.5,38.8,carbs
+cheese lasagna,15.9,13.0,33.6,carbs
+pasta with tomato sauce,5.6,1.8,35.1,carbs
+spinach pasta cooked,1.4,0.3,7.1,carbs
+vegetable chicken soup,12.3,4.8,21.1,carbs
+bean ham soup,10.3,2.5,33.5,carbs
+cream of chicken soup,6.0,14.5,18.0,carbs
+tomato soup canned,6.3,3.3,22.6,carbs
+egg drop soup,2.8,1.5,10.3,carbs
+scotch broth,12.1,6.4,23.0,carbs
+cream of onion soup,6.7,12.8,31.7,carbs
+chicken broth dry,0.7,0.2,1.1,carbs
+vegetable soup with beef broth,6.0,3.8,26.3,carbs
+chili with beans canned,14.6,14.1,30.5,carbs
+beef noodle soup,9.6,6.2,17.9,carbs
+consomme dry,2.2,0.2,1.9,protein
+chicken mushroom soup,2.0,6.1,15.1,carbs
+beef vegetable soup,8.0,2.9,15.4,carbs
+black bean soup,12.4,3.4,39.6,carbs
+split pea soup with ham bacon,11.6,3.1,28.6,carbs
+cream of mushroom soup,3.4,13.4,17.1,carbs
+green pea soup,16.7,5.7,51.7,carbs
+chicken broth soup,11.1,2.6,1.9,protein
+chicken mushroom chowder soup,16.2,23.7,38.3,carbs
+chicken dumplings soup,13.6,13.4,14.7,carbs
+chicken vegetable soup,7.1,5.6,17.0,carbs
+turkey vegetable soup,3.1,3.0,8.6,carbs
+wonton soup,4.6,0.6,11.7,carbs
+beef stock,4.7,0.2,2.9,protein
+mushroom barley soup,4.6,5.5,29.3,carbs
+gazpacho soup,10.7,0.4,6.6,protein
+beef mushroom soup,14.0,7.3,15.9,carbs
+chicken rice soup,12.3,3.2,13.0,carbs
+pepperpot soup,6.2,4.5,9.1,carbs
+vegetable soup,4.3,4.0,24.6,carbs
+chili beef soup,13.4,6.7,49.6,carbs
+chicken soup,12.4,6.5,16.9,carbs
+bean with frankfurters soup,10.0,7.0,22.0,carbs
+pea soup,8.3,2.8,25.6,carbs
+turkey soup,10.2,4.4,14.1,carbs
+stockpot soup,9.8,7.8,23.1,carbs
+hot sour soup,6.0,2.8,10.1,carbs
+cheese soup,2.0,9.7,28.0,carbs
+cream of potato soup,3.8,4.7,32.2,carbs
+bean with bacon soup,5.5,2.1,16.4,carbs
+fish stock,5.3,1.9,0.0,protein
+split pea soup with ham,20.7,8.9,56.2,carbs
+beef broth soup,2.7,0.5,0.01,protein
+lentil soup with ham,9.3,2.8,20.2,carbs
+tomato soup,2.2,0.7,22.5,carbs
+fish broth,4.9,1.5,1.0,protein
+chili without beans canned,18.1,17.0,14.6,protein
+minestrone soup,8.6,5.0,22.6,carbs
+clam chowder soup,4.4,4.4,24.5,carbs
+tomato vegetable soup,1.9,0.8,9.9,carbs
+cream of rice coup,2.2,0.2,28.1,carbs
+cream of celery soup,3.3,11.2,17.7,carbs
+chicken gravy,4.6,13.6,12.9,fat
+tomato rice soup,4.2,5.5,44.1,carbs
+vegetable beef soup,18.1,2.0,9.6,protein
+tomato beef noodle soup,8.9,8.6,42.3,carbs
+oyster stew soup,4.2,7.7,8.2,carbs
+ramen noodle soup dry,8.9,13.3,53.9,carbs
+chicken noodle soup,7.2,4.7,18.4,carbs
+chicken bouillon dry,0.7,0.6,0.7,protein
+cream of asparagus soup,4.6,8.2,21.5,carbs
+turkey noodle soup,7.8,4.0,17.3,carbs
+cream of shrimp soup,5.6,10.4,16.5,carbs
+bean with pork soup,15.3,11.5,44.1,carbs
+chicken broth,1.0,0.5,1.0,protein
+beef broth powder,0.6,0.3,0.6,protein
+split pea soup,9.7,2.3,29.9,carbs
+escarole soup,3.4,4.0,4.0,fat
+chicken stock,6.0,2.9,8.5,carbs
+tomato bisque soup,4.5,5.0,47.7,carbs
+shark fin soup,6.9,4.3,8.2,carbs
+onion soup,7.5,3.5,16.4,carbs
+chicken gumbo soup,5.3,2.9,16.8,carbs
+crab soup,10.4,0.8,12.5,carbs
+tripe soup,17.2,5.2,8.1,protein
+little india little lunch,0.0,10.6,2.0,fat
+original chicken sandwich chick fil a,0.0,5.1,0.0,fat
+sausage mcmuffin mcdonalds,14.6,24.2,28.2,carbs
+sausage mcgriddles mcdonalds,11.4,24.0,42.2,carbs
+crispy chicken drumstick kentucky fried chicken,10.6,3.0,0.0,protein
+chicken crispy drumsticks kentucky fried chicken,11.8,10.1,4.5,protein
+biscuit kentucky fried chicken,3.8,9.1,22.1,carbs
+english muffin mcdonalds,5.7,2.3,2.9,protein
+french fries mcdonalds,4.0,18.1,49.8,carbs
+hotdog,16.4,23.0,28.5,carbs
+french fries burger king,2.4,9.2,28.6,carbs
+original taco with beef cheese lettuce taco bell,6.1,8.8,13.7,carbs
+hotdog with chili,13.5,13.4,31.3,carbs
+chicken crispy wings kentucky fried chicken,9.2,10.1,5.1,fat
+egg white delight mcdonalds,0.0,16.0,0.0,fat
+french toast sticks burger king,1.3,3.7,8.7,carbs
+mcchicken mcdonalds,13.7,17.3,36.6,carbs
+nachos supreme taco bell,14.8,26.6,45.0,carbs
+crispy chicken wing kentucky fried chicken,12.6,5.3,1.3,protein
+chicken strips burger king,6.6,5.5,7.4,carbs
+crispy chicken breast kentucky fried chicken,38.2,6.7,0.4,protein
+sausage biscuit mcdonalds,11.3,29.7,31.8,carbs
+sausage burrito mcdonalds,13.0,17.1,24.2,carbs
+onion rings fried,0.3,1.6,2.8,carbs
+onion rings burger king,3.5,23.0,39.7,carbs
+turkey patty fried,3.9,5.0,4.4,fat
+hotcakes with syrup mcdonalds,9.0,17.8,101.8,carbs
+crispy chicken thigh kentucky fried chicken,20.4,9.1,0.0,protein
+corn dog,6.7,9.4,21.0,carbs
+chicken box mcdonalds,0.2,4.0,5.5,carbs
+potato wedges kentucky fried chicken,5.4,19.8,45.0,carbs
+scrambled eggs mcdonalds,7.7,7.5,0.9,protein
+egg mcmuffin mcdonalds,17.2,12.2,27.3,carbs
+nachos taco bell,5.1,21.9,36.0,carbs
+biscuit large mcdonalds,5.5,14.4,39.4,carbs
+crispy chicken strips kentucky fried chicken,9.5,7.2,6.4,protein
+hotcakes mcdonalds,3.0,2.9,19.0,carbs
+chicken crispy breast kentucky fried chicken,29.7,23.2,11.9,protein
+hotcakes sausage mcdonalds,15.5,34.9,102.4,carbs
+chicken mcnuggets mcdonalds,2.5,3.2,2.4,fat
+chips chipotle,0.2,7.1,2.1,fat
+biscuit mcdonalds,4.7,12.2,33.3,carbs
+rice bowl with chicken,1.6,0.4,6.4,carbs
+spaghetti with meatballs,8.7,8.2,22.9,carbs
+meat ravioli canned,8.9,8.9,36.0,carbs
+cheese ravioli canned,6.0,3.5,33.0,carbs
+premium crispy chicken ranch blt sandwich mcdonalds,35.3,22.9,59.8,carbs
+steak sandwich,30.3,14.1,52.0,carbs
+cheeseburger burger king,19.4,19.7,31.5,carbs
+cheeseburger mcdonalds,15.4,14.0,33.1,carbs
+double cheeseburger,37.0,36.9,41.0,carbs
+double hamburger,52.1,58.6,51.4,fat
+premium grilled chicken classic sandwich mcdonalds,28.3,8.6,44.6,carbs
+big n tasty with cheese mcdonalds,27.2,36.0,39.7,carbs
+premium grilled chicken club sandwich mcdonalds,38.3,18.0,44.3,carbs
+quarter pounder mcdonalds,24.1,19.8,37.9,carbs
+premium crispy chicken classic sandwich mcdonalds,27.8,20.0,58.6,carbs
+veggie burger,11.0,4.4,10.0,protein
+quarter pounder with cheese mcdonalds,29.0,28.3,39.7,carbs
+beef sandwich steak raw,9.2,15.1,0.0,fat
+cheeseburger,15.0,13.2,28.7,carbs
+premium grilled chicken ranch blt sandwich mcdonalds,33.7,10.9,44.3,carbs
+double whopper with cheese burger king,57.7,68.1,53.9,fat
+big mac mcdonalds,25.9,32.8,44.0,carbs
+sandwich with cold cuts,41.1,39.3,79.9,carbs
+filet o fish mcdonalds,15.1,19.6,35.4,carbs
+hand breaded chicken tenders carls jr,0.0,2.9,0.2,fat
+grilled chicken sandwich wendys,0.0,8.0,0.0,fat
+sandwich with roast beef,28.6,13.0,44.3,carbs
+hamburger burger king,14.7,10.4,26.5,carbs
+big n tasty mcdonalds,24.7,31.7,38.5,carbs
+roast beef sandwich,22.6,15.3,33.1,carbs
+roast beef sandwich with cheese,32.2,18.0,45.4,carbs
+hamburger,12.9,9.9,28.7,carbs
+premium fish sandwich burger king,22.6,27.4,58.7,carbs
+whopper burger king,35.4,48.4,52.8,carbs
+sandwich with tuna salad,29.7,28.0,55.4,carbs
+original chicken sandwich burger king,24.2,29.2,52.2,carbs
+double whopper burger king,52.1,58.6,51.4,fat
+premium crispy chicken club sandwich mcdonalds,39.1,29.9,57.4,carbs
+hamburger mcdonalds,12.3,9.6,28.8,carbs
+pepperoni pizza dominos,12.7,12.6,36.0,carbs
+sausage pizza,13.3,14.3,35.5,carbs
+pepperoni pizza,13.0,13.2,35.5,carbs
+pepperoni pizza pizza hut,12.3,10.9,30.3,carbs
+cheese pizza pizza hut,11.5,10.5,30.0,carbs
+cheese pizza,12.2,10.4,35.7,carbs
+cheese pizza dominos,11.7,9.7,35.9,carbs
+meat vegetable pizza,15.0,14.8,34.5,carbs
+sucker raw,26.6,3.7,0.0,protein
+northern pike raw,76.3,2.7,0.0,protein
+haddock cooked,30.0,0.8,0.0,protein
+burbot cooked,22.3,0.9,0.0,protein
+pollock cooked,75.3,3.8,0.0,protein
+rainbow smelt raw,5.0,0.7,0.0,protein
+whitefish cooked,37.7,11.6,0.0,protein
+walleye pike raw,30.4,1.9,0.0,protein
+carp cooked,38.9,12.2,0.0,protein
+wolffish cooked,53.4,7.3,0.0,protein
+snapper cooked,44.7,2.9,0.0,protein
+roe cooked,8.1,2.3,0.5,protein
+anchovy raw,5.8,1.4,0.0,protein
+herring raw,33.0,16.6,0.0,protein
+cod raw,41.1,1.5,0.0,protein
+tilapia raw,23.3,2.0,0.0,protein
+whiting cooked,16.9,1.2,0.0,protein
+skipjack tuna cooked,86.9,4.0,0.0,protein
+salmon cooked,78.7,44.0,0.0,protein
+chum salmon cooked,79.5,14.9,0.0,protein
+american shad cooked,31.3,25.4,0.0,protein
+shark cooked,5.3,3.9,1.8,protein
+trout cooked,16.5,5.3,0.0,protein
+swordfish raw,26.7,9.0,0.0,protein
+rainbow trout cooked,16.9,5.2,0.0,protein
+fish sandwich with cheese,15.1,19.6,35.4,carbs
+jellyfish dried,3.2,0.8,0.0,protein
+mullet raw,23.0,4.5,0.0,protein
+halibut cooked,71.7,5.1,0.0,protein
+lingcod raw,44.2,2.7,0.0,protein
+orange roughy cooked,6.4,0.3,0.0,protein
+cisco raw,15.0,1.5,0.0,protein
+florida pompano cooked,20.8,10.7,0.0,protein
+snapper raw,44.7,2.9,0.0,protein
+fish sandwich,22.6,27.4,58.7,carbs
+haddock raw,31.5,0.9,0.0,protein
+ocean perch raw,9.8,1.0,0.0,protein
+cuttlefish cooked,9.2,0.4,0.5,protein
+cod cooked,41.1,1.5,0.0,protein
+seatrout raw,39.8,8.6,0.0,protein
+flounder raw,20.2,3.1,0.0,protein
+spot cooked,11.9,3.1,0.0,protein
+walleye pike cooked,30.4,1.9,0.0,protein
+perch raw,11.6,0.6,0.0,protein
+pumpkin seed sunfish raw,9.3,0.3,0.0,protein
+salt mackerel,25.2,34.1,0.0,fat
+mackerel cooked,21.0,15.7,0.0,protein
+tilapia cooked,22.8,2.3,0.0,protein
+drum raw,34.7,9.8,0.0,protein
+atlantic croaker fried,15.8,11.0,6.6,protein
+pumpkin seed sunfish cooked,9.2,0.3,0.0,protein
+wolffish raw,53.6,7.3,0.0,protein
+bluefin tuna cooked,44.9,9.4,0.0,protein
+scup cooked,12.1,1.8,0.0,protein
+herring cooked,32.9,16.6,0.0,protein
+bluefish raw,30.1,6.4,0.0,protein
+sheepshead cooked,48.4,3.0,0.0,protein
+bass cooked,15.0,2.9,0.0,protein
+pout cooked,58.4,3.2,0.0,protein
+chinook salmon raw,78.9,41.3,0.0,protein
+rockfish raw,35.1,2.6,0.0,protein
+tilefish raw,67.6,8.9,0.0,protein
+scup raw,31.3,4.5,0.0,protein
+sablefish cooked,51.9,59.3,0.0,fat
+tuna salad,32.9,19.0,19.3,protein
+coho salmon cooked,34.7,11.8,0.0,protein
+roe raw,3.1,0.9,0.2,protein
+sea bass raw,23.8,2.6,0.0,protein
+pink salmon cooked,56.0,12.0,0.0,protein
+sockeye salmon cooked,82.1,17.3,0.0,protein
+whitefish raw,37.8,11.6,0.0,protein
+greenland halibut cooked,58.6,56.4,0.0,protein
+northern pike cooked,76.5,2.7,0.0,protein
+salmon raw,80.9,53.1,0.0,protein
+turbot cooked,65.4,12.0,0.0,protein
+surimi,4.3,0.3,1.9,protein
+chinook salmon cooked,79.2,41.2,0.0,protein
+mullet cooked,23.1,4.5,0.0,protein
+chum salmon raw,0.6,0.1,0.0,protein
+butterfish raw,5.5,2.6,0.0,protein
+sea bass cooked,23.9,2.6,0.0,protein
+greenland halibut raw,58.6,56.5,0.0,protein
+halibut raw,75.7,5.4,0.0,protein
+sturgeon cooked,28.2,7.0,0.0,protein
+fish fillet fried,13.3,11.2,15.4,carbs
+rainbow trout raw,15.8,4.9,0.0,protein
+pout raw,58.6,3.2,0.0,protein
+rainbow smelt cooked,6.4,0.9,0.0,protein
+monkfish raw,4.1,0.4,0.0,protein
+trout raw,16.4,5.2,0.0,protein
+shark raw,5.9,1.3,0.0,protein
+burbot raw,22.4,0.9,0.0,protein
+dolphinfish cooked,37.7,1.4,0.0,protein
+crayfish cooked,5.0,0.4,0.0,protein
+dolphinfish raw,37.7,1.4,0.0,protein
+perch cooked,11.4,0.5,0.0,protein
+cusk raw,23.2,0.8,0.0,protein
+bluefin tuna raw,6.6,1.4,0.0,protein
+milkfish cooked,7.4,2.4,0.0,protein
+carp raw,38.9,12.2,0.0,protein
+sturgeon raw,4.6,1.1,0.0,protein
+orange roughy raw,4.6,0.2,0.0,protein
+catfish fried,15.7,11.6,7.0,protein
+cuttlefish raw,4.6,0.2,0.2,protein
+bass raw,14.9,2.9,0.0,protein
+flounder cooked,19.4,3.0,0.0,protein
+milkfish raw,5.8,1.9,0.0,protein
+eel raw,37.6,23.8,0.0,protein
+catfish raw,24.2,9.4,0.0,protein
+fish sticks,3.1,4.5,6.1,carbs
+coho salmon raw,33.8,12.2,0.0,protein
+monkfish cooked,5.3,0.6,0.0,protein
+yellowtail cooked,86.6,19.6,0.0,protein
+yellowfin tuna cooked,8.2,0.2,0.0,protein
+ling cooked,36.8,1.2,0.0,protein
+eel cooked,6.7,4.2,0.0,protein
+sablefish raw,51.8,59.1,0.0,fat
+salmon nuggets,3.6,3.3,4.0,carbs
+yellowtail raw,86.5,19.6,0.0,protein
+butterfish cooked,5.5,2.6,0.0,protein
+caviar,3.9,2.9,0.6,protein
+pollock raw,75.0,3.8,0.0,protein
+catfish cooked,26.4,10.3,0.0,protein
+whiting raw,16.8,1.2,0.0,protein
+pink salmon raw,65.2,14.0,0.0,protein
+yellowfin tuna raw,6.9,0.1,0.0,protein
+mackerel raw,20.8,15.6,0.0,protein
+turbot raw,65.5,12.0,0.0,protein
+cusk cooked,23.1,0.8,0.0,protein
+atlantic croaker raw,14.0,2.5,0.0,protein
+sucker cooked,26.6,3.7,0.0,protein
+spot raw,11.8,3.1,0.0,protein
+drum cooked,34.6,9.7,0.0,protein
+crayfish raw,0.6,0.05,0.0,protein
+tilefish cooked,73.5,14.1,0.0,protein
+bluefish cooked,30.1,6.4,0.0,protein
+grouper cooked,50.2,2.6,0.0,protein
+sheepshead raw,48.1,5.7,0.0,protein
+herring kippered,9.8,4.9,0.0,protein
+grouper raw,50.2,2.6,0.0,protein
+ocean perch cooked,9.3,0.9,0.0,protein
+ling raw,36.7,1.2,0.0,protein
+lingcod cooked,68.4,4.1,0.0,protein
+florida pompano raw,20.7,10.6,0.0,protein
+rockfish cooked,33.1,2.4,0.0,protein
+seatrout cooked,39.9,8.6,0.0,protein
+sockeye salmon raw,84.4,22.2,0.0,protein
+swordfish cooked,24.9,8.4,0.0,protein
+american shad raw,31.2,25.3,0.0,protein
+sardine canned in oil,36.7,17.1,0.0,protein
+anchovy canned in oil,1.2,0.4,0.0,protein
+salmon canned,79.1,20.3,0.0,protein
+sardines in tomato sauce canned,18.6,9.3,0.5,protein
+sockeye salmon canned,79.5,24.9,0.0,protein
+tuna canned,18.9,2.4,0.0,protein
+pink salmon canned,80.9,20.4,0.0,protein
+cod canned,71.0,2.7,0.0,protein
+eastern oyster canned,11.4,4.0,6.3,protein
+chum salmon canned,79.1,20.3,0.0,protein
+tuna canned in oil,47.2,14.4,0.0,protein
+wild pink salmon oceans,0.0,16.0,0.0,fat
+shrimp canned,26.1,1.7,0.0,protein
+alaska king crab raw,31.5,1.0,0.0,protein
+scallops fried,2.6,3.2,6.4,carbs
+shrimp cooked,1.3,0.09,0.01,protein
+clams fried,1.3,1.0,1.0,protein
+alaska king crab cooked,25.9,2.1,0.0,protein
+scallops cooked,2.1,0.06,0.5,protein
+squid fried,14.4,6.0,6.2,protein
+oyster raw,4.7,1.2,2.5,protein
+abalone,14.5,0.6,5.1,protein
+queen crab raw,5.2,0.3,0.0,protein
+whelk cooked,13.5,0.2,4.4,protein
+oyster cooked,4.7,1.2,2.5,protein
+eastern oyster cooked,0.7,0.2,0.7,protein
+blue mussels cooked,47.6,9.0,14.8,protein
+octopus raw,4.2,0.3,0.6,protein
+spiny lobster cooked,43.0,3.2,5.1,protein
+blue mussels raw,17.9,3.4,5.5,protein
+queen crab cooked,20.2,1.3,0.0,protein
+dungeness crab cooked,28.3,1.6,1.2,protein
+dungeness crab raw,28.4,1.6,1.2,protein
+shrimp fried,1.3,3.2,4.8,carbs
+shrimp raw,0.7,0.02,0.04,protein
+blue crab cooked,15.2,0.6,0.0,protein
+shrimp imitation,3.5,0.4,2.6,protein
+conch baked,33.4,1.5,2.2,protein
+squid raw,4.4,0.4,0.9,protein
+scallop raw,1.8,0.09,0.5,protein
+lobster raw,24.8,1.1,0.0,protein
+scallop imitation,3.6,0.1,3.0,protein
+blue crab raw,3.8,0.2,0.02,protein
+whelk raw,6.7,0.1,2.2,protein
+spiny lobster raw,43.1,3.2,5.1,protein
+clams canned,38.8,2.5,9.4,protein
+lobster cooked,28.5,1.3,0.0,protein
+eastern oyster fried,1.3,1.8,1.7,fat
+clams raw,33.3,2.2,8.1,protein
+octopus cooked,25.3,1.8,3.7,protein
+eastern oyster raw,0.7,0.2,0.8,carbs
+oyster fried,2.1,3.0,6.7,carbs
+sturgeon smoked,8.8,1.2,0.0,protein
+chinook salmon smoked,24.9,5.9,0.0,protein
+cisco smoked,4.6,3.4,0.0,protein
+haddock smoked,7.1,0.3,0.0,protein
+whitefish smoked,31.8,1.3,0.0,protein
+red salmon sockeye filets smoked,65.5,12.3,0.0,protein
+nectarine,1.6,0.5,15.8,carbs
+kiwifruit gold,0.8,0.2,12.8,carbs
+prickly pear raw,0.0,0.07,1.9,carbs
+pineapple,0.5,0.1,11.8,carbs
+rowan,5.2,4.6,54.5,carbs
+muscadine grapes,0.01,0.06,0.8,carbs
+heidelbeeren jutro,0.0,0.2,0.4,carbs
+prunes stewed,3.4,0.7,83.2,carbs
+tangerine,0.6,0.2,10.1,carbs
+prunes,2.6,0.5,62.3,carbs
+lemon peel,0.03,0.0,0.3,carbs
+banana,1.6,0.5,34.3,carbs
+raspberries,0.1,0.03,1.2,carbs
+apricot,0.5,0.1,3.9,carbs
+strawberry guava,0.01,0.01,1.0,carbs
+kiwifruit green,0.8,0.4,10.1,carbs
+figs,0.4,0.2,9.6,carbs
+clementine,0.6,0.1,8.9,carbs
+orange,1.7,0.2,21.6,carbs
+bartlett pear,0.7,0.3,26.6,carbs
+red white currants,1.6,0.2,15.5,carbs
+blueberries,1.1,0.5,21.4,carbs
+mulberries,0.2,0.05,1.5,carbs
+java plum,0.03,0.03,0.5,carbs
+prune puree,0.4,0.02,11.7,carbs
+applesauce,0.4,0.2,27.5,carbs
+blackberries raw,2.0,0.7,13.8,carbs
+plum,0.5,0.2,7.5,carbs
+american grapes,0.04,0.09,0.4,carbs
+peach,1.4,0.4,14.3,carbs
+honeydew melon,1.0,0.2,16.1,carbs
+yellow plantain fried,2.4,12.7,68.9,carbs
+rose hips,2.0,0.4,48.5,carbs
+lemons,0.6,0.2,5.4,carbs
+lime,0.5,0.1,7.1,carbs
+pomegranate,2.4,1.6,26.4,carbs
+gooseberries,1.3,0.9,15.3,carbs
+asian pear,0.6,0.3,13.0,carbs
+abiyuch,3.4,0.2,40.1,carbs
+horned melon kiwano,3.7,2.6,15.8,carbs
+fruit walnut salad mcdonalds,4.8,13.3,43.8,carbs
+grapefruit,1.0,0.2,13.3,carbs
+japanese persimmon,1.0,0.3,31.2,carbs
+wild raspberries,1.5,0.4,18.0,carbs
+pink lady apple,0.1,0.1,3.9,carbs
+maraschino cherries,0.06,0.08,2.1,carbs
+black currants,1.6,0.5,17.2,carbs
+plantain cooked,1.2,0.3,48.0,carbs
+crab apple,0.4,0.3,21.9,carbs
+pom potes materne,0.0,0.2,0.2,fat
+apple,0.5,0.3,25.1,carbs
+cantaloupe melon,1.5,0.3,14.4,carbs
+prickly pear cooked,0.09,0.04,1.6,carbs
+guava,1.4,0.5,7.9,carbs
+strawberries,0.01,0.07,0.9,carbs
+japanese persimmon dried,0.5,0.2,25.0,carbs
+watermelon,1.7,0.4,21.6,carbs
+elderberries,1.0,0.7,26.7,carbs
+kumquat,0.4,0.2,3.0,carbs
+orange peel,0.09,0.02,1.5,carbs
+pokeberry shoots cooked,3.8,0.7,5.1,carbs
+breadfruit,2.4,0.5,59.7,carbs
+pear,0.6,0.2,27.1,carbs
+sour cherries,1.0,0.3,12.5,carbs
+plantain raw,2.3,0.6,57.1,carbs
+blackberries frozen,1.8,0.6,23.7,carbs
+cherries,0.07,0.06,1.3,carbs
+plantain fried,0.02,0.6,2.6,carbs
+carambola starfruit,0.9,0.3,5.7,carbs
+chayote cooked,1.0,0.8,7.2,carbs
+apple dippers mcdonalds,0.0,0.0,8.2,carbs
+white grapefruit,1.6,0.2,19.8,carbs
+cherimoya,3.7,1.6,41.6,carbs
+melon balls,1.5,0.4,13.7,carbs
+golden delicious apple,0.3,0.2,14.8,carbs
+pokeberry shoots raw,4.2,0.6,5.9,carbs
+cranberries,0.2,0.01,5.4,carbs
+quince,0.4,0.01,14.1,carbs
+chayote raw,1.1,0.2,6.0,carbs
+orange with peel,2.1,0.5,24.6,carbs
+chokecherries,4.7,2.6,51.8,carbs
+mango,2.8,1.3,50.3,carbs
+wild plum,0.7,0.3,35.3,carbs
+jeijoa,1.7,1.0,37.0,carbs
+groundcherries,2.7,1.0,15.7,carbs
+pesca,0.0,0.1,0.0,fat
+persimmon,0.2,0.1,8.4,carbs
+grapes,0.04,0.04,0.9,carbs
+rambutan canned,1.4,0.4,44.7,carbs
+figs canned,0.1,0.04,3.8,carbs
+prunes canned,2.0,0.5,65.1,carbs
+pineapples canned,0.2,0.05,7.4,carbs
+prune plums canned,0.2,0.08,7.0,carbs
+tangerines canned,1.5,0.1,23.8,carbs
+fruit cocktail canned,1.1,0.05,28.1,carbs
+sour cherries canned,1.9,0.3,48.6,carbs
+mangosteen canned,0.8,1.1,35.1,carbs
+apricot juice,1.5,0.07,30.1,carbs
+strawberries canned,1.4,0.7,59.8,carbs
+peach canned,1.6,0.09,28.9,carbs
+fruit salad canned,1.3,0.01,32.5,carbs
+gooseberries canned,1.6,0.5,47.3,carbs
+grapefruit canned,1.4,0.2,22.3,carbs
+pear canned,0.3,0.0,9.8,carbs
+raspberries canned,2.1,0.3,59.8,carbs
+papaya canned,0.0,0.2,21.8,carbs
+grapes canned,1.2,0.3,25.2,carbs
+apple dried,0.6,0.2,39.1,carbs
+peach dried,3.0,0.6,50.8,carbs
+plantain chips,0.6,8.4,18.1,carbs
+golden raisins,5.6,0.8,131.2,carbs
+raisins seeded,4.2,0.9,129.5,carbs
+zante currants dried,5.9,0.4,106.7,carbs
+pear dried,0.7,0.2,25.1,carbs
+raisins,1.0,0.06,23.8,carbs
+prune plums dried,2.7,0.5,81.5,carbs
+cranberries dried,0.05,1.6,98.8,carbs
+figs dried,0.3,0.01,5.4,carbs
+longans dried,0.03,0.09,1.3,carbs
+banana chips,0.7,9.5,16.5,carbs
+lychee dried,0.01,0.0,1.8,carbs
+apricot dried,0.2,0.02,4.4,carbs
+longan,0.01,0.08,0.5,carbs
+mamey sapote,2.5,0.8,56.2,carbs
+waxgourd cooked,0.7,0.4,4.3,carbs
+jackfruit,0.6,0.2,8.1,carbs
+loquats,0.09,0.07,2.4,carbs
+mammy apple mamey,4.2,4.2,105.8,carbs
+nance,0.7,1.3,19.0,carbs
+coconut whole coconut,0.0,71.5,0.0,fat
+prickly pear,0.8,0.5,9.9,carbs
+lychee,0.02,0.02,1.6,carbs
+naranjilla lulo pulp,0.5,0.3,7.1,carbs
+coconut meat dried,1.9,18.3,6.7,fat
+waxgourd raw,0.5,0.3,4.0,carbs
+surinam cherry pitanga,0.04,0.06,0.5,carbs
+passion fruit,0.4,0.1,4.2,carbs
+sapodilla,0.7,1.9,33.9,carbs
+pummelo,1.0,0.06,12.0,carbs
+coconut meat,13.2,133.0,60.5,fat
+soursop,2.3,0.7,37.9,carbs
+papaya,0.7,0.4,15.7,carbs
+acerola cherry,0.08,0.05,0.4,carbs
+ohelo berries,0.5,0.3,9.6,carbs
+loganberries,2.2,0.5,19.1,carbs
+casaba melon,1.9,0.2,11.2,carbs
+durian,0.5,1.9,9.5,carbs
+coriander leaves raw,0.3,0.09,0.6,carbs
+garden cress raw,0.2,0.06,0.5,carbs
+pasilla peppers dried,0.9,1.1,3.6,carbs
+parsley dried,0.1,0.1,0.3,carbs
+ancho pepper dried,2.0,1.4,8.7,carbs
+coriander seeds,0.2,0.3,1.0,carbs
+dill weed dried,20.0,4.4,55.8,carbs
+borage,1.6,0.6,2.7,carbs
+epazote,0.06,0.06,0.09,carbs
+chives dried,0.01,0.06,0.1,carbs
+thyme fresh,0.09,0.07,0.2,carbs
+butterbur,0.1,0.2,0.5,carbs
+wasabi root,6.2,0.8,30.6,carbs
+rosemary dried,0.08,0.2,0.8,carbs
+ginger root,0.07,0.03,0.4,carbs
+white pepper,0.2,0.0,1.6,carbs
+cloves ground,0.1,0.3,1.4,carbs
+paprika,1.0,0.9,3.7,carbs
+mace ground,0.4,1.7,2.7,carbs
+bay leaf,0.09,0.04,0.4,carbs
+eppaw,4.6,1.8,31.7,carbs
+tarragon dried,0.1,0.05,0.3,carbs
+ginger ground,0.2,0.04,1.3,carbs
+savory ground,0.07,0.03,1.0,carbs
+black pepper,0.2,0.01,1.5,carbs
+spearmint fresh,0.2,0.09,0.5,carbs
+poultry seasoning,0.4,0.3,2.9,carbs
+nutmeg ground,0.1,0.8,1.1,carbs
+curry powder,0.8,0.9,3.7,carbs
+peppermint,0.04,0.0,0.2,carbs
+salt,0.0,0.0,0.0,protein
+coriander leaves dried,0.1,0.1,0.3,carbs
+sage ground,0.06,0.05,0.4,carbs
+garlic powder,0.5,0.03,2.3,carbs
+dill weed fresh,0.3,0.06,0.6,carbs
+cardamom,0.2,0.1,1.4,carbs
+saffron,0.07,0.09,0.5,carbs
+allspice ground,0.1,0.2,1.4,carbs
+parsley fresh,0.1,0.08,0.2,carbs
+oregano dried,9.0,4.3,68.9,carbs
+marjoram dried,0.2,0.1,1.0,carbs
+chives raw,0.03,0.09,0.1,carbs
+fireweed leaves,1.1,0.6,4.4,carbs
+rosemary fresh,0.0,0.1,0.1,fat
+garlic,0.2,0.03,0.9,carbs
+cinnamon ground,0.1,0.04,2.1,carbs
+chervil dried,0.4,0.0,0.9,carbs
+cayenne pepper,0.04,0.09,0.2,carbs
+turmeric ground,0.2,0.2,1.4,carbs
+mustard,0.2,0.2,0.3,carbs
+chili powder,0.4,0.4,1.3,carbs
+thyme dried,9.1,7.4,63.9,carbs
+spearmint dried,0.09,0.02,0.3,carbs
+basil dried,0.2,0.03,0.3,carbs
+dandelion greens cooked,2.1,0.6,6.7,carbs
+basil fresh,0.2,0.09,0.2,protein
+dock,2.7,0.9,4.3,carbs
+garden cress cooked,2.6,0.8,5.1,carbs
+onion powder,0.2,0.02,1.9,carbs
+dandelion greens raw,1.5,0.4,5.1,carbs
+yokan,0.5,0.02,8.5,carbs
+fava beans cooked,12.9,0.7,33.4,carbs
+french beans raw,34.6,3.7,118.0,carbs
+chickpeas canned,17.8,7.0,57.0,carbs
+yellow beans cooked,16.2,1.9,44.7,carbs
+mung beans cooked,14.2,0.8,38.7,carbs
+white beans canned,19.0,0.8,55.5,carbs
+pink beans cooked,15.3,0.8,47.2,carbs
+pink beans raw,44.0,2.4,134.8,carbs
+navy beans raw,46.4,3.1,126.4,carbs
+snap beans cooked,2.4,0.4,9.9,carbs
+black eyed cowpeas raw,4.3,0.5,27.3,carbs
+edamame cooked,18.5,8.1,13.8,protein
+black eyed cowpeas cooked,5.2,0.6,33.5,carbs
+hyacinth beans cooked,15.8,1.1,40.2,carbs
+cowpeas canned,11.4,1.3,32.7,carbs
+pinto beans cooked,15.4,1.1,44.8,carbs
+winged beans cooked,18.3,10.0,25.7,carbs
+pinto beans raw,41.3,2.4,120.7,carbs
+black turtle beans raw,39.1,1.7,116.4,carbs
+fava beans raw,39.2,2.3,87.4,carbs
+lima beans canned,11.9,0.4,35.9,carbs
+hyacinth beans raw,50.2,3.5,127.6,carbs
+white beans raw,47.2,1.7,121.7,carbs
+snap beans canned,3.5,0.4,15.4,carbs
+navy beans canned,19.7,1.1,53.6,carbs
+mung beans raw,49.4,2.4,129.6,carbs
+adzuki beans raw,39.1,1.0,123.9,carbs
+black turtle beans cooked,15.1,0.6,45.0,carbs
+pink lentils raw,47.9,4.2,113.6,carbs
+yellow beans raw,43.1,5.1,119.0,carbs
+white beans cooked,17.4,0.6,44.9,carbs
+lentils raw,49.5,2.0,115.4,carbs
+cranberry beans cooked,16.5,0.8,43.3,carbs
+chickpeas raw,38.6,12.1,121.3,carbs
+lentils cooked,17.9,0.8,39.9,carbs
+baked beans canned,12.1,0.9,53.7,carbs
+cranberry beans canned,14.4,0.7,39.3,carbs
+black beans cooked,15.2,0.9,40.8,carbs
+lima beans cooked,14.7,0.7,39.3,carbs
+mungo beans raw,52.2,3.4,122.1,carbs
+pigeon peas raw,44.5,3.1,128.7,carbs
+fava beans canned,14.0,0.6,31.8,carbs
+yellow snap beans raw,1.8,0.1,7.1,carbs
+snap beans raw,1.8,0.2,7.0,carbs
+yellow snap beans canned,1.9,0.2,8.4,carbs
+pigeon peas cooked,11.4,0.6,39.1,carbs
+catjang cowpeas raw,39.8,3.5,99.6,carbs
+navy beans cooked,15.0,1.1,47.4,carbs
+mothbeans raw,45.0,3.2,120.6,carbs
+cowpeas cooked,5.4,0.4,14.5,carbs
+mothbeans cooked,13.8,1.0,37.1,carbs
+french beans cooked,12.5,1.3,42.5,carbs
+lima beans raw,38.2,1.2,112.8,carbs
+winged beans raw,54.0,29.7,75.9,carbs
+adzuki beans cooked,17.3,0.2,57.0,carbs
+black beans raw,41.9,2.8,121.0,carbs
+catjang cowpeas cooked,13.9,1.2,34.7,carbs
+baby lima beans cooked,12.0,0.5,35.0,carbs
+cowpeas raw,3.1,0.3,8.9,carbs
+shellie beans canned,4.3,0.5,15.2,carbs
+yardlong beans raw,40.6,2.2,103.4,carbs
+pinto beans canned,11.0,1.3,36.4,carbs
+chickpeas cooked,14.5,4.2,45.0,carbs
+cranberry beans raw,44.9,2.4,117.1,carbs
+mungo beans cooked,13.6,1.0,33.0,carbs
+tamarinds,0.06,0.01,1.3,carbs
+yellow snap beans cooked,2.4,0.4,9.9,carbs
+yardlong beans cooked,14.2,0.8,36.1,carbs
+bacon beef steak,8.2,12.5,0.2,fat
+lamb foreshank raw,85.8,60.7,0.0,protein
+bacon,3.3,10.2,0.2,fat
+lamb rib cooked,53.9,76.0,0.0,fat
+lamb shank raw,84.3,61.2,0.0,protein
+scrapple,2.3,3.9,4.0,carbs
+chicken nuggets,3.2,4.1,3.0,fat
+ground lamb cooked,77.5,61.5,0.0,protein
+lamb meat cooked,63.8,45.0,0.0,protein
+meat extender,33.5,2.6,33.7,carbs
+lamb leg raw,81.2,77.4,0.0,protein
+lamb loin cooked,16.1,14.8,0.0,protein
+chicken patty,8.9,11.7,7.7,fat
+lamb shank roasted,71.0,33.5,0.0,protein
+barbecue loaf,3.6,2.0,1.5,protein
+lamb sirloin cooked,64.5,54.2,0.0,protein
+poultry salad,1.5,1.8,1.0,fat
+ground lamb raw,4.7,6.6,0.0,fat
+lamb loin raw,4.6,7.5,0.0,fat
+lamb sirloin raw,76.8,100.3,0.0,fat
+sausage patty mcdonalds,4.3,11.2,0.4,fat
+lamb foreshank cooked,42.0,19.9,0.0,protein
+ham salad,3.9,7.0,4.8,fat
+lamb rib raw,65.9,156.0,0.0,fat
+lamb shoulder raw,75.2,97.3,0.0,fat
+lamb meat raw,79.6,84.6,0.0,fat
+lamb shoulder cooked,62.5,53.5,0.0,protein
+mutton cooked,9.5,3.1,0.03,protein
+lamb leg cooked,67.7,43.7,0.0,protein
+beef stick,4.3,9.9,1.1,fat
+veal sirloin cooked,64.1,26.9,0.0,protein
+veal rib cooked,57.4,22.2,0.0,protein
+veal meat cooked,62.9,23.8,0.0,protein
+beef rib roasted,15.4,19.1,0.0,fat
+veal sirloin raw,86.5,35.4,0.0,protein
+beef top loin filet grilled,37.0,19.0,0.8,protein
+beef under blade steak cooked,140.8,46.7,0.0,protein
+mock tender steak raw,42.2,8.3,0.0,protein
+ground beef cooked,35.5,24.8,0.0,protein
+ground beef raw,65.1,136.1,0.0,fat
+beef diced asda,0.0,0.7,10.5,carbs
+veal rib raw,85.5,40.9,0.0,protein
+ground veal raw,5.5,1.9,0.0,protein
+t bone steak cooked,89.3,74.1,0.0,protein
+veal leg round raw,95.2,14.0,0.0,protein
+beef top sirloin steak raw,123.4,77.3,0.0,protein
+beef plate steak grilled,47.1,35.6,0.0,protein
+ground veal cooked,72.9,22.6,0.0,protein
+veal leg round cooked,98.4,17.2,0.0,protein
+porterhouse steak raw,81.6,91.1,0.0,fat
+veal shank raw,86.9,15.8,0.0,protein
+veal breast cooked,76.3,47.5,0.0,protein
+corned beef canned,5.7,3.1,0.0,protein
+rib eye steak grilled,62.4,47.7,0.0,protein
+veal shoulder raw,0.0,0.0,0.0,protein
+t bone steak raw,85.7,76.3,0.0,protein
+sirloin steak,49.5,14.1,0.0,protein
+mock tender steak cooked,21.9,4.9,0.0,protein
+beef round steak cooked,64.8,12.1,0.0,protein
+chuck blade roast raw,77.8,88.0,0.0,fat
+beef shoulder steak raw,48.2,17.3,0.0,protein
+beef top blade cooked,21.9,10.0,0.0,protein
+corned beef cooked,3.8,4.0,0.01,fat
+beef round steak raw,100.1,36.0,0.0,protein
+beef shoulder steak grilled,24.0,5.8,0.0,protein
+chuck eye steak raw,72.4,62.8,0.0,protein
+beef bottom round steak cooked,155.8,35.1,0.0,protein
+porterhouse steak cooked,20.4,16.4,0.0,protein
+beef under blade steak raw,126.8,80.8,0.0,protein
+beef plate steak raw,47.8,46.8,0.9,protein
+beef meat canned,9.2,7.9,0.0,protein
+beef breakfast strips raw,2.8,8.8,0.2,fat
+beef brisket cooked,46.0,43.6,0.0,protein
+corned beef raw,66.6,67.6,0.6,fat
+beef mince meat asda,0.0,3.1,6.8,carbs
+pastrami beef fat free,1.9,0.1,0.1,protein
+rib eye steak raw,62.8,54.5,0.4,protein
+beef tenderloin steak cooked,37.0,24.0,0.0,protein
+chuck blade roast cooked,66.1,62.0,0.0,protein
+cured beef dried,0.9,0.02,0.06,protein
+beef flank steak cooked,51.8,17.5,0.0,protein
+chuck eye steak grilled,76.9,60.5,0.0,protein
+veal meat raw,87.8,30.7,0.0,protein
+veal loin cooked,8.5,4.9,0.0,protein
+veal loin raw,5.3,2.6,0.0,protein
+veal shoulder cooked,61.2,19.4,0.0,protein
+beef tenderloin steak raw,32.2,29.8,0.0,protein
+veal shank cooked,61.2,12.0,0.0,protein
+beef brisket raw,83.6,86.5,0.0,fat
+pastrami beef,15.5,4.1,0.3,protein
+beef flank steak raw,6.0,2.3,0.0,protein
+beef top sirloin steak cooked,47.7,25.2,0.0,protein
+veal breast raw,79.2,66.9,0.0,protein
+beef rib raw,73.8,123.8,0.0,fat
+beef jerky,6.6,5.1,2.2,protein
+beef breakfast strips cooked,3.5,3.9,0.2,fat
+pork olive loaf,3.3,4.6,2.6,fat
+beef luncheon meat jellied,5.3,0.9,0.0,protein
+turkey pastrami,4.6,1.8,0.5,protein
+pork salami,2.3,3.4,0.2,fat
+canadian style bacon raw,5.9,2.0,0.5,protein
+honey loaf,9.9,3.6,2.6,protein
+pork beef salami,2.1,3.1,0.08,fat
+beef pork bologna,4.6,7.4,1.6,fat
+pork beef salami cooked,2.7,3.2,0.3,fat
+pork breakfast strips raw,2.7,8.4,0.2,fat
+pickle pimiento loaf,4.3,6.1,3.2,fat
+luxury loaf,5.2,1.3,1.4,protein
+mortadella,2.5,3.8,0.5,fat
+pork bologna,4.3,5.6,0.2,fat
+turkey salami cooked,1.0,0.5,0.08,protein
+pepperoni beef,0.5,0.9,0.0,fat
+peppered loaf,4.9,1.8,1.3,protein
+luncheon meat beef,1.8,0.3,0.0,protein
+lebanon bologna,10.8,6.0,0.3,protein
+chicken pork bologna,2.9,8.6,1.2,fat
+turkey roll,4.9,1.9,0.6,protein
+beef salami cooked,3.3,5.8,0.5,fat
+yachtwurst cooked,8.3,12.7,0.8,fat
+italian salami,2.2,3.7,0.1,fat
+turkey ham,5.5,1.6,0.3,protein
+turkey bologna,3.2,4.5,1.3,fat
+sliced turkey breast,2.4,0.6,0.4,protein
+luncheon meat pork beef,3.5,9.0,0.7,fat
+beef bologna,3.3,7.8,1.3,fat
+turkey bacon cooked,24.3,22.9,2.5,protein
+ground emu cooked,31.0,5.1,0.0,protein
+ostrich leg raw,19.0,1.5,0.0,protein
+ostrich strip raw,20.1,2.4,0.0,protein
+emu fillet cooked,123.2,9.1,0.0,protein
+ostrich tenderloin raw,18.8,2.7,0.0,protein
+emu drums cooked,134.7,8.4,0.0,protein
+green turtle raw,5.6,0.1,0.0,protein
+ground bison cooked,63.6,21.6,0.0,protein
+goat meat raw,93.4,10.5,0.0,protein
+ground emu raw,26.6,4.7,0.0,protein
+ground ostrich raw,22.0,9.5,0.0,protein
+ostrich tip cooked,24.2,2.2,0.0,protein
+caribou cooked,38.0,6.4,0.0,protein
+ground ostrich cooked,24.3,6.6,0.0,protein
+ostrich leg cooked,24.7,1.6,0.0,protein
+ostrich top loin cooked,23.9,3.3,0.0,protein
+ostrich strip cooked,25.0,3.6,0.0,protein
+ostrich tip raw,18.6,2.0,0.0,protein
+ostrich round raw,18.7,2.0,0.0,protein
+ground bison raw,17.2,6.1,0.1,protein
+ostrich fan raw,18.5,2.3,0.0,protein
+ostrich top loin raw,18.4,2.5,0.0,protein
+veal brain cooked,38.9,32.6,0.0,protein
+veal tongue cooked,65.9,25.8,0.0,protein
+beef heart cooked,8.1,1.3,0.06,protein
+turkey liver cooked,14.3,4.3,0.0,protein
+veal thymus cooked,6.4,0.9,0.0,protein
+beef brain cooked,44.1,55.6,0.0,fat
+beef pancreas cooked,60.2,38.2,0.0,protein
+beef tripe cooked,10.0,3.4,1.7,protein
+chicken gizzard cooked,44.1,3.9,0.0,protein
+pork pancreas cooked,69.8,26.5,0.0,protein
+beef tongue cooked,5.5,6.3,0.0,fat
+lamb heart cooked,47.7,15.1,3.7,protein
+beef spleen cooked,77.3,12.9,0.0,protein
+veal kidneys cooked,48.4,10.4,0.0,protein
+chicken heart cooked,38.3,11.5,0.1,protein
+lamb tongue cooked,55.0,51.7,0.0,protein
+veal heart cooked,57.7,13.4,0.3,protein
+chicken liver cooked,11.3,2.8,0.5,protein
+lamb pancreas cooked,52.7,34.9,0.0,protein
+veal spleen cooked,83.1,10.0,0.0,protein
+lamb liver cooked,102.7,29.6,8.5,protein
+turkey gizzard cooked,11.9,2.1,0.0,protein
+lamp spleen cooked,78.1,14.1,0.0,protein
+turkey heart cooked,5.0,1.5,0.0,protein
+beef liver cooked,19.8,3.6,3.5,protein
+lamb lungs cooked,75.7,11.8,0.0,protein
+pork brain cooked,46.4,36.3,0.0,protein
+goose liver,15.4,4.0,5.9,protein
+pork kidneys cooked,35.6,6.6,0.0,protein
+lamb brain cooked,43.5,35.3,0.0,protein
+pork heart cooked,34.2,7.3,0.6,protein
+lamb kidneys cooked,60.3,9.2,2.5,protein
+beef lungs cooked,61.8,11.2,0.0,protein
+veal pancreas cooked,69.8,35.0,0.0,protein
+pork liver cooked,92.1,15.6,13.3,protein
+beef kidneys cooked,7.7,1.3,0.0,protein
+turkey giblets cooked,25.1,6.3,0.0,protein
+duck liver raw,8.2,2.0,1.6,protein
+veal liver cooked,22.7,5.0,3.0,protein
+pork lungs cooked,49.8,9.3,0.0,protein
+veal lungs cooked,56.2,7.9,0.0,protein
+beef thymus cooked,83.2,95.2,0.0,fat
+ham,4.6,2.5,1.0,protein
+pork meat cooked,14.1,14.1,0.0,protein
+bacon roasted,3.0,3.3,0.1,fat
+pork top loin roasts raw,468.4,182.8,0.0,protein
+pork blade roll raw,4.7,6.2,0.0,fat
+pork backribs raw,204.2,174.9,0.0,protein
+pork spareribs cooked,51.4,53.6,0.0,fat
+pork stomach cooked,6.1,2.1,0.03,protein
+honey smoked ham cooked,9.9,1.3,4.0,protein
+boston butt steak raw,79.0,56.1,0.0,protein
+pork sirloin chops cooked,23.3,4.5,0.0,protein
+pork country style ribs raw,24.8,15.1,0.0,protein
+ham patties,8.3,18.3,1.1,fat
+pork feet cooked,6.2,4.5,0.0,protein
+ground pork cooked,80.4,65.0,0.0,protein
+pork centre loin chops cooked,40.2,17.4,0.0,protein
+pork leg cap steak cooked,53.5,8.6,0.0,protein
+pork blade chops raw,55.8,15.4,0.0,protein
+pork tenderloin raw,104.3,17.8,0.0,protein
+pork sirloin chops raw,205.5,23.3,0.0,protein
+pork leg cap steak raw,50.0,7.8,0.0,protein
+pork carcass raw,63.1,159.1,0.0,fat
+pork splean cooked,84.3,9.6,0.0,protein
+chopped ham,4.6,2.9,1.2,protein
+pork centre loin chops raw,41.2,18.0,0.0,protein
+pork blade chops cooked,32.4,14.6,1.1,protein
+boston butt steak cooked,46.4,32.7,0.0,protein
+pork meat raw,2.6,18.6,0.0,fat
+pork top loin chops raw,39.9,12.8,0.0,protein
+pork blade steak braised,68.2,44.7,0.09,protein
+pork boston steaks cooked,43.2,28.1,0.0,protein
+bacon cooked,3.5,3.1,0.07,protein
+pickled pork hocks,5.4,3.0,0.0,protein
+pork boston roast cooked,60.5,49.4,0.0,protein
+canadian style bacon grilled,5.7,2.0,0.3,protein
+ham steak,11.1,2.4,0.0,protein
+pork backfat,13.2,402.3,0.0,fat
+bacon baked,2.9,3.5,0.1,fat
+pork arm picnic raw,513.6,343.4,0.0,protein
+salt pork raw,1.4,22.8,0.0,fat
+pork arm picnic cooked,560.3,322.7,0.0,protein
+pork top loin chops cooked,39.4,11.2,0.0,protein
+ground pork raw,21.1,26.5,0.0,fat
+pork shoulder raw,77.9,81.6,0.0,fat
+pork chitterlings cooked,3.5,5.8,0.0,fat
+pork breakfast strips cooked,3.3,4.1,0.1,fat
+pork blade roll roasted,65.0,88.3,1.4,fat
+pork tail cooked,46.8,98.5,0.0,fat
+pork centre rib roasts raw,44.0,9.7,0.0,protein
+pork centre rib roasts roasted,211.3,114.9,0.0,protein
+minced ham,3.4,4.3,0.4,fat
+ham roasted,28.7,21.3,0.6,protein
+pork loin raw,23.1,14.7,0.0,protein
+pork backribs roasted,202.0,188.9,0.0,protein
+pork belly raw,42.4,240.5,0.0,fat
+ham raw,23.8,18.2,0.05,protein
+ham extra lean,5.1,2.3,0.6,protein
+pork feet pickled,52.8,45.5,0.03,protein
+pork shoulder cooked,31.4,28.9,0.0,protein
+pork top loin roasts roasted,224.3,74.8,0.0,protein
+pork skin,17.3,8.9,0.0,protein
+pork country style ribs cooked,22.8,15.2,0.0,protein
+pork blade steak raw,67.6,43.7,0.6,protein
+pork tenderloin cooked,22.7,6.2,0.0,protein
+pork loin cooked,24.2,12.1,0.0,protein
+pork ears cooked,17.7,12.0,0.2,protein
+pork tongue cooked,55.7,43.0,0.0,protein
+pork spareribs raw,200.6,303.5,0.0,fat
+ham patties grilled,8.0,18.5,1.0,fat
+chicken skin roasted,22.8,45.6,0.0,fat
+turkey breast raw,495.6,158.9,0.0,protein
+ground turkey raw,22.4,8.7,0.0,protein
+chicken wing cooked,4.8,3.5,0.0,protein
+turkey roast roasted,28.8,7.8,4.1,protein
+pheasant meat raw,181.6,74.3,0.0,protein
+chicken back raw,8.3,17.0,0.0,fat
+chicken back cooked,8.0,6.5,0.0,protein
+chicken leg fried,34.4,25.5,13.8,protein
+chicken feet cooked,88.0,66.2,0.9,protein
+turkey steak fried,9.1,10.8,10.9,carbs
+turkey taco meat cooked,30.7,13.9,5.5,protein
+chicken leg raw,56.3,54.9,0.6,protein
+chicken meat raw,171.1,138.6,0.0,protein
+chicken neck cooked,7.5,6.9,0.0,protein
+chicken drumstick fried,15.8,11.3,6.0,protein
+quail egg,1.2,1.0,0.08,protein
+duck meat cooked,26.6,39.7,0.0,fat
+chicken wing roasted,20.2,14.3,0.0,protein
+quail meat cooked,113.7,63.9,0.0,protein
+goose meat cooked,35.2,30.7,0.0,protein
+chicken breast cooked,17.3,4.5,0.0,protein
+chicken neck raw,7.0,13.1,0.0,fat
+duck egg,9.0,9.6,1.0,fat
+pheasant breast raw,88.7,11.8,0.0,protein
+duck meat raw,145.7,498.8,0.0,fat
+squab meat raw,36.8,47.4,0.0,fat
+chicken drumstick raw,23.4,12.4,0.1,protein
+turkey meat roasted,42.8,11.1,0.03,protein
+chicken breast raw,36.3,16.1,0.0,protein
+ground chicken cooked,58.4,27.4,0.0,protein
+turkey wing cooked,50.9,23.1,0.0,protein
+goose meat raw,259.8,550.7,0.0,fat
+turkey breast roasted,496.1,128.0,0.0,protein
+chicken fajita strips,1.7,0.5,0.2,protein
+crispy chicken strips tyson,0.0,6.0,0.0,fat
+eggnog,11.6,10.6,20.4,carbs
+beer light,0.8,0.0,5.4,carbs
+beer budweiser,0.1,0.0,0.9,carbs
+weizenbier erdinger,0.0,18.0,0.0,fat
+beer light budweiser,0.07,0.0,0.4,carbs
+beer,1.5,0.0,11.7,carbs
+root beer,0.0,0.0,52.3,carbs
+whiskey sour mix,0.05,0.07,6.3,carbs
+whiskey sour,0.0,0.0,13.9,carbs
+tequila sunrise,0.6,0.2,23.8,carbs
+daiquiri,0.04,0.04,4.2,carbs
+pina colada,0.6,2.7,32.0,carbs
+whiskey,0.0,0.0,0.1,carbs
+rum,0.0,0.0,0.0,protein
+vodka smirnoff,0.0,0.4,2.0,carbs
+coffee liqueur,0.04,0.04,13.8,carbs
+gin,0.0,0.0,0.0,protein
+dessert wine sweet,0.2,0.0,14.1,carbs
+chenin blanc white wine,0.1,0.0,4.9,carbs
+gamay red wine,0.1,0.0,3.5,carbs
+late harvest white wine,0.1,0.0,20.6,carbs
+gewurztraminer white wine,0.1,0.0,3.8,carbs
+burgundy red wine,0.1,0.0,7.4,carbs
+zinfandel red wine,0.1,0.0,4.2,carbs
+muller thurgau white wine,0.1,0.0,5.2,carbs
+mouvedre red wine,0.1,0.0,3.9,carbs
+table wine,0.1,0.0,4.0,carbs
+wine light,0.1,0.0,1.7,carbs
+white wine,0.1,0.0,3.8,carbs
+petite sirah red wine,0.1,0.0,3.9,carbs
+non alcoholic wine,0.1,0.0,0.3,carbs
+pinot noir red wine,0.1,0.0,3.4,carbs
+pinot gris grigio white wine,0.1,0.0,3.0,carbs
+riesling white wine,0.1,0.0,5.5,carbs
+barbera red wine,0.1,0.0,5.6,carbs
+lemberger red wine,0.1,0.0,3.6,carbs
+merlot red wine,0.1,0.0,3.7,carbs
+sangiovese red wine,0.1,0.0,3.9,carbs
+sauvignon blanc white wine,0.1,0.0,3.0,carbs
+syrah red wine,0.1,0.0,3.8,carbs
+carignane red wine,0.4,0.0,12.0,carbs
+pinot blanc white wine,0.1,0.0,2.9,carbs
+semillon white wine,0.1,0.0,4.6,carbs
+dessert wine dry,1.0,0.0,58.4,carbs
+red wine,0.1,0.0,3.8,carbs
+cabernet sauvignon red wine,0.1,0.0,5.2,carbs
+muscat white wine,0.1,0.0,7.8,carbs
+cooking wine,0.03,0.0,0.3,carbs
+chardonnay white wine,0.1,0.0,4.3,carbs
+claret red wine,0.1,0.0,4.4,carbs
+rice sake,0.7,0.0,7.4,carbs
+fume blanc white wine,0.1,0.0,3.3,carbs
+cabarnet franc red wine,0.1,0.0,3.6,carbs
+chocolate frosting,0.2,3.6,13.0,carbs
+white sugar,0.0,0.0,5.0,carbs
+egg substitute,24.0,0.0,4.8,protein
+agave syrup,0.02,0.08,5.3,carbs
+splenda sweetener,0.0,0.0,91.2,carbs
+vanilla extract,0.0,0.07,0.5,carbs
+egg yolk dried,1.3,2.3,0.05,fat
+granulated sugar,0.0,0.0,4.2,carbs
+baking chocolate,3.7,15.2,8.7,fat
+bakers yeast,1.4,0.3,3.1,carbs
+fondant,0.0,0.01,26.4,carbs
+brown sugar,0.02,0.0,4.1,carbs
+white frosting dry,4.8,0.0,196.4,carbs
+maple sugar,0.04,0.06,10.9,carbs
+fructose sweetener,0.0,0.0,4.2,carbs
+saccharin sweetener,0.9,0.0,89.1,carbs
+egg white raw,3.6,0.06,0.2,protein
+turbinado sugar,0.0,0.0,4.6,carbs
+vanilla frosting,0.0,75.0,313.7,carbs
+aspartame sweetener,2.2,0.0,89.1,carbs
+egg raw,7.0,5.3,0.4,protein
+pineapple topping,0.3,0.3,225.8,carbs
+egg white dried,5.8,0.09,0.3,protein
+egg yolk raw,2.7,4.5,0.6,fat
+baking soda,0.0,0.0,0.0,protein
+egg dried,2.4,2.2,0.05,protein
+strawberry topping,0.01,0.1,13.9,carbs
+bakers yeast dry,1.6,0.3,1.6,protein
+almond paste,20.4,63.0,108.5,carbs
+cream of tartar,0.0,0.0,1.8,carbs
+popover dry mix,17.7,7.3,120.7,carbs
+egg substitute powder,15.7,3.7,6.2,protein
+gelatin powder,4.3,0.09,0.0,protein
+tapioca pearls,0.3,0.09,134.8,carbs
+baking powder,0.0,0.0,1.3,carbs
+egg boiled,7.5,6.4,0.7,protein
+millet flour,12.8,5.1,86.9,carbs
+triticale flour,17.1,2.4,95.1,carbs
+corn flour white,9.6,4.2,87.3,carbs
+rice flour brown,11.4,4.4,120.8,carbs
+sorghum flour,9.5,4.0,93.7,carbs
+cornmeal whole grain,9.9,4.4,93.8,carbs
+cornmeal white,11.2,2.7,124.7,carbs
+barley flour,15.5,2.4,110.3,carbs
+safflower seed meal,10.1,0.7,13.8,carbs
+sesame flour,38.5,46.4,33.3,fat
+whole grain wheat flour,15.9,3.0,86.4,carbs
+corn flour yellow,8.1,4.5,89.9,carbs
+corn flour whole grain,8.1,4.5,89.9,carbs
+cottonseed flour low fat,14.1,0.4,10.2,protein
+sunflower seed flour,1.9,0.01,1.4,protein
+sesame meal,4.8,13.6,7.4,fat
+acorn flour,9.4,37.7,68.3,carbs
+rice flour white,9.4,2.2,126.6,carbs
+sesame flour low fat,14.2,0.5,10.0,protein
+potato flour,11.0,0.5,133.0,carbs
+cornmeal yellow,11.2,2.7,124.7,carbs
+rye flour,10.0,1.4,78.2,carbs
+arrowroot flour,0.4,0.1,112.8,carbs
+chickpea flour,20.6,6.2,53.2,carbs
+wheat flour,12.9,1.2,95.4,carbs
+cornstarch,0.3,0.03,116.8,carbs
+carob flour,0.3,0.06,5.3,carbs
+buckwheat flour,15.1,3.7,84.7,carbs
+pecan pie,6.0,27.1,63.7,carbs
+apple pie,3.0,15.6,46.4,carbs
+vanilla wafer pie crust,6.5,63.7,88.4,carbs
+chocolate pie crust,11.1,40.8,117.4,carbs
+apple strudel,2.3,8.0,29.2,carbs
+chocolate snack cake,1.8,8.0,30.2,carbs
+fruit fried pie,3.8,20.6,54.5,carbs
+pumpkin pie,7.0,14.4,40.9,carbs
+corn cake,0.7,0.2,7.5,carbs
+sponge snack cake,1.5,4.8,26.9,carbs
+danish pastry with nuts,4.6,16.4,29.7,carbs
+chocolate cream pie,2.6,19.2,33.3,carbs
+angel food cake,1.7,0.2,16.2,carbs
+lemon meringue pie,4.8,16.4,49.7,carbs
+danish pastry with cinnamon,4.8,16.7,46.9,carbs
+cinnamon coffeecake,3.9,13.3,26.6,carbs
+cheesecake,4.4,18.0,20.4,carbs
+fruitcake,1.2,3.9,26.5,carbs
+egg custard,14.2,12.9,31.0,carbs
+mince pie,4.3,17.8,79.2,carbs
+yellow cake with chocolate frosting,4.6,25.6,79.7,carbs
+danish pastry with fruit,4.8,15.9,45.1,carbs
+white cake with coconut frosting,4.9,11.5,70.8,carbs
+danish pastry with cheese,5.8,24.6,28.7,carbs
+graham cracker pie crust,9.3,45.4,117.7,carbs
+blueberry pie,4.0,17.5,49.2,carbs
+yellow cake with vanilla frosting,2.2,9.3,37.6,carbs
+pie crust,1.5,8.0,10.9,carbs
+chocolate cake with chocolate frosting,4.8,27.7,72.9,carbs
+cheese coffeecake,5.3,11.6,33.7,carbs
+vanilla cream pie,6.0,18.1,41.1,carbs
+pineapple cake,4.0,13.9,58.1,carbs
+peach pie,2.2,11.7,38.5,carbs
+fruit coffeecake,2.6,5.1,25.8,carbs
+pound cake,1.7,6.0,14.6,carbs
+pound cake bread,3.9,9.6,28.2,carbs
+white cake,4.0,9.2,42.3,carbs
+coffeecake with chocolate frosting,4.5,9.7,48.4,carbs
+popcorn cake,1.0,0.3,8.0,carbs
+banana cream pie,52.2,161.3,390.2,carbs
+baked apple pie mcdonalds,0.9,4.4,12.3,carbs
+sponge cake,4.6,2.7,36.4,carbs
+yellow cake,3.6,9.9,36.0,carbs
+shortcake,1.7,4.0,13.7,carbs
+cherry pie,5.0,22.0,69.3,carbs
+dutch apple pie,3.0,15.8,61.0,carbs
+chocolate cake,5.0,14.3,50.7,carbs
+marshmallow,0.4,0.03,16.3,carbs
+sugar apple,1.6,0.2,18.2,carbs
+toffee,0.1,3.9,7.8,carbs
+vanilla fudge with nuts,0.8,3.9,21.1,carbs
+peanuts chocolate coated,0.5,1.3,2.0,carbs
+caramel with nuts chocolate coated,1.3,2.9,8.5,carbs
+gingerbread,2.9,12.1,36.4,carbs
+rolo nestle,0.01,1.0,0.2,fat
+vanilla fudge,0.3,1.5,23.2,carbs
+halavah,8.7,15.1,42.3,carbs
+praline,1.3,10.1,23.2,carbs
+fruit juice bar,0.9,0.09,15.6,carbs
+peanut brittle,2.1,5.4,20.2,carbs
+butterscotch,0.08,0.2,4.8,carbs
+chocolate coffee beans,2.1,9.4,15.6,carbs
+nougat with almonds,0.5,0.2,12.9,carbs
+carob,2.0,7.8,14.1,carbs
+peanut butter fudge,0.6,1.1,12.4,carbs
+sugar coated almonds,0.4,0.6,2.4,carbs
+chocolate coated marshmallow,1.1,4.7,19.0,carbs
+raisins chocolate coated,4.1,14.8,68.4,carbs
+chewing gum sugarless,0.0,0.01,1.9,carbs
+chewing gum,0.0,0.03,2.9,carbs
+chocolate syrup,0.8,0.4,25.4,carbs
+chocolate fudge syrup,0.9,1.7,12.0,carbs
+m ms milk chocolate mars,1.8,8.9,29.9,carbs
+milk chocolate with almonds,3.7,14.1,21.9,carbs
+chocolate fudge,0.4,1.8,13.0,carbs
+milk chocolate with rice cereal,0.0,0.0,0.0,protein
+m ms peanut chocolate mars,1.7,4.7,10.9,carbs
+dark chocolate,1.5,9.7,18.0,carbs
+chocolate semisweet,7.1,50.4,107.4,carbs
+after eight mints nestle,0.1,1.0,6.7,carbs
+milk chocolate,0.5,2.1,4.2,carbs
+white chocolate,1.8,9.6,17.8,carbs
+chocolate,1.6,14.0,24.8,carbs
+twix mars,1.4,7.2,18.8,carbs
+kit kat nestle,0.7,3.3,7.6,carbs
+snickers mars,4.3,13.6,35.1,carbs
+milky way mars,2.3,10.0,41.3,carbs
+clif bar,10.0,4.0,44.5,carbs
+gum drops,0.0,0.04,4.4,carbs
+skittles wild berry mars,0.1,2.6,56.3,carbs
+skittles original mars,0.1,2.7,56.3,carbs
+skittles tropical mars,0.1,2.7,56.3,carbs
+fruit leather,0.03,0.4,12.0,carbs
+taffy,0.09,0.5,13.7,carbs
+eisbonbons mac iver,0.0,0.0,0.0,protein
+caramels,0.5,0.8,7.8,carbs
+hard candy,0.0,0.07,5.9,carbs
+jellybeans,0.0,0.04,1.0,carbs
+jellies,0.0,0.07,14.7,carbs
+wheat germ toasted,8.7,3.2,14.9,carbs
+crispy brown rice,2.3,1.1,27.5,carbs
+bran flakes asda,0.0,0.6,0.2,fat
+amaranth cooked,9.3,3.9,46.0,carbs
+triticale,25.1,4.0,138.5,carbs
+barley raw,1.2,0.1,9.3,carbs
+bulgur dry,6.1,0.7,37.9,carbs
+cottonseed kernels roasted,48.6,54.1,32.6,fat
+rice bran,15.8,24.6,58.6,carbs
+chaptti roti indian bread,7.0,2.5,0.09,protein
+quinoa cooked,8.1,3.6,39.4,carbs
+dar vida swiss original,0.0,3.1,0.5,fat
+teff cooked,9.8,1.6,50.0,carbs
+couscous dry,22.1,1.1,134.0,carbs
+weetabix weetabix,0.0,11.5,0.0,fat
+oat bran cooked,7.0,1.9,25.1,carbs
+buckwheat cooked,5.7,1.0,33.5,carbs
+millet puffed,2.7,0.7,16.8,carbs
+oat bran raw,1.3,0.5,4.9,carbs
+popcorn oil popped,0.8,4.8,5.0,carbs
+kamut cooked,11.1,1.6,52.4,carbs
+wheat bran,9.0,2.5,37.4,carbs
+cheese popcorn,1.0,3.7,5.7,carbs
+raisin bran crunch kelloggs,1.9,0.5,21.2,carbs
+couscous cooked,6.0,0.3,36.5,carbs
+multigrain cheerios general mills,0.04,0.0,1.0,carbs
+bulgur cooked,5.6,0.4,33.8,carbs
+popcorn air popped,1.0,0.4,6.2,carbs
+teff raw,25.7,4.6,141.1,carbs
+spelt cooked,10.7,1.6,51.3,carbs
+millet raw,22.0,8.4,145.7,carbs
+popcorn unpopped,3.1,1.2,20.9,carbs
+whole wheat cooked,4.8,1.0,33.2,carbs
+wheat sprouted,8.1,1.4,45.9,carbs
+whole wheat dry,3.1,0.6,21.1,carbs
+caramel popcorn,1.1,3.6,22.4,carbs
+wheat puffed,1.8,0.1,9.6,carbs
+roggenmischbrot sonnenblumenkerne aldi,0.0,3.1,0.0,fat
+wheat germ,7.2,3.0,16.1,carbs
+microwave popcorn,7.3,26.3,49.8,carbs
+millet cooked,6.1,1.7,41.2,carbs
+kamut raw,27.3,4.1,130.9,carbs
+wheat durum,26.3,4.7,136.6,carbs
+sorghum,21.7,6.3,143.3,carbs
+white wheat,21.7,3.3,145.7,carbs
+rye,17.5,2.8,128.2,carbs
+spelt raw,25.4,4.2,122.1,carbs
+buckwheat raw,1.6,0.4,8.6,carbs
+honey cereali general mills,0.0,2.0,3.0,carbs
+barley cooked,3.5,0.7,44.3,carbs
+oats,1.7,0.7,6.6,carbs
+amaranth raw,1.4,0.7,6.5,carbs
+semolina,21.2,1.8,121.6,carbs
+quinoa dry,8.5,3.6,38.5,carbs
+wheat shredded,5.2,1.0,36.2,carbs
+cattail,0.2,0.0,1.0,carbs
+peanut granola bar,2.4,5.7,15.0,carbs
+vanilla bluberry bar kind,0.0,1.4,0.9,fat
+coconut granola bar,1.5,9.1,15.6,carbs
+almond granola bar,1.8,6.1,14.9,carbs
+chocolate chip granola bar,1.8,3.9,17.3,carbs
+fruit granola bar,1.4,0.2,18.6,carbs
+granola bar,2.1,4.2,13.5,carbs
+peanut bar,6.2,13.5,19.0,carbs
+milk cereal bar,1.6,2.7,18.0,carbs
+almond rice bar,2.0,5.7,18.1,carbs
+fruit nut squares,0.3,1.3,10.3,carbs
+rice wheat cereal bar,2.0,2.0,16.0,carbs
+crisped rice bar,1.4,3.8,20.4,carbs
+brown rice raw,14.7,5.4,142.9,carbs
+rice pilaf cooked,7.0,8.8,61.1,carbs
+beef flavored rice raw,19.8,2.3,139.1,carbs
+wild rice cooked,6.5,0.6,35.0,carbs
+wild rice raw,23.6,1.7,119.8,carbs
+congee with pork shrimp and squid plus egg,0.0,0.3,0.0,fat
+white rice pasta cooked,5.1,5.7,43.3,carbs
+chicken flavored rice raw,17.9,2.2,127.3,carbs
+instant white rice raw,7.4,0.9,78.2,carbs
+rice crisps,1.8,0.4,24.1,carbs
+parboiled white rice raw,13.9,1.9,149.6,carbs
+instant white rice cooked,3.6,0.8,41.4,carbs
+rice pilaf raw,21.3,2.8,155.7,carbs
+rice cracker cake,2.0,1.2,23.0,carbs
+parboiled white rice cooked,4.6,0.6,41.2,carbs
+white rice steamed,4.2,0.4,44.7,carbs
+brown rice cake,0.7,0.3,7.3,carbs
+glutinous white rice raw,12.6,1.0,151.1,carbs
+white rice pasta raw,15.3,4.0,122.8,carbs
+glutinous white rice cooked,3.5,0.3,36.7,carbs
+brown rice cooked,4.5,1.6,45.8,carbs
+beef flavored rice cooked,7.0,7.9,54.4,carbs
+white rice cooked,4.3,0.4,44.5,carbs
+chicken flavored rice cooked,6.2,8.0,54.8,carbs
+white rice raw,13.2,1.2,147.9,carbs
+cheese imitation,28.3,36.2,1.1,fat
+cheshire cheese,6.6,8.7,1.4,fat
+monterey cheese,27.7,34.2,0.8,fat
+edam cheese,7.5,8.3,0.4,fat
+fontina cheese,27.6,33.6,1.7,fat
+monterey cheese low fat,31.9,24.4,0.8,protein
+colby cheese,26.8,36.3,2.9,fat
+american cheese,4.5,7.9,0.9,fat
+blue cheese,6.4,8.6,0.7,fat
+hot tea (garam chai),0.39,0.53,2.58,carbs
+instant coffee,0.64,0.75,3.65,carbs
+espreso coffee,1.75,2.14,6.62,carbs
+iced tea,0.03,0.01,2.7,carbs
+raw mango drink (aam panna),0.16,0.03,9.05,carbs
+fruit punch (with fresh juices),0.14,0.03,9.38,carbs
+fruit punch (with squashes),0.07,0.02,5.99,carbs
+lemonade,0.03,0.01,5.48,carbs
+lem-o-gin,0.08,0.03,5.55,carbs
+cumin infused water (jeere/zeere ka pani),0.17,0.11,1.86,carbs
+coco pine cooler,0.56,1.0,5.72,carbs
+summer cooler,0.37,0.04,5.43,carbs
+hot cocoa,3.36,4.56,9.23,carbs
+cold coffee with ice cream,1.57,2.11,11.24,carbs
+banana milkshake (kele milkshake),1.84,2.37,9.15,carbs
+mango milkshake (aam milkshake),1.73,2.35,7.23,carbs
+pineapple milkshake (ananas milkshake),1.66,2.23,7.62,carbs
+orange milkshake (narangi milkshake),1.86,2.52,7.11,carbs
+egg nog,4.78,5.11,8.15,carbs
+sweet lassi (meethi lassi),1.29,0.68,6.51,carbs
+lassi (salted),1.35,0.72,1.86,carbs
+cheese and chilli sandwich,6.8,9.78,27.4,carbs
+egg sandwich (ande ka sandwich),8.69,15.8,29.16,carbs
+cucumber sandwich (kheere ka sandwich),4.8,8.0,25.77,carbs
+cheese and pineapple sandwich (cheese aur ananas ka sandwich),8.2,12.8,29.1,carbs
+cheese and tomato sandwich (cheese aur tamatar ke sandwich),7.92,12.27,26.92,carbs
+chicken sandwich,13.12,11.75,25.38,carbs
+peanut and tomato sandwich (moongfali aur tamatar ka sandwich),9.53,16.14,28.54,carbs
+rainbow sandwich,7.75,12.54,34.26,carbs
+club sandwich,7.31,15.12,18.51,carbs
+vegetarian club sandwich,5.45,11.33,19.68,carbs
+pin wheel sandwich,8.77,24.93,14.0,fat
+carrot apple sandwich (gajar aur seb ka sandwich),5.3,9.12,29.04,carbs
+salami sandwich,8.7,15.51,21.54,carbs
+vegetable and mayonnaise sandwich,4.47,15.4,23.2,carbs
+egg and tomato sandwich (ande aur tamatar ka sandwich),7.66,10.51,25.9,carbs
+sweet open sandwich,4.99,8.15,39.24,carbs
+mushroom and cheese sandwich (toasted),7.79,13.01,21.01,carbs
+cheese and tomato sandwich (toasted) (cheese aur tamatar ke sandwich (toasted)),6.82,12.95,21.42,carbs
+pea potato sandwich (toasted) (matar aloo ka sandwich),4.6,5.43,25.17,carbs
+paneer pea sandwich (toasted) (paneer matar ka sandwich),12.4,11.98,24.05,carbs
+chicken sandwich (toasted),12.08,5.32,18.82,carbs
+pea keema sandwich (toasted) (matar aur keema ka sandwich),11.06,5.61,20.26,carbs
+classic club sandwich,6.74,11.56,18.49,carbs
+sesame toast,1.9,49.38,11.15,fat
+cracked wheat porridge (meetha daliya),2.64,4.08,8.87,carbs
+semolina porridge (suji/rava daliya),3.75,4.08,12.39,carbs
+oatmeal porridge,2.6,3.22,8.77,carbs
+cornflakes with milk,3.59,5.12,14.95,carbs
+rice flakes (chiwda/aval),3.62,3.99,15.57,carbs
+wheat flakes,3.62,3.99,15.57,carbs
+murmura (puffed rice),3.62,4.04,15.67,carbs
+puffed wheat (murmure/moori),3.62,4.04,15.67,carbs
+boiled egg (ubla anda),4.43,3.04,0.12,protein
+fried egg,11.59,19.62,0.31,fat
+poached egg,11.98,8.19,0.37,protein
+scrambled egg (ande ki bhurji),10.29,12.21,1.35,fat
+baked egg,11.88,12.65,15.42,carbs
+plain omelette/omlet,9.66,25.74,0.64,fat
+stuffed egg omelette/omlet,8.6,17.77,2.3,fat
+pancake,5.68,10.82,20.49,carbs
+keema pancake,9.01,11.25,9.56,fat
+vegetable pancake,3.87,6.57,12.24,carbs
+jam and fruit pancake,3.79,7.01,20.73,carbs
+khoa and coconut pancake,6.98,15.29,27.32,carbs
+brown stock,1.95,1.38,0.25,protein
+vegetable stock,0.3,1.38,0.96,fat
+chicken stock,3.69,1.51,0.37,protein
+clear tomato soup (tamatar ka soup),4.79,12.22,3.45,fat
+lentil soup,9.65,11.68,3.94,fat
+chicken consomme (clear chicken soup),11.47,12.02,1.19,fat
+cream of tomato soup,4.61,13.12,3.93,fat
+cream of green peas soup,7.13,14.78,6.75,fat
+cream of spinach soup,5.21,13.31,3.45,fat
+cream of mixed vegetable soup,6.84,9.05,4.93,fat
+cream of mushroom soup,6.64,15.5,3.74,fat
+chicken sweet corn soup,14.48,12.59,1.63,protein
+minestrone soup,9.3,11.09,3.71,fat
+egg drop soup,12.93,13.52,1.1,fat
+chinese cabbage and meat ball soup,5.21,56.57,1.43,fat
+french onion soup,11.41,14.39,4.28,fat
+hot and sour soup,3.12,1.31,1.78,protein
+talaumein soup,10.12,12.78,4.17,fat
+cold cucumber soup (thanda kheere ka soup),2.99,1.99,4.58,carbs
+cold summer garden soup,8.57,14.08,2.65,fat
+chapati/roti,5.88,3.56,35.65,carbs
+plain parantha/paratha,5.06,16.86,30.69,carbs
+potato parantha/paratha (aloo ka parantha/paratha),3.7,10.22,23.92,carbs
+radish parantha/paratha (mooli ka parantha/paratha),3.3,9.53,20.54,carbs
+cauliflower parantha/paratha (phoolgobhi ka parantha/paratha),3.73,9.47,18.84,carbs
+dal parantha/paratha,6.78,13.05,30.03,carbs
+sprouted moong parantha/paratha,4.29,12.43,24.31,carbs
+pea parantha/paratha (matar ka parantha/paratha),5.59,8.8,21.51,carbs
+keema parantha/paratha,9.41,13.91,18.36,carbs
+paneer parantha/paratha,7.98,14.62,24.33,carbs
+besan and spinach parantha/paratha (besan aur palak ka parantha/paratha),5.54,12.09,21.39,carbs
+poori,1.35,77.61,8.22,fat
+spinach poori (palak poori),1.42,71.86,7.76,fat
+methi poori,1.45,74.6,7.98,fat
+dal stuffed poori,2.08,81.69,10.14,fat
+potato stuffed poori (aloo ki poori),1.52,81.35,9.4,fat
+tandoori parantha/paratha,5.08,16.51,30.74,carbs
+boiled rice (uble chawal),2.6,0.18,25.72,carbs
+plain pulao,2.34,4.62,21.82,carbs
+mixed vegetable pulao,2.72,3.33,17.49,carbs
+mushroom pulao,2.52,4.03,19.02,carbs
+sprouted moong pulao,2.19,3.61,17.49,carbs
+paneer pulao,1.98,59.81,8.76,fat
+peanut pulao,5.32,9.51,21.18,carbs
+navratan pulao,6.2,9.45,36.98,carbs
+green chickpeas pulao (choliya pulao/hare chane ka pulao),4.88,4.82,27.57,carbs
+mutton biryani/biriyani,7.38,7.72,22.5,carbs
+vegetable biryani/biriyani,3.16,9.51,18.56,carbs
+"lemon rice (pulihora, elumichai sadam, chitranna)",4.26,7.88,21.62,carbs
+sweet rice (meethe chawal),2.1,4.57,42.59,carbs
+curd rice (dahi bhaat/dahi chawal/ perugu annam/daddojanam/thayir saadam),5.75,4.32,32.93,carbs
+tamarind rice (chintapandu pulihora/puliyodharai/puli sadam/huli anna),7.45,8.53,65.08,carbs
+spanish rice,4.19,2.23,31.1,carbs
+chinese fried rice,4.05,5.43,13.4,carbs
+macroni cheese pie,5.85,7.48,21.1,carbs
+vegetable chowmein,3.07,6.36,15.44,carbs
+chicken chowmein,6.33,8.23,13.3,carbs
+cheese noodle ring,6.22,6.12,13.96,carbs
+spaghetti and cheese balls in tomato sauce,2.41,52.08,7.82,fat
+penne platter,5.04,8.71,20.87,carbs
+pasta hot pot,5.84,6.47,11.6,carbs
+chicken lasagne,10.45,10.36,13.9,carbs
+fettuccine with spinach sauce,3.1,7.83,12.19,carbs
+naan,8.05,4.99,51.75,carbs
+bhatura,1.63,82.56,10.73,fat
+idli,4.64,0.33,28.18,carbs
+masala dosa,3.29,7.84,19.57,carbs
+semolina dosa (suji/rava dosa),7.3,7.12,32.84,carbs
+onion tomato uttapam,1.91,45.3,11.32,fat
+paneer kaathi roll,6.92,19.55,20.1,carbs
+makki ki roti,3.49,16.85,24.19,carbs
+washed moong dal (dhuli moong ki dal),2.68,1.68,5.91,carbs
+washed urad dal (dhuli urad ki dal),2.51,2.98,5.84,carbs
+split bengal gram with bottle gourd (channa dal with ghiya/lauki),2.79,3.6,7.1,carbs
+dry washed urad,6.85,3.5,15.66,carbs
+mixed dal,2.51,3.1,5.79,carbs
+whole moong (moong ki dal),2.25,2.56,5.22,carbs
+whole masoor (masoor ki dal),2.28,2.52,5.37,carbs
+whole moth (moth ki dal),2.01,2.62,5.74,carbs
+whole urad (urad ki dal),2.21,2.62,5.05,carbs
+moti mahal dal (urad rajmah mix dal),3.93,5.66,8.74,carbs
+black channa curry/bengal gram curry (kale chane ki curry),5.67,6.61,14.11,carbs
+chickpeas curry (safed channa curry),6.1,6.84,19.98,carbs
+lobia curry,6.06,5.62,17.88,carbs
+soyabean curry,10.43,10.19,6.76,protein
+kidney bean curry (rajmah curry),5.95,5.77,16.38,carbs
+sambar,3.35,4.38,10.57,carbs
+besan kadhi with pakodies,1.64,42.59,3.56,fat
+khatta channa,6.3,10.56,21.14,carbs
+sprouted moong dal chat,1.35,0.32,6.01,carbs
+potato cauliflower (aloo gobhi),1.9,8.13,5.99,fat
+potato capsicum (shimla mirch aloo),1.41,9.33,8.72,fat
+cabbage and peas (pattagobhi aur matar),3.24,2.64,6.24,carbs
+carrot and fenugreek leaves (gajar methi),2.1,3.81,4.17,carbs
+potato fenugreek (aloo methi),2.25,10.04,8.47,fat
+brinjal bhartha (baingan ka bhartha),1.38,4.48,4.4,fat
+dry potato (sookhe aloo),1.62,4.18,14.38,carbs
+beans with coconut (nariyal aur sem/phali; beans thoran),2.62,11.39,4.39,fat
+cauliflower with coconut (nariyal ke saath phoolgobhi),2.64,11.56,3.99,fat
+carrot and cabbage with coconut (nariyal ke saath pattagobhi aur gajar),1.82,8.62,4.99,fat
+raw turnip with coconut,1.8,11.47,5.78,fat
+raw papaya with coconut (papaya thoran),1.54,11.42,5.58,fat
+stuffed okra (bharwa bhindi),2.08,7.66,3.85,fat
+stuffed round gourd (bharwa tinde),1.1,5.75,4.02,fat
+stuffed capsicum (bharwa shimla mirch),1.34,5.7,8.26,carbs
+stuffed brinjal (bharwa baingan),1.53,7.73,3.96,fat
+stuffed tomatoes (bharwa tamatar),3.28,6.06,6.19,carbs
+pea potato curry (aloo matar),3.48,5.13,9.74,carbs
+pea paneer curry (matar paneer),6.61,7.75,9.29,carbs
+pea mushroom curry (matar mushroom),3.87,5.16,7.41,carbs
+pea curry (matar ki sabzi),4.51,5.11,9.2,carbs
+pea vadi curry,4.64,5.08,8.9,carbs
+paneer curry,7.8,12.38,8.4,fat
+lotus stem curry (kamal kakdi curry),1.53,7.25,9.24,carbs
+gravy for kofta,1.75,10.35,6.31,fat
+pea kofta curry (matar kofta curry),2.01,63.39,4.17,fat
+spinach kofta curry (palak kofta curry),1.09,61.49,3.56,fat
+paneer kofta curry,2.39,72.06,3.27,fat
+lotus stem kofta curry (kamal kakdi kofta curry),0.96,67.76,5.01,fat
+raw banana kofta curry (kela kofta curry),0.62,67.98,3.4,fat
+cauliflower kofta curry (phoolgobhi kofta curry),1.04,69.62,2.62,fat
+cabbage kofta curry (pattagobhi kofta curry),0.98,69.4,2.87,fat
+ghiya/lauki kofta curry,0.89,69.4,2.71,fat
+spinach paneer kofta curry (palak paneer kofta curry),1.43,65.41,2.94,fat
+vegetarian egg kofta curry,1.33,67.24,4.26,fat
+baked vegetables,3.67,4.44,8.44,carbs
+cauliflower musallam (phoolgobhi musallam),1.89,3.55,4.48,carbs
+baked vegetables with spinach,3.22,4.03,6.93,carbs
+baked potato with skin,3.43,8.5,11.11,carbs
+shepherd's pie (vegetarian),5.04,7.3,12.03,carbs
+baked brinjal in tomato sauce,1.58,1.62,4.13,carbs
+dum aloo,0.7,74.01,3.33,fat
+spinach paneer (palak paneer),4.03,4.76,4.43,fat
+methi chaman,1.54,50.91,2.78,fat
+sarson ka saag,3.0,5.86,5.33,fat
+jackfruit sabzi (kathal ki sabzi),0.69,67.6,3.4,fat
+avial,2.46,8.94,8.47,fat
+al yakhani,2.86,13.14,4.65,fat
+shahi paneer,5.06,12.34,6.64,fat
+paneer in butter sauce,6.99,8.81,9.7,carbs
+methi malai paneer,7.34,14.76,8.15,fat
+chilli paneer,2.1,84.01,3.31,fat
+paneer makhana korma,3.24,82.76,4.63,fat
+kadhai paneer,4.33,6.81,7.34,carbs
+roghan josh,9.56,9.02,4.93,protein
+spinach mutton (palak mutton),5.74,4.71,3.45,protein
+pea keema curry (matar keema ki sabzi),8.43,8.14,6.24,protein
+keema kofta curry,9.77,10.39,5.64,fat
+kashmiri mutton koftas (gushtaba),6.33,6.77,3.04,fat
+mutton yakhni,8.27,7.7,0.84,protein
+chicken yakhni,10.66,6.1,0.78,protein
+mutton do piaza,9.39,14.41,4.14,fat
+mutton chops,4.03,71.31,1.48,fat
+shammi kebab,4.52,72.61,3.54,fat
+scotch egg,4.05,72.62,1.91,fat
+shepherd's pie (with minced meat),7.45,8.88,8.06,fat
+chicken curry,11.79,7.57,3.38,protein
+tandoori chicken,16.26,7.93,2.34,protein
+butter chicken,10.92,8.7,3.74,protein
+chicken kebab,3.71,78.89,1.11,fat
+chilli chicken,9.57,16.56,2.86,fat
+fried chicken with tomato sauce (fried chicken tamatar ki chutney kay saath),11.48,7.61,2.51,protein
+fish curry (machli curry),8.76,6.69,3.77,protein
+fried fish (indian style) (tali hui machli),4.35,68.88,5.4,fat
+fried fish and chips (english style) (tali hui machli aur chips),3.36,69.69,2.77,fat
+tomato fish,2.39,51.91,3.18,fat
+baked fish with cheese sauce,8.64,7.02,4.06,protein
+fish tikka,16.0,4.15,3.91,protein
+tandoori fish,11.19,4.64,2.37,protein
+"paneer, apple and pineapple salad",3.88,5.07,8.35,carbs
+russian salad,4.26,7.84,6.5,fat
+pasta salad,4.15,13.92,12.7,fat
+deviled egg,4.97,7.72,2.23,fat
+hawain salad,4.27,11.37,14.35,carbs
+mixed pulse and vegetable salad,4.74,0.84,13.96,carbs
+sprouted moong salad,2.29,0.74,5.48,carbs
+tossed salad,1.02,4.22,4.95,carbs
+mixed vegetable salad with curd sauce,4.23,1.5,7.03,carbs
+potato salad (aloo ka salaad),1.4,4.4,11.19,carbs
+waldroff salad,1.47,10.05,11.02,carbs
+coleslaw,1.24,5.32,5.59,carbs
+fruit salad (phalon ka salaad),0.91,1.22,15.96,carbs
+tomato onion raita (tamatar aur pyaaz ka raita),3.74,1.84,7.08,carbs
+peanut raita (mungfali ka raita),8.59,8.98,9.3,carbs
+sprouted moong raita,4.62,2.19,6.13,carbs
+bottle gourd raita (ghiya/lauki ka raita),3.98,2.07,5.76,carbs
+cucumber raita (kheere ka raita),4.04,2.08,6.35,carbs
+carrot and spinach raita (gajar aur palak ka raita),4.0,1.99,5.83,carbs
+mint raita (pudinay ka raita),5.64,2.96,7.65,carbs
+potato raita (aloo ka raita),4.22,2.04,10.24,carbs
+boondi raita,2.19,73.83,3.96,fat
+sweet raita (meetha raita),3.24,1.78,17.93,carbs
+dahi vadas/dahi bhalla,2.96,70.4,5.49,fat
+gunjia,2.98,70.28,5.68,fat
+saunth/sonth chutney with tamarind/imli,1.01,0.15,33.55,carbs
+rice kheer (chawal ki kheer),2.3,2.97,10.05,carbs
+makhana kheer,3.31,5.0,12.88,carbs
+vermicelli kheer (semiya/seviyan ki kheer),3.35,5.0,15.87,carbs
+semolina kheer (suji/rava kheer),3.43,4.2,15.88,carbs
+paneer kheer,4.53,5.37,10.03,carbs
+cabbage kheer (pattagobhi ki kheer),2.87,3.8,9.73,carbs
+carrot kheer (gajar ki kheer),2.81,3.85,10.09,carbs
+cauliflower kheer (phoolgobhi ki kheer),3.04,3.95,8.78,carbs
+moong dal kheer,2.95,2.97,9.89,carbs
+phirni,3.49,4.34,16.11,carbs
+semolina halwa (suji ka halwa),2.16,13.38,24.67,carbs
+shahi suji halwa,3.48,21.73,44.44,carbs
+carrot halwa (gajar ka halwa),3.11,9.73,18.53,carbs
+egg halwa (ande ka halwa),7.85,13.41,39.59,carbs
+potato halwa (aloo ka halwa),1.53,3.48,29.18,carbs
+pumpkin halwa (kaddu ka halwa),1.33,8.81,27.6,carbs
+moong dal halwa,8.35,17.68,40.23,carbs
+caramel custard (steamed),4.97,4.87,15.02,carbs
+baked custard,5.41,5.3,9.45,carbs
+soft custard (stirred),5.01,5.07,11.19,carbs
+chocolate ice cream,4.47,11.25,15.41,carbs
+mango ice cream,3.4,7.62,11.14,carbs
+fruit ice cream (phalon ka ice cream),4.37,10.38,16.05,carbs
+caramel ice cream,4.31,11.15,14.81,carbs
+lemon souffle,6.95,10.02,13.43,carbs
+orange souffle,6.8,9.73,14.2,carbs
+vanilla souffle,7.71,11.19,14.78,carbs
+chocolate souffle,7.88,11.36,14.74,carbs
+pineapple souffle,8.06,11.72,15.52,carbs
+apple mousse,4.21,4.27,12.77,carbs
+rich chocolate mousse,7.96,12.19,10.84,fat
+mango mousse,3.21,8.47,9.14,carbs
+orange and pineapple cream,1.44,5.43,11.96,carbs
+charlotte rousse,3.95,4.78,34.08,carbs
+triffle pudding,2.93,3.93,18.24,carbs
+snow flakes pudding,4.67,4.97,8.07,carbs
+kulfi,3.21,4.7,11.3,carbs
+steamed orange pudding,2.34,12.04,41.53,carbs
+meringue and rice pudding,4.84,4.05,14.6,carbs
+cheese pudding,11.29,18.37,19.27,carbs
+chocolate pudding,3.55,9.48,29.59,carbs
+bread and butter pudding,5.59,7.88,19.63,carbs
+queen of pudding,5.51,5.38,16.35,carbs
+pineapple upside down pudding,3.15,11.91,35.73,carbs
+date and nut pie,3.93,13.31,46.86,carbs
+stewed apple with custard,1.27,1.82,18.36,carbs
+apple snowballs,0.86,0.31,24.58,carbs
+hot orange souffle,6.87,8.95,18.77,carbs
+hot chocolate souffle,6.7,11.1,26.21,carbs
+hot vanilla souffle,6.87,9.07,21.77,carbs
+plain burfi (burfi),9.82,27.96,30.88,carbs
+coconut burfi (nariyal ki burfi),8.81,34.63,32.15,fat
+bottle gourd burfi (ghiya/lauki burfi),5.86,17.68,24.51,carbs
+chocolate burfi,13.0,17.86,33.15,carbs
+cashewnut burfi (kaju burfi/kaju katli),5.48,28.46,37.92,carbs
+gram flour burfi (besan burfi),11.19,22.41,46.59,carbs
+semolina ladoo with khoya (suji/rava aur khoye ke ladoo ),6.71,21.86,52.86,carbs
+semolina ladoo with coconut (suji/rava aur nariyal ke ladoo ),5.68,27.03,50.9,carbs
+gram flour ladoo (besan ladoo),8.93,22.76,62.61,carbs
+sesame ladoo (til ke ladoo),10.7,19.64,43.5,carbs
+chenna murki,10.46,8.2,36.01,carbs
+milk cake,3.01,8.93,9.13,carbs
+ghujia/lavang latika,1.86,78.93,13.0,fat
+gulab jamun with khoya,2.03,53.23,26.09,fat
+mal pua,1.71,54.64,17.56,fat
+shahi tukre,2.76,2.54,41.46,carbs
+potato pakora/pakoda (aloo pakoda),1.9,71.84,6.04,fat
+onion pakora/pakoda (pyaaz ke pakode),1.9,71.84,5.41,fat
+cauliflower pakora/pakoda (phoolgobhi ke pakode),1.98,71.86,4.52,fat
+mixed vegetable pakora/pakoda,1.94,71.86,5.12,fat
+spinach pakora/pakoda (palak pakoda),1.96,76.38,4.68,fat
+methi pakora/pakoda (methi ke pakode),2.06,76.39,4.68,fat
+egg pakora/pakoda (ande ke pakode),2.83,75.86,4.48,fat
+bread pakora/pakoda,2.57,74.2,8.87,fat
+paneer pakora/pakoda,3.27,76.05,5.52,fat
+potato bonda (aloo bonda),1.09,67.8,4.53,fat
+potato samosa (aloo ka samosa),1.71,59.19,9.21,fat
+minced meat samosa (keema ka samosa),4.43,64.26,6.14,fat
+paneer and pea samosa (paneer matar ka samosa),4.02,63.65,8.55,fat
+mathri,1.75,83.1,12.32,fat
+khasta kachori,2.51,72.27,12.81,fat
+vegetable cutlet,1.25,71.33,4.68,fat
+flattened rice cutlet (chirwa cutlet/chivda cutlet/poha cutlet),1.76,73.89,7.39,fat
+peanut cutlet (mungfali ke cutlet),2.63,74.0,5.68,fat
+fish cutlet (machli ka cutlet),2.77,70.11,3.13,fat
+paneer potato cutlet (paneer aloo cutlet),2.47,71.4,5.23,fat
+spinach chickpeas cutlet (palak channa dal cutlet),1.44,73.6,4.93,fat
+cheese toast,1.98,84.11,5.49,fat
+vegetable burger,3.26,50.63,13.69,fat
+cheese pizza,5.79,12.43,30.62,carbs
+vegetable seekh kebab,1.57,73.72,5.32,fat
+masala vada,1.69,89.15,4.06,fat
+peanut sago vada (sabudana mungfali vada),1.01,79.82,7.14,fat
+vegeterian scotch egg,2.16,72.77,4.64,fat
+paneer shaslik/tikka,5.11,4.49,7.98,carbs
+peanut brittle (moongfali ki chikki),6.94,11.13,47.46,carbs
+spring roll,1.81,64.63,8.56,fat
+dry mango chutney (sookhe aam ki chutney),2.43,0.7,69.17,carbs
+peanut chutney (mungfali ki chutney),11.8,19.06,9.87,fat
+coconut chutney (nariyal ki chutney),3.59,25.0,8.29,fat
+mint and coriander chutney (pudinay aur dhaniye ki chutney),2.81,0.51,21.18,carbs
+custard tart,3.72,10.73,28.66,carbs
+lemon tart,6.12,17.45,30.68,carbs
+jam tart,4.42,17.35,46.18,carbs
+orange cream tart,2.58,8.72,27.43,carbs
+pineapple tart,2.29,8.21,28.62,carbs
+cheese and mushroom tart,5.51,15.28,21.43,carbs
+cottage cheese pie,7.45,13.83,20.66,carbs
+minced meat pie,7.38,13.04,18.11,carbs
+apple cinnamon pie,3.35,12.21,33.68,carbs
+lemon meringue pie,3.88,8.16,35.11,carbs
+chocolate meringue pie,4.98,9.17,28.8,carbs
+cream puffs,4.7,15.48,16.0,carbs
+chocolate eclairs,4.24,13.5,26.22,carbs
+cheese balls,2.21,72.57,4.81,fat
+minced meat patties,6.88,19.57,15.25,fat
+cheese patties,7.38,22.67,22.23,fat
+hot cheese souffle,9.18,13.23,5.41,fat
+hot potato souffle,5.51,7.64,8.56,carbs
+hot fish souffle,11.23,9.24,3.69,protein
+hot spinach souffle,5.43,7.24,4.19,fat
+plain cream cake,6.18,16.17,47.18,carbs
+apple cake (seb ka cake),4.94,12.87,39.48,carbs
+marble cake,6.3,16.27,46.88,carbs
+chocolate cake,6.01,15.18,45.14,carbs
+orange cake,6.1,16.21,48.28,carbs
+fruit loaf,5.36,13.31,46.49,carbs
+banana cake (kele ka cake),5.77,23.31,40.0,carbs
+chocolate chiffon cake,5.76,15.8,37.87,carbs
+christmas cake,5.49,16.88,48.29,carbs
+strawberry and vanilla cake with butter icing,3.89,20.39,44.25,carbs
+eggless cake,8.12,11.75,46.14,carbs
+swiss roll,7.3,3.77,48.34,carbs
+pineapple pastry,6.06,7.87,29.04,carbs
+black forest pastry,6.09,8.46,34.48,carbs
+coconut finger,7.09,8.86,42.56,carbs
+pineapple cake,5.01,9.34,23.51,carbs
+chocolate walnut cookies (chocolate aur akhrot ke cookies),6.56,23.62,47.1,carbs
+chocolate chip cookies,5.79,19.38,57.98,carbs
+sweet plain biscuit,5.86,17.67,50.29,carbs
+chocolate biscuit,5.88,17.09,51.56,carbs
+coconut biscuit (nariyal ke biscuit),5.78,27.16,42.9,carbs
+sweet and salty biscuit (meethay aur namkeen biscuit),6.15,22.39,45.09,carbs
+peanut biscuit,8.45,20.41,46.72,carbs
+pin wheel biscuit,5.4,18.66,54.56,carbs
+saffron biscuit (kesar biscuit),6.05,22.01,59.7,carbs
+masala biscuit,6.06,20.75,45.18,carbs
+ice box cookies,5.7,14.44,56.09,carbs
+ginger bread man,6.61,11.01,60.26,carbs
+danish cookies,5.33,24.92,58.0,carbs
+short bread cookies,6.03,17.98,64.82,carbs
+coffee biscuit,6.9,23.0,46.55,carbs
+melting moments,5.71,21.78,55.84,carbs
+ginger biscuit (adarak ke biscuit),5.98,18.31,58.44,carbs
+soyabean muthias,2.46,90.45,3.7,fat
+soyabean tikki,3.53,74.02,4.39,fat
+soyabean namak paras,2.65,89.83,4.65,fat
+peanut burfi (moongfali ki burfi),9.31,36.84,48.14,carbs
+spinach peanut namak paras (palak moongfali namak paras),1.65,78.51,6.62,fat
+gram flour and semolina chilla/cheela/savory pancake (besan suji chilla/cheela),2.08,80.04,7.63,fat
+rice moong dal cheela (chawal aur moong dal ka cheela),2.74,82.44,11.13,fat
+split bengal gram sweet rice (channa dal sweet rice),4.15,0.64,41.07,carbs
+sweet poori (meethi poori),2.12,79.63,14.26,fat
+wheat flour and moong dal burfi (atta aur moong dal ki burfi),9.84,18.41,60.0,carbs
+spinach burfi (palak burfi),2.71,6.81,12.76,carbs
+sweet split chickpea roti (sweet channa dal roti/puranpoli),9.51,7.93,62.66,carbs
+sprouted moong daliya,2.81,4.71,14.77,carbs
+sprouted moong poha,5.59,6.89,26.6,carbs
+pearl millet ladoo (bajra ladoo),9.61,8.06,50.98,carbs
+paushtik ladoo,7.65,24.98,60.34,carbs
+paushtik roti,7.17,1.51,26.59,carbs
+semolina carrot vada (suji gajar vada),1.56,74.07,6.52,fat
+dhokla,13.45,5.28,30.68,carbs
+kashmiri tea (kehwa),0.17,0.51,5.23,carbs
+steeped hot coffee,0.39,0.33,3.01,carbs
+hot chocolate,3.43,4.61,9.02,carbs
+cold coffee (with cream),1.93,3.29,11.98,carbs
+banana milkshake with ice cream (kele ka milkshake ice cream ke saath),2.01,2.77,11.15,carbs
+flavoured milkshake,2.06,2.83,8.65,carbs
+jal jeera,0.44,0.26,6.7,carbs
+gingo,0.14,0.06,12.42,carbs
+mintade,0.03,0.02,10.59,carbs
+canjee,0.24,0.42,0.44,carbs
+cauliflower canjee (phoolgobhi ki canjee),0.39,0.42,0.35,fat
+potato canjee (aloo canjee),0.44,0.39,2.69,carbs
+vermicelli porridge (semiya/seviyan porridge),2.5,2.98,10.56,carbs
+semolina upma (suji/rava upma),3.3,7.49,16.31,carbs
+vermicelli upma (semiya/seviyan upma),3.11,7.45,16.88,carbs
+rice upma,2.63,7.46,17.96,carbs
+bread upma,2.8,7.75,12.6,carbs
+vegetable upma,4.73,6.63,16.46,carbs
+poha,6.09,14.14,35.05,carbs
+vegetable poha,4.89,8.07,21.52,carbs
+moong dal stuffed cheela/chilla (moong dal ka cheela/chilla),6.97,5.11,19.42,carbs
+paneer stuffed cheela/chilla,11.44,8.89,19.16,carbs
+indian style egg bhujia (anda bhujia (indian style)),6.1,7.02,3.76,fat
+french omelette/omlet,10.03,18.86,0.41,fat
+puffy omelette/omlet,8.82,16.84,0.08,fat
+orange omelette/omlet,8.93,16.84,1.68,fat
+cheese and mushroom omelette/omlet,9.69,17.82,1.68,fat
+spanish omelette/omlet,8.25,11.44,5.1,fat
+mixed stock,2.06,1.71,0.33,protein
+meat stock,2.1,1.78,0.0,protein
+white stock,0.07,0.56,0.4,fat
+meat consomme (with mutton),14.86,13.68,0.51,protein
+consomme au julienne,12.49,10.66,1.49,protein
+consomme au vermicelli,15.23,12.98,1.3,protein
+green pea soup (matar ka soup),11.06,12.9,3.63,fat
+spinach soup (palak ka soup),10.54,14.26,3.03,fat
+mixed vegetable soup,8.22,11.66,2.95,fat
+cheese soup,12.39,17.07,1.87,fat
+mulligatawny soup,11.26,13.28,8.24,fat
+cream of carrot soup,8.27,12.35,5.69,fat
+cream of broccoli soup,8.97,12.75,3.72,fat
+cream of potato soup,8.1,12.05,6.14,fat
+almond soup (badam ka soup),10.13,13.8,3.68,fat
+cold cucumber cream soup,0.34,0.34,1.76,carbs
+cold tomato soup,0.11,1.56,0.59,fat
+chicken stew,7.19,8.91,4.44,fat
+veg paneer stew,6.98,8.41,10.22,carbs
+onion-green chilli parantha/paratha (pyaaz aur hari mirch ka parantha/paratha),4.37,7.27,26.37,carbs
+methi parantha/paratha,4.27,4.34,22.19,carbs
+bathua poori,2.35,59.14,13.85,fat
+gram flour poori (besan poori),2.59,71.51,10.93,fat
+beetroot poori (chukandar ki poori),1.91,52.18,12.29,fat
+peas poori (matar ki poori),3.04,57.69,14.92,fat
+peas kachori (matar kachori),3.21,57.51,13.25,fat
+pizza,6.85,8.72,9.94,carbs
+bacon and mushroom pancake,6.82,10.6,8.47,fat
+cheese and tomato pancake,5.15,9.28,10.66,carbs
+minced meat pancake (with chicken),12.01,10.48,8.18,protein
+eggplant/brinjal rice (vangi bhat),5.28,3.67,31.74,carbs
+kashmiri 'tahar',1.95,1.37,19.11,carbs
+cumin pulao (jeera/zeera pulao),2.47,3.2,23.61,carbs
+peas pulao (matar pulao),3.89,1.9,18.42,carbs
+split bengal gram dal and vegetable pulao (channa dal and vegetable pulao),3.6,2.3,19.72,carbs
+black channa pulao/ bengal gram pulao (kale chane ka pulao),3.44,2.58,21.55,carbs
+mutton pulao,6.52,10.78,11.26,carbs
+chicken pulao,6.07,8.48,11.17,carbs
+mexican rice,4.62,4.88,14.21,carbs
+plain khitchdi (plain khichri/khichdi),1.72,1.01,10.04,carbs
+instant idli (with semolina),9.16,3.61,43.4,carbs
+plain dosa,10.34,8.43,64.08,carbs
+masala dosa mixed vegetable fillings,4.84,3.26,23.02,carbs
+masala dosa paneer fillings,10.31,8.84,29.76,carbs
+uttapam,6.18,9.03,36.28,carbs
+appam,3.12,22.63,13.28,fat
+beans and macaroni,4.58,7.01,14.24,carbs
+spaghetti bolognese,9.35,9.51,10.04,carbs
+meat and macaroni casserole,9.15,10.17,16.12,carbs
+spaghetti with meat balls and tomato sauce,5.61,10.64,10.46,fat
+spaghetti with paneer balls and tomato sauce,3.95,10.44,12.72,carbs
+lasagne with meat sauce,2.9,3.43,5.38,carbs
+lasagne with vegetables,1.71,2.16,5.9,carbs
+home made egg noodles,6.55,4.37,42.92,carbs
+sour lentils (khatti dal),2.22,0.12,6.04,carbs
+urad special dehusked,3.14,2.17,8.86,carbs
+arhar with spinach (arhar dal aur palak),2.05,2.76,4.77,carbs
+moong dal with vadi,0.4,2.05,1.0,fat
+rasam with tamarind (puli rasam/ chintapandu rasam/ charu/saaru),1.13,0.88,3.37,carbs
+rasam with lemon (nimmakaya rasam/nimmakaya charu/elumichai rasam/nimbe hannina saaru),1.11,0.87,2.85,carbs
+green gram whole with baghar (sabut moong dal with tadka),3.23,2.48,6.8,carbs
+urad sabut special,2.33,5.46,5.03,fat
+kabuli channa curry,2.92,3.06,7.63,carbs
+besan gatte curry,7.75,10.72,16.26,carbs
+dry masala chops,9.08,9.54,3.3,fat
+mutton korma,7.09,8.54,2.53,fat
+shahi keema kofta curry,4.14,43.83,1.73,fat
+minced meat ball curry,6.82,7.85,2.86,fat
+boti kebab,9.22,9.27,3.06,fat
+mutton seekh kebab,11.25,8.43,3.11,protein
+indian lamb and egg curry (nargisi kofta),3.84,34.7,2.07,fat
+soya chunks sweet and sour (nutrinugget sweet and sour),2.85,55.99,3.27,fat
+soya chunks korma (nutrinugget korma),3.86,9.5,7.67,fat
+mushroom matar,2.79,4.11,5.33,carbs
+soya chunks and peas (nutrinugget matar),3.03,5.11,5.82,carbs
+vegetable yakhni,1.18,43.8,1.94,fat
+spinach mushroom (palak mushroom),1.94,2.96,2.95,fat
+vegetarian nargisi kofta curry,2.29,32.94,6.58,fat
+roast chicken,20.49,13.06,0.1,protein
+shahi chicken masala,9.82,12.02,4.07,fat
+tomato chicken,10.57,6.71,2.13,protein
+creamy chicken,13.52,9.57,3.13,protein
+broccoli chicken ala king,7.97,7.57,5.34,protein
+ginger chicken,8.24,8.24,5.6,protein
+chicken sweet and sour,6.92,47.59,2.67,fat
+chicken korma,9.83,9.67,5.43,protein
+bengal fish curry (bengali machli curry),7.26,7.03,4.42,protein
+fish finger,5.66,55.82,4.47,fat
+fish in coconut milk (nariyal ke doodh ke saath machli),8.66,4.43,2.73,protein
+prawn curry (with coconut) (jhinga curry),8.54,6.93,3.1,protein
+baked stuffed fish,16.14,5.43,2.12,protein
+fish pie,9.25,5.77,7.74,protein
+crispy baked fish,10.95,6.41,9.59,protein
+fish souffle,10.51,8.55,5.14,protein
+potato curry (aloo ki sabzi),1.52,4.47,10.42,carbs
+egg curry (anda curry),5.38,8.81,4.03,fat
+vegetable curry with coconut,2.77,4.66,7.19,carbs
+curd with potatoes (dahi aloo),1.56,2.72,7.15,carbs
+potato kofta curry (aloo kofta curry),0.56,49.08,2.78,fat
+yam kofta curry (zimikand/suran kofta curry),0.71,33.84,3.75,fat
+jackfruit kofta curry (kathal ka kofta curry),0.8,33.83,3.17,fat
+spinach and potato (palak aloo),1.63,2.82,5.91,carbs
+mooli bhujia,1.69,7.25,4.74,fat
+bathua bhujia,2.26,7.29,3.63,fat
+cabbage rolls (dry) ((pattagobhi rolls) (dry)),8.21,9.36,6.09,fat
+cabbage rolls (curry) ((pattagobhi rolls)(curry)),5.76,8.17,7.03,fat
+dry arbi (sookhi arbi),2.12,8.97,11.11,carbs
+masala arbi,3.01,11.9,16.16,carbs
+peas brinjal bhartha (matar baingan bhartha),2.05,6.05,5.02,fat
+okra/lady's fingers fry (bhindi sabzi/sabji/subji),1.83,9.27,4.5,fat
+crispy okra/crispy lady's fingers (karare bhindi),1.91,70.4,4.35,fat
+beans foogath,2.03,9.22,3.26,fat
+stuffed bittergourd (wet) (bharwa karele),1.36,15.24,4.68,fat
+jackfruit/kathal (dry),0.93,51.78,4.56,fat
+yam fried (zimikand/suran fried),0.79,51.79,5.47,fat
+"cauliflower, pea and potato bhujia (phoolgobhi, matar aur aloo bhujia)",2.75,5.54,8.23,carbs
+vegetable jalfrezi,1.4,4.38,5.43,carbs
+vegetables stir fry,1.04,1.47,3.19,carbs
+broccoli delight,2.49,2.48,2.34,protein
+dhansak (vegetarian),3.32,4.18,7.28,carbs
+cauliflower basket,5.21,5.88,3.97,fat
+stuffed bottle gourd (stuffed ghiya/lauki),5.84,5.8,4.36,protein
+ducheese potato,3.6,9.01,10.94,carbs
+roast potatoes,1.53,2.35,14.52,carbs
+stuffed baked potatoes,3.82,4.39,11.03,carbs
+potato nests,5.71,4.77,11.05,carbs
+parsley potato,1.49,6.28,13.81,carbs
+creamed spinach and mushroom,2.28,44.14,3.17,fat
+fricassee of mushroom,3.65,6.63,8.13,carbs
+cauliflower au gratin,4.45,10.2,9.13,fat
+vegetable and cheese pie,4.03,8.28,8.76,carbs
+spinach souffle,7.36,10.52,6.27,fat
+beetroot and egg salad (chukandar aur ande ka salad),3.36,6.45,3.4,fat
+sour cream potato salad,2.89,8.13,9.05,carbs
+tossed green salad,1.33,3.24,3.82,carbs
+spring basket salad,3.36,11.3,11.61,carbs
+cucumber and yogurt salad (kheere aur dahi ka salad),2.09,0.93,4.72,carbs
+chicken and tomato towers,6.9,6.99,2.36,fat
+jellied sunshine fruit salad,5.85,0.85,4.21,protein
+tomato aspic,6.87,0.26,5.02,protein
+frozen frosty fruit salad (phalon ka salaad),1.68,4.17,15.61,carbs
+french dressing,0.32,79.65,3.68,fat
+mayonnaise without eggs,2.13,33.84,3.98,fat
+curd dressing,5.59,2.9,8.03,carbs
+carrot raita (gajar ka raita),4.14,2.19,7.19,carbs
+pumpkin raita (kaddu ka raita),3.74,1.88,6.02,carbs
+mint and peanut raita (pudinay aur moongfali ka raita),7.05,6.19,7.31,carbs
+spinach raita (palak ka raita),3.95,1.86,5.06,carbs
+bathua raita,4.13,1.76,5.31,carbs
+pineapple raita (ananas ka raita),3.9,2.02,8.62,carbs
+banana raita (kele ka raita),4.13,2.07,13.51,carbs
+mango raita (aam ka raita),3.9,2.14,8.23,carbs
+guava raita (amarood ka raita),4.19,2.07,7.27,carbs
+grapes raita (angoor ka raita),3.98,2.07,9.66,carbs
+bottle gourd kheer (ghiya/lauki kheer),2.7,3.86,10.0,carbs
+pumpkin kheer (kaddu ki kheer),2.76,3.86,10.44,carbs
+apple kheer (seb ki kheer),2.14,3.18,11.34,carbs
+caramel custard (baked),5.11,5.01,14.95,carbs
+vanilla ice cream without egg,2.69,18.15,14.21,fat
+vanilla ice cream with egg,4.16,17.02,11.71,fat
+strawberry ice cream,4.15,16.96,12.26,fat
+chocochip ice cream,4.23,17.93,16.75,fat
+choconut ice cream,5.04,18.49,23.13,carbs
+pear chocholate sunday,2.08,13.11,15.02,carbs
+chocolate sauce,1.91,10.39,43.21,carbs
+coffee ice cream,3.15,9.43,14.09,carbs
+coffee pear alaska,2.88,13.22,19.36,carbs
+crunchy butterscotch,3.11,20.99,19.92,fat
+peach melba ice cream,2.06,14.51,16.31,carbs
+vanilla ice cream with apples in hot cherry sauce,1.73,11.45,22.75,carbs
+grape and orange whip,1.41,2.62,6.72,carbs
+honey banana cream,2.78,6.68,13.64,carbs
+raspberry bavarian cream,3.34,7.88,17.82,carbs
+fruit delight,2.09,7.09,9.11,carbs
+creamy chocolate mousse,6.85,18.16,9.53,fat
+cold lemon souffle,5.89,9.78,15.62,carbs
+cold orange souffle,5.94,9.82,16.27,carbs
+cold pineapple souffle,6.23,10.39,16.85,carbs
+cold vanilla souffle,6.22,10.32,16.29,carbs
+cold chocolate souffle,6.37,10.86,17.22,carbs
+stewed fruit (with pear),0.25,0.32,18.22,carbs
+apricot fool,1.54,11.35,33.64,carbs
+pavlova,1.84,12.29,21.84,carbs
+apple crumb pudding,1.54,8.87,35.17,carbs
+steamed cake with chocolate sauce,4.49,19.01,29.06,carbs
+hot lemon souffle,5.29,7.93,16.31,carbs
+gulab jamun with milk powder,0.85,40.15,28.24,fat
+chum chum,1.52,1.92,28.27,carbs
+dil bahar,1.52,1.92,28.27,carbs
+rasbhari,1.52,1.92,28.27,carbs
+rajbogh,1.71,2.28,28.16,carbs
+rasgulla,1.38,1.75,25.79,carbs
+rasmalai,1.61,2.11,29.17,carbs
+khoa coconut burfi,9.98,26.01,36.55,carbs
+danedar burfi,3.24,4.72,12.33,carbs
+semolina burfi (suji/rava burfi),3.47,16.86,47.1,carbs
+pumpkin coconut burfi (kaddu aur nariyal ki burfi),1.75,12.66,17.02,carbs
+khoa ladoo,12.21,24.09,34.43,carbs
+wheat and gram flour ladoo (atta besan ladoo),9.38,29.86,50.5,carbs
+semolina ladoo with nuts (suji/rava ladoo with nuts),5.44,25.45,48.02,carbs
+sesame chickpeas brittle (til aur channe ki chikki),8.5,4.66,50.49,carbs
+murmura chikki,2.12,0.32,59.59,carbs
+masala onion pakora/pakoda (pyaaz ke pakode),2.05,57.61,6.48,fat
+masala green chilli pakora/pakoda (hari mirch kay pakode),2.22,71.01,5.55,fat
+chicken pakora/pakoda,6.03,60.98,4.55,fat
+fish pakora/pakoda,5.97,59.52,4.55,fat
+paneer cutlet,4.59,69.38,7.62,fat
+sago cutlet/vadas (sabudana cutlet/vadas),0.56,56.97,11.23,fat
+poshtik cutlet,2.0,50.94,7.39,fat
+egg cutlet (anda cutlet),2.45,60.25,5.77,fat
+minced meat cutlet,5.1,54.47,5.61,fat
+vegetable samosa,2.21,42.22,13.22,fat
+plain urad dal vada (uzunne vada/minapa garelu/ulundu vadai/medu vada),4.39,76.32,9.7,fat
+masala urad dal vada,4.32,71.62,9.93,fat
+khaman (dhokla),1.92,2.8,5.36,carbs
+instant dhokla,7.66,9.37,24.11,carbs
+tomato ginger chutney (tamatar adarak ki chutney),1.05,0.32,9.11,carbs
+mint tomato chutney (pudinay aur tamatar ki chutney),1.53,0.36,8.22,carbs
+coriander chutney (hare dhaniye ki chutney),1.38,0.37,8.16,carbs
+gooseberry chutney (amla chutney),1.44,0.62,8.83,carbs
+walnut chutney (akhrot ki chutney),9.44,33.46,8.91,fat
+saunth/sonth chutney with ginger,0.28,0.11,20.62,carbs
+gun powder chutney,21.55,2.67,47.65,carbs
+dessicated coconut chutney (sookhe kase nariyal ki chutney),12.88,15.88,36.72,carbs
+curd mint dip,4.82,2.44,9.11,carbs
+curd vegetable dip,3.88,1.94,6.04,carbs
+mayonnaise vegetable dip,3.01,23.44,4.8,fat
+tomato and cucumber sandwich (tamatar aur kheere ka sandwich),4.03,6.31,20.51,carbs
+tomato sandwich (grilled),6.26,9.39,21.29,carbs
+french sandwich (toasted),6.82,11.51,14.82,carbs
+peanut butter cucumber sandwich,9.04,10.56,29.76,carbs
+mint and peanut sandwich,7.18,13.88,31.83,carbs
+spicy chutney sandwich,8.74,9.58,34.03,carbs
+chicken walnut sandwich (chicken aur akhrot ke sandwich),12.58,16.77,22.62,carbs
+rolled sandwich,6.45,15.29,34.69,carbs
+ribbon sandwich,6.26,13.37,24.76,carbs
+checker board sandwich,7.37,24.65,25.94,carbs
+submarine sandwich,6.09,15.32,13.6,fat
+cheese open sandwich,9.84,14.24,28.42,carbs
+sunset and sunrise open sandwich,8.58,15.14,18.89,carbs
+danish luncheon sandwich,9.03,10.1,17.77,carbs
+chicken and corn open sandwich,8.63,8.83,19.21,carbs
+chocolate sponge cake,9.13,5.51,39.54,carbs
+chocolate swiss roll,6.01,19.76,26.97,carbs
+lemon curd filling,3.43,12.58,26.41,carbs
+jam filling,0.0,0.0,46.15,carbs
+chocolate pastry,7.05,10.12,32.24,carbs
+assorted pastry,6.78,8.91,31.99,carbs
+orange gateau,4.78,6.02,27.01,carbs
+black forest gateau,5.94,8.58,30.57,carbs
+lemon cake,5.29,20.63,43.1,carbs
+dundee cake,7.78,22.7,41.4,carbs
+victorian sandwich cake,5.18,19.83,44.74,carbs
+chocolate eggless cake,6.66,13.19,43.45,carbs
+orange eggless cake,7.16,13.82,52.65,carbs
+chocolate glace icing,3.22,20.8,62.43,carbs
+butter icing,0.19,25.37,71.64,carbs
+chocolate butter icing,3.21,24.77,61.72,carbs
+almond biscuit (badam ke biscuit),6.25,19.7,52.14,carbs
+orange biscuit,3.63,11.01,62.11,carbs
+gingerman biscuit,6.26,12.73,55.24,carbs
+coffee drops,7.57,27.16,43.06,carbs
+christmas biscuit,5.67,15.88,60.97,carbs
+christmas wreath biscuit,5.43,15.01,58.07,carbs
+christmas bell biscuit,5.66,15.84,60.79,carbs
+christmas star biscuit,3.54,10.04,74.54,carbs
+christmas tree biscuit,5.43,15.0,58.41,carbs
+chocolate cream shells,5.1,19.34,59.26,carbs
+jelly biscuit,4.23,19.33,55.24,carbs
+cherry and walnut cookies,5.63,18.75,59.35,carbs
+cheese straws,9.83,24.28,30.61,carbs
+butterfly biscuit,9.98,22.11,25.33,carbs
+flan pastry,6.72,25.04,47.84,carbs
+fruit flan,3.3,12.48,34.71,carbs
+orange cream flan,4.73,13.59,36.16,carbs
+fruit puree tart,3.35,16.83,30.42,carbs
+apple banana pie,3.13,11.39,32.12,carbs
+lemon chiffon pie,4.88,14.52,27.63,carbs
+orange chiffon pie,3.89,11.16,23.14,carbs
+cream buns,4.45,15.81,14.16,fat
+savoury puffs,9.51,15.24,10.8,fat
+choux swans,4.35,15.6,14.92,fat
+potato aigrettes,2.35,54.24,8.01,fat
+cream horns,3.42,33.55,23.12,fat
+savoury cheese horns,5.66,20.71,21.38,carbs
+paneer patties,7.6,23.96,22.79,fat
+vegetable patties,4.01,17.74,20.98,carbs
+pearl millet infant food (bajra shishu aahaar),11.98,6.62,62.1,carbs
+sajina,10.81,3.03,66.87,carbs
+cereal mix,3.32,2.02,21.84,carbs
+pulse mix,3.16,0.54,16.0,carbs
+shishu ahar,2.61,1.43,17.42,carbs
+cereal pulse mix with amylase rice flour,4.27,2.74,27.8,carbs
+banana groundnut paste/puree,4.27,5.45,36.15,carbs
+rice dal porridge (chawal dal ki khichdi/khichri),10.8,8.33,65.04,carbs
+lentils and semolina porridge (dal suji porridge/daliya),3.26,1.06,23.19,carbs
+spinach khichri (palak khichri/khichdi),3.43,1.91,17.35,carbs
+vegetable mix,4.7,0.94,36.02,carbs
+lentils and wheat porridge (dal wheat porridge/daliya ),2.71,0.94,8.36,carbs
+maize porridge,2.14,1.89,15.64,carbs
+spinach peanut burfi (palak aur mungfali ki burfi),3.36,4.39,13.59,carbs
+split bengal gram burfi/fudge (channa dal burfi),4.65,7.09,54.63,carbs
+chickpea flour cookies (sweet besan rounds/cookies),4.29,3.42,39.64,carbs
+pearl millet mathri (bajra mathri),1.82,83.12,7.42,fat
+sesame biscuit (til ke biscuit),8.27,19.34,53.65,carbs
+fermented bengal gram vada (khameerikrit/ufna hua channa dal ka vada),4.05,67.19,8.68,fat
+poshtik namak paras,6.49,56.58,19.52,fat
+soya chikki,7.18,15.51,62.89,carbs
+besan bathua chilla/cheela,11.48,18.57,40.65,carbs
+wheat flour and nuts ladoos (atta nuts ladoos),9.46,19.19,44.31,carbs
+gram flour and semolina dhokla (besan suji dhokla),8.52,7.1,25.92,carbs
+atta dal burfi,6.66,12.47,40.64,carbs
+soya roti,9.18,9.23,40.03,carbs
+poshtik khichdi/khichri,3.04,1.88,15.64,carbs
+namkeen daliya,8.29,7.99,49.32,carbs
+sprouts upma,9.5,10.44,44.96,carbs
+semolina idli (suji/rava idli),9.34,3.47,33.67,carbs
+poshtik chilla/cheela,4.85,3.04,27.47,carbs
+stuffed bittergourd (dry) (bharwa karela),1.29,22.38,2.49,fat
+cauliflower potato canjee,0.57,0.39,2.63,carbs
+creamed spinach,5.18,6.39,4.44,fat
+mango milkshake with ice cream (aam milkshake ice cream ke saath),1.93,2.8,9.18,carbs
+pineapple milkshake with ice cream (ananas milkshake ice cream ke saath),1.93,2.75,9.33,carbs
+orange milkshake with ice cream (narangi milkshake ice cream ke saath),1.95,2.75,9.15,carbs
+woodapple juice (bel ka sharbat),0.63,0.7,6.51,carbs
+sattu drink,0.56,0.14,5.16,carbs
+apple and honey sorbet (seb aur shehad ka sharbat),0.15,0.29,30.74,carbs
+thandai,3.59,5.89,9.13,carbs
+cucumber sharbat (kheere ka sharbat),0.26,0.06,6.64,carbs
+apple oats chia seed smoothie,3.49,2.48,13.07,carbs
+nannari sharbat,0.01,0.01,23.62,carbs
+semolina milk drink (thari kanji),0.98,1.36,6.93,carbs
+saffron milk (kesariya doodh),3.17,4.57,12.64,carbs
+black rice kheer (chak-hao kheer),4.37,4.91,22.93,carbs
+coconut kheer (nariyal ki kheer),3.4,10.55,14.42,carbs
+apple sago payasam (seb aur sabudana ki kheer),3.13,7.66,14.4,carbs
+kesari bath,2.4,12.59,31.38,carbs
+putharekulu,3.66,7.55,59.61,carbs
+mango malpua,1.65,30.67,12.84,fat
+mango vanilla custard,3.43,7.04,18.41,carbs
+kiwi granola pudding,5.6,15.36,32.33,carbs
+oats burfi,8.89,17.27,62.47,carbs
+lotus seed halwa (kamal gattay ka halwa),7.79,20.69,39.56,carbs
+amaranth ladoo (rajgira ladoo),10.12,22.7,51.33,carbs
+chhena poda,13.68,17.94,33.64,carbs
+sweet couscous dessert,3.81,7.69,29.69,carbs
+sweetened yogurt (shrikhand),5.27,2.89,16.02,carbs
+thickened sweetened milk (rabri),3.52,5.35,10.55,carbs
+gram flour halwa (besan halwa),5.88,17.3,25.78,carbs
+prawn sandwich,10.36,9.27,11.89,carbs
+watercress sandwich,5.17,11.47,28.03,carbs
+fish sandwich,4.72,10.37,10.09,fat
+kidney bean sandwich with cottage cheese,9.85,6.84,18.86,carbs
+finger millet biscuit (ragi biscuit),4.03,25.79,52.69,carbs
+buttermilk biscuit,5.76,17.5,34.93,carbs
+lemon cookies,5.63,23.02,42.19,carbs
+sweet potato biscuit (shakarkand ke biscuit),5.14,13.31,38.13,carbs
+raspberry shortbread cookies,3.0,21.25,61.25,carbs
+pumpkin cookies,2.51,3.93,44.69,carbs
+greenpea cookies,6.53,4.24,23.07,carbs
+sunflower cookies,9.49,36.28,40.06,carbs
+cardamom cookies (elaichi cookies),5.1,19.12,53.99,carbs
+hazelnut cookies,6.25,34.97,39.44,carbs
+milk cookies,10.49,24.96,48.43,carbs
+cranberry cookies,3.92,12.66,36.39,carbs
+olive biscuit,3.2,23.75,55.01,carbs
+tutti fruitti biscuit,5.21,17.9,53.12,carbs
+peach blueberry preserves,0.53,0.2,45.76,carbs
+pear preserves (naashpati ka murabba),0.25,0.19,25.67,carbs
+starfruit preserves,0.24,0.12,33.62,carbs
+gooseberry pickle (amla ka achaar),1.55,27.61,7.61,fat
+lotus stem pickle (kamal kakdi ka achar),1.44,1.6,20.07,carbs
+date pickle (khajoor ka achaar),1.68,4.21,34.66,carbs
+garlic pickle (lahasun ka achar),3.72,39.88,9.75,fat
+fermented bamboo shoot pickle (mesu pickle),1.58,5.59,1.73,fat
+sweet peach pickle (aadoo ka achaar),0.46,0.2,37.01,carbs
+pickled mustard greens,1.51,0.22,1.05,protein
+small onion pickle,1.65,0.64,2.76,carbs
+green tomato pickle (haray tamatar ka achaar),1.23,19.67,2.87,fat
+pickled cabbage,0.39,0.14,2.56,carbs
+coconut pickle (nariyal ka aachar),3.02,51.71,11.53,fat
+potato pickle (aloo ka achaar),2.07,36.46,7.87,fat
+mango murabba candy,0.27,0.05,77.32,carbs
+afghani chicken,15.66,9.07,1.95,protein
+fish orly,5.87,58.18,4.27,fat
+hariyali fish tikka,14.01,9.41,2.21,protein
+chicken manchurian,9.53,11.96,6.06,fat
+handi chicken,12.32,12.46,1.49,fat
+lemon chicken,20.2,9.66,0.55,protein
+lemon butter fish,16.38,10.26,0.75,protein
+baked eggs in tomato sauce,4.92,5.22,3.78,fat
+egg in a pepper,12.64,8.68,0.17,protein
+spinach mushroom scrambled egg (palak mushroom bhurji),13.28,11.51,0.59,protein
+corn omelette/omlet,11.37,12.89,1.57,fat
+cajun chicken,12.69,13.99,1.94,fat
+paaner do pyaza,4.22,10.87,3.41,fat
+cabbage manchurian (pattagobhi manchurian),0.64,22.48,4.85,fat
+gobi 65,0.56,29.11,3.59,fat
+paneer lababdar,3.98,8.46,3.37,fat
+roasted cauliflower steak,2.05,6.7,2.02,fat
+sauteed radishes with green beans,2.41,6.61,6.04,fat
+garlic chutney/poondu chutney (lahasun ki chutney),3.34,17.55,20.44,carbs
+schezwan chutney,3.33,17.72,10.79,fat
+onion chutney (pyaaz ki chutney/vengaya chutney),2.97,8.38,13.52,carbs
+dates chutney (khajoor ki chutney),1.07,1.12,21.69,carbs
+chicken salad,15.33,30.26,1.3,fat
+macaroni salad,5.02,17.78,21.63,carbs
+cabbage raita (pattagobhi raita),3.24,5.76,5.25,fat
+pomegranate raita (anaar ka raita),4.05,3.24,7.15,carbs
+onion raita (pyaaz ka raita),4.86,2.43,7.86,carbs
+green chilli raita (hari mirch ka raita),5.58,2.92,7.66,carbs
+kale salad,4.86,15.33,5.01,fat
+spinach and paneer souffle,7.56,13.49,9.64,fat
+masala souffle,6.38,7.37,8.02,carbs
+chicken and cheese souffle,9.07,14.74,3.47,fat
+tamarind chutney (chintapandu pachadi/puli chutney),0.88,0.48,25.07,carbs
+pav bhaji masala,9.13,10.96,29.15,carbs
+green chutney,5.42,1.6,10.01,carbs
+sago khitchdi/khichri (sabudana khitchdi/khichri),2.72,10.1,22.41,carbs
+gram flour chilla/cheela (besan chilla/cheela),7.8,2.85,21.03,carbs
+vegetable namkeen jave,2.93,2.51,18.98,carbs
+khakhra,4.78,5.32,27.66,carbs
+moong bean dosa (pesarattu),12.32,11.67,31.91,carbs
+methi thepla,8.98,15.95,41.34,carbs
+rice puttu (ari puttu),1.26,3.13,11.82,carbs
+buckwheat pancake (khura),2.91,16.43,27.28,carbs
+quinoa khichdi/khichri,3.18,1.59,8.83,carbs
+khakhra chaat,4.52,30.65,16.64,fat
+banana appam,1.17,42.53,20.06,fat
+veg manchurian,0.89,61.65,6.82,fat
+pav bhaji,2.66,4.32,11.99,carbs
+rice murukku,5.41,48.22,33.29,fat
+bhel puri,3.52,47.91,16.47,fat
+semolina dhokla (suji/rava dhokla),5.44,5.2,30.86,carbs
+spicy corn chaat,4.61,46.55,11.45,fat
+jackfruit fritters (ponsa mulik/kathal ka pakora),2.34,54.41,24.0,fat
+banana chips (kele ke chips),0.37,70.46,7.32,fat
+wheat cake,4.79,14.95,41.13,carbs
+mango cheesecake,2.39,7.3,20.06,carbs
+carrot cake (gajar ka cake),5.6,10.27,35.98,carbs
+semolina cake (suji/rava cake),6.58,25.18,31.32,carbs
+finger millet cake (ragi cake),3.96,12.27,38.93,carbs
+honey cake,3.08,14.7,49.04,carbs
+almond cardamom cake (badam elaichi cake),7.18,21.36,34.53,carbs
+tutti frutti cake,4.49,12.68,52.94,carbs
+ham and bean soup,10.61,4.15,4.18,protein
+whey soup,3.45,3.34,6.26,carbs
+bottle gourd soup (ghiya/lauki soup),0.45,1.79,1.16,fat
+baked potato soup,5.73,11.21,5.85,fat
+pumpkin soup,0.47,3.2,2.08,fat
+sweet corn soup,0.99,1.63,3.56,carbs
+paneer soup,3.22,2.8,2.42,protein
+curried cauliflower soup,6.72,9.77,3.12,fat
+millet soup,11.26,12.57,8.22,fat
+lemon coriander soup,2.27,6.26,10.32,carbs
+garlic soup,2.38,17.62,6.99,fat
+dal makhani,3.32,3.06,7.96,carbs
+dalma,4.91,4.58,15.04,carbs
+split bengal gram dal (channa dal),4.15,4.62,9.99,carbs
+horsegram dal (kulthi dal),2.91,1.13,8.21,carbs
+panchmel dal,4.63,5.36,10.71,carbs
+dal dhokli,2.96,2.47,8.55,carbs
+gujarati handvo,8.24,4.8,31.86,carbs
+sev (omapodi/karapusa),5.12,60.08,12.87,fat
+papdi,1.83,72.11,12.89,fat
+jowar dosa,8.5,10.28,40.53,carbs
+bread roll,2.85,40.25,16.12,fat
+soya seekh kebab,5.4,5.88,10.0,carbs
+classic seasoned black beans,8.01,8.28,7.66,fat
+maa chaane ki dal,19.8,9.5,43.11,carbs
+garlic chickpea soup (lahasun aur chane ka shoraba),4.45,2.01,13.92,carbs
+white sauce (thin),3.31,8.41,6.58,fat
+white sauce (medium),3.36,11.76,7.98,fat
+white sauce (thick),3.43,17.19,10.24,fat
+cheese sauce,7.68,15.12,7.08,fat
+egg sauce,5.97,11.08,5.88,fat
+mushroom sauce,3.39,10.51,7.31,fat
+mustard sauce,3.98,12.17,8.29,fat
+brown sauce,11.92,23.67,5.38,fat
+classic italian pasta,0.57,2.45,4.4,carbs
+pasta spinach sauce,1.76,7.9,1.76,fat
+pasta cheese sauce,4.33,10.84,9.0,fat
+mayonnaise,1.86,84.52,1.65,fat
+low calorie quick mayonnaise,1.41,24.35,4.71,fat
+thousand island dressing,1.37,42.87,4.49,fat
+curd dip,5.04,3.36,7.95,carbs
+short crust pastry,6.11,23.98,44.72,carbs
+choux pastry,5.55,14.96,16.2,carbs
+flaky pastry,4.69,31.99,33.61,carbs
+sponge cake,9.18,4.74,44.63,carbs
+glace icing,0.01,0.01,86.31,carbs
+royal icing,1.74,0.02,86.53,carbs
+american frosting,1.05,0.01,67.48,carbs
+gum icing,5.94,0.0,53.19,carbs
+channa murmura premix,10.59,3.28,72.59,carbs
+cracked wheat and green gram dal premix (dalia moong dal premix),15.89,5.11,64.75,carbs
+rice flakes and roasted channa,10.57,2.94,71.94,carbs
+spinach soup in milk,2.89,3.2,3.98,carbs
+vegetable soup,2.22,1.55,7.6,carbs
+mashed banana with milk,2.51,2.99,14.62,carbs
+poha with curd (poha aur dahi),6.01,4.65,26.72,carbs
+potato with curd,3.19,1.33,12.01,carbs
+sweet wheat porridge (sweet dalia),5.11,2.79,23.77,carbs
+vegetable khichdi/khichri,5.61,4.53,19.57,carbs
+moong dal mixture,4.62,1.0,33.93,carbs
+cracked wheat khichri/khichdi (dalia khichri/khichdi),7.56,5.52,22.35,carbs
+stewed apple,0.17,0.37,22.49,carbs
+lemon squash (nimbu ka squash),0.15,0.06,48.88,carbs
+orange squash (santre ka squash),0.22,0.04,50.88,carbs
+lichi squash,0.3,0.08,51.96,carbs
+mango squash (aam ka squash),0.17,0.17,50.96,carbs
+pineapple squash (ananas ka squash),0.16,0.05,51.34,carbs
+lemon and ginger squash (nimbu aur adrak ka squash),0.54,0.21,44.06,carbs
+apple jam (seb ka murabba),0.14,0.32,48.56,carbs
+plum jam (aloo bukhara jam),0.31,0.19,46.2,carbs
+pineapple jam,0.32,0.15,38.27,carbs
+guava jelly (amrood ki jelly),1.11,0.25,28.18,carbs
+orange marmalade (santray ka murabba),0.66,0.13,25.94,carbs
+carrot murabba (gajar ka murabba),0.32,0.16,45.6,carbs
+gooseberry marmalade (amla murabba),0.14,0.03,32.34,carbs
+ginger candy (adrak ki candy),0.69,0.27,50.38,carbs
+mango pickle (aam ka achaar),1.6,17.89,8.11,fat
+mixed vegetable pickle (sabziyoon ka achaar),1.9,19.68,7.48,fat
+sweet lemon pickle (neembu ka meetha achaar),1.22,0.21,16.87,carbs
+plum chutney (aloo bukhara ki chutney),0.47,0.29,44.95,carbs
+raw mango chutney (kachhe aam/kairi ki chutney),0.51,0.16,49.94,carbs
+tomato sauce,0.81,0.27,7.23,carbs
+tomato puree,0.75,0.25,3.68,carbs
+garam masala,9.89,10.97,26.2,carbs
+chat masala,8.19,9.91,23.87,carbs
+kashmiri masala,8.26,31.03,23.16,fat
+rasam powder (rasam masala),12.04,11.8,25.19,carbs
+sambar powder (sambar masala),12.5,15.58,23.38,carbs
+tartare sauce,1.44,66.12,2.96,fat
+barbeque sauce,0.96,4.51,20.46,carbs
+bread sauce,3.46,7.05,8.69,carbs
+green chilli sauce,1.25,0.27,7.36,carbs
+home made plain noodles,6.21,3.56,44.5,carbs
+dal moong,2.2,1.62,4.92,carbs
+cumin seeds baghar (jeera baghar/tadka),3.34,78.77,5.22,fat
+onion tomato baghar (pyaaz tamatar ka tadka),1.26,11.98,6.17,fat
+mustard seeds baghar (mustard seed tadka),4.73,54.3,10.45,fat
+hot cherry sauce,0.13,0.07,67.95,carbs
+apple jelly (seb ki jelly),0.1,0.21,39.37,carbs
+marmalade (murabba),0.23,0.04,37.64,carbs
+plum squash (aloo bukhara squash),0.16,0.1,55.51,carbs
+lemon green chilli pickle (nimboo aur hari mirch ka achaar),0.85,0.24,2.14,carbs
+brinjal pickle (baingan ka achaar),2.24,12.98,4.23,fat
+sweet and sour tomato pickle (khatta meetha tamatar ka achaar),1.26,3.24,6.55,carbs
+jhatpat achar with carrot (jhatpat achaar gajar ke saath),1.98,6.55,6.32,fat
+tomato chutney (tamatar ki chutney),0.97,6.01,31.85,carbs
+tomato ketchup,0.91,0.3,6.48,carbs
+bengal 5 spice blend (panch phoran),18.26,22.16,20.0,fat
+adhirasam,5.0,10.0,60.0,carbs
+aloo gobi,4.0,8.0,40.0,carbs
+aloo matar,4.5,8.5,42.0,carbs
+aloo methi,4.0,7.0,38.0,carbs
+aloo shimla mirch,4.0,8.0,40.0,carbs
+aloo tikki,6.0,12.0,50.0,carbs
+anarsa,6.0,15.0,40.0,carbs
+ariselu,5.0,7.0,45.0,carbs
+baby back ribs,30.0,35.0,10.0,fat
+baklava,6.0,22.0,45.0,carbs
+bandar laddu,7.0,12.0,55.0,carbs
+basundi,8.0,15.0,30.0,carbs
+beef carpaccio,28.0,10.0,2.0,protein
+beef tartare,20.0,15.0,2.0,protein
+beet salad,3.0,5.0,20.0,carbs
+beignets,5.0,18.0,40.0,carbs
+bhindi masala,4.0,10.0,35.0,carbs
+bibimbap,12.0,8.0,55.0,carbs
+biryani,14.0,15.0,60.0,carbs
+boondi,5.0,12.0,50.0,carbs
+bread pudding,8.0,16.0,45.0,carbs
+breakfast burrito,15.0,18.0,50.0,carbs
+bruschetta,5.0,10.0,20.0,carbs
+caesar salad,7.0,15.0,10.0,fat
+cannoli,6.0,14.0,35.0,carbs
+caprese salad,7.0,12.0,8.0,fat
+carrot cake,5.0,18.0,45.0,carbs
+ceviche,18.0,5.0,15.0,protein
+chak hao kheer,7.0,10.0,45.0,carbs
+chana masala,10.0,8.0,50.0,carbs
+chapati,3.0,1.5,25.0,carbs
+cheese plate,20.0,30.0,10.0,fat
+chhena kheeri,10.0,12.0,40.0,carbs
+chicken quesadilla,15.0,12.0,35.0,carbs
+chicken razala,18.0,14.0,36.0,carbs
+chicken tikka,17.0,13.0,34.0,carbs
+chicken tikka masala,18.0,15.0,36.0,carbs
+chicken wings,20.0,22.0,5.0,fat
+chikki,5.0,11.0,50.0,carbs
+churros,4.0,16.0,40.0,carbs
+clam chowder,12.0,10.0,25.0,carbs
+crab cakes,18.0,15.0,20.0,carbs
+creme brulee,7.0,16.0,35.0,carbs
+croque madame,14.0,18.0,30.0,carbs
+cup cakes,6.0,20.0,40.0,carbs
