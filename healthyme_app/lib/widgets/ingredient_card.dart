@@ -1,6 +1,49 @@
 import 'package:flutter/material.dart';
 import 'package:healthyme_app/models/ingredient.dart';
-class IngredientCard extends StatelessWidget {
+
+class IngredientCard extends StatefulWidget {
+  State<IngredientCard> createState() => _IngredientCardState();
+}
+
+class _IngredientCardState extends State<IngredientCard> {
+  bool isAdded = false;
+
+  void _toggle() {
+    setState(() {
+      isAdded = !isAdded;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      color: isAdded ? const Color.fromARGB(255, 212, 238, 213) : Colors.white,
+      margin: EdgeInsets.symmetric(horizontal: 40, vertical: 6),
+
+      child: GestureDetector(
+        onTap: _toggle,
+        child: ListTile(
+          leading: CircleAvatar(
+            backgroundImage: NetworkImage(
+              "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fbutter&psig=AOvVaw2n8udtU8tKIsf_tCXrHL4i&ust=1750174991662000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCGjYek9o0DFQAAAAAdAAAAABAE",
+            ),
+          ),
+          title: Text("Butter"),
+
+          trailing: Icon(
+            isAdded ? Icons.check_circle : Icons.add_circle_outline,
+            color: isAdded ? Colors.green : null,
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+
+
+
+/* class IngredientCard extends StatelessWidget {
   final Ingredient ingredient;
   final bool isAdded;
   final VoidCallback onToggle;
@@ -32,7 +75,7 @@ class IngredientCard extends StatelessWidget {
       ),
     );
   }
-}
+} */
 
 
 /* 
