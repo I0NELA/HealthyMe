@@ -1,27 +1,35 @@
 import 'package:english_words/english_words.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:healthyme_app/dataset.dart';
 import 'package:healthyme_app/helper.dart';
+import 'package:healthyme_app/objectbox.g.dart';
+import 'package:healthyme_app/providers/ingredient_provider.dart';
 import 'models/ingredient.dart';
 import 'package:healthyme_app/views/homescreen_view.dart';
 import 'package:healthyme_app/views/homescreen_view.dart';
 import 'package:provider/provider.dart';
+import 'package:path_provider/path_provider.dart';
 
 late ObjectBox objectBox;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  objectBox = await ObjectBox.create();
-  await loadCSVToObjectBox(objectBox);
+  final dir = await getApplicationDocumentsDirectory();
+  store = await openStore(directory: dir.path);
 
+  WidgetsFlutterBinding.ensureInitialized();
+  runApp(const ProviderScope(child: MyApp()));
+  /* objectBox = await ObjectBox.create();
+  //await loadCSVToObjectBox(objectBox);
+  final store = await openStore();
   final carbs = objectBox.getCarbs();
-  print(carbs);
+  print(carbs); */
 
   /* 
   WidgetsFlutterBinding.ensureInitialized();
   await initObjectBox();
   */
-  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {

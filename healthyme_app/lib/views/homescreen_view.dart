@@ -70,11 +70,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                         // Proteins tapped
                                         Navigator.of(context).push(
                                           CupertinoPageRoute(
-                                            builder: (context) => ProteinsView(
-                                              proteins: objectBox
-                                                  .getProts(), // Replace with your proteins getter
-                                              initiallySelected:
-                                                  selectedCarbs, // Replace with selectedProteins if you have it
+                                            builder: (context) => CarbsView(
+                                              carbs: objectBox.getCarbs(),
+                                              initiallySelected: selectedCarbs,
                                             ),
                                           ),
                                         );
@@ -93,8 +91,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         Navigator.of(context).push(
                                           CupertinoPageRoute(
                                             builder: (context) => FatsView(
-                                              fats: objectBox
-                                                  .getFats(), // Replace with your fats getter
+                                              // Replace with your fats getter
                                               initiallySelected:
                                                   selectedFats, // Replace with selectedFats if you have it
                                             ),
