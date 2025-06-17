@@ -123,7 +123,7 @@ class _CarbsViewState extends State<CarbsView> {
             ],
           ),
           Positioned(
-            bottom: 30,
+            bottom: 90,
             left: 0,
             right: 0,
             child: CupertinoButton.filled(
@@ -262,6 +262,7 @@ import 'package:healthyme_app/models/ingredient.dart';
 import 'package:healthyme_app/views/homescreen_view.dart';
 import 'package:healthyme_app/widgets/ingredient_card.dart';
 
+
 class CarbsView extends StatelessWidget {
   final List<Ingredient> carbs;
   const CarbsView({Key? key, required this.carbs}) : super(key: key);
@@ -358,7 +359,7 @@ class CarbsView extends StatelessWidget {
                 onPressed: () {
                   Navigator.push(
                     context,
-                    CupertinoPageRoute(builder: (_) => HomeScreenView()),
+                    CupertinoPageRoute(builder: (_) => HomeScreen()),
                   );
                 },
                 color: CupertinoColors.activeBlue, // Optional background color

@@ -5,6 +5,7 @@ import 'package:healthyme_app/dataset.dart';
 import 'package:healthyme_app/helper.dart';
 import 'models/ingredient.dart';
 import 'package:healthyme_app/views/homescreen_view.dart';
+import 'package:healthyme_app/views/homescreen_view.dart';
 import 'package:provider/provider.dart';
 
 late ObjectBox objectBox;
@@ -28,8 +29,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoApp(
+      theme: CupertinoThemeData(
+        primaryColor: Color.fromARGB(255, 145, 199, 136),
+      ),
       title: 'My Flutter App', // <-- This is the app title
-      home: HomeScreenView(),
+      home: HomeScreen(),
     );
   }
 }
