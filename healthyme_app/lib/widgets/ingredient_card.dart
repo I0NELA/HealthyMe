@@ -29,7 +29,7 @@ class IngredientCard extends StatelessWidget {
         title: Text(ingredient.name),
         trailing: Icon(
           isAdded ? Icons.check_circle : Icons.add_circle_outline,
-          color: isAdded ? Colors.green : null,
+          color: Color.fromARGB(255, 145, 199, 136),
         ),
       ),
     );
