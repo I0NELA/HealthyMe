@@ -8,11 +8,13 @@ class CarbsView extends StatefulWidget {
   final List<Ingredient> carbs;
   //final Set<int> selectedIds;
   final List<Ingredient> initiallySelected;
+  final String previousPageTitle; // the title of the previous page
 
   const CarbsView({
     required this.carbs,
-    //required this.selectedIds,
-    required this.initiallySelected,
+    //required this.selectedIds, 
+    required this.initiallySelected, 
+    required this.previousPageTitle, // the title of the previous page
   });
 
   @override
@@ -55,7 +57,11 @@ class _CarbsViewState extends State<CarbsView> {
         children: [
           CustomScrollView(
             slivers: [
-              const CupertinoSliverNavigationBar(largeTitle: Text('Carbs')),
+              CupertinoSliverNavigationBar(
+                largeTitle: const Text('Carbs'),
+                previousPageTitle: widget.previousPageTitle,
+              ),
+              // const CupertinoSliverNavigationBar(largeTitle: Text('Carbs')),
               SliverToBoxAdapter(
                 child: Padding(
                   padding: const EdgeInsets.symmetric(

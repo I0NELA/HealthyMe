@@ -22,7 +22,6 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return CupertinoTabScaffold(
       tabBar: CupertinoTabBar(
-        // activeColor: Color.fromARGB(255, 145, 199, 136),
         items: const [
           BottomNavigationBarItem(
             icon: Icon(CupertinoIcons.home, size: 25),
@@ -35,7 +34,6 @@ class _HomeScreenState extends State<HomeScreen> {
         ],
       ),
       tabBuilder: (context, index) {
-        // You can switch content based on the tab index if you want
         return CupertinoTabView(
           builder: (context) {
             return CustomScrollView(
@@ -45,7 +43,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     'Build Your Meal 🥗',
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
-                  // backgroundColor: Color.fromARGB(255, 145, 199, 136),
                 ),
                 SliverToBoxAdapter(
                   child: SafeArea(
@@ -59,7 +56,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: PieChart(
                               PieChartData(
                                 pieTouchData: PieTouchData(
-                                  touchCallback: (event, response) {
+                                  touchCallback: (event, response) async {
                                     if (response != null &&
                                         response.touchedSection != null &&
                                         event is FlTapUpEvent) {
@@ -68,38 +65,66 @@ class _HomeScreenState extends State<HomeScreen> {
                                           .touchedSectionIndex;
                                       if (index == 0) {
                                         // Proteins tapped
-                                        Navigator.of(context).push(
-                                          CupertinoPageRoute(
-                                            builder: (context) => ProteinsView(
-                                              proteins: objectBox
-                                                  .getProts(), // Replace with your proteins getter
-                                              initiallySelected:
-                                                  selectedCarbs, // Replace with selectedProteins if you have it
-                                            ),
-                                          ),
-                                        );
+                                        final result =
+                                            await Navigator.of(context).push(
+                                              CupertinoPageRoute(
+                                                builder: (context) =>
+                                                    ProteinsView(
+                                                      proteins: objectBox
+                                                          .getProts(),
+                                                      initiallySelected:
+                                                          selectedProteins,
+                                                      previousPageTitle: 'Home',
+                                                    ),
+                                                title: 'Home'
+                                              ),
+                                            );
+                                        if (result != null &&
+                                            result is List<Ingredient>) {
+                                          setState(() {
+                                            selectedProteins = result;
+                                          });
+                                        }
                                       } else if (index == 1) {
                                         // Carbs tapped
-                                        Navigator.of(context).push(
-                                          CupertinoPageRoute(
-                                            builder: (context) => CarbsView(
-                                              carbs: objectBox.getCarbs(),
-                                              initiallySelected: selectedCarbs,
-                                            ),
-                                          ),
-                                        );
+                                        final result =
+                                            await Navigator.of(context).push(
+                                              CupertinoPageRoute(
+                                                builder: (context) => CarbsView(
+                                                  carbs: objectBox.getCarbs(),
+                                                  initiallySelected:
+                                                      selectedCarbs,
+                                                  previousPageTitle: 'Home',
+                                                ),
+                                                title: 'Home'
+                                              ),
+                                            );
+                                        if (result != null &&
+                                            result is List<Ingredient>) {
+                                          setState(() {
+                                            selectedCarbs = result;
+                                          });
+                                        }
                                       } else if (index == 2) {
                                         // Fats tapped
-                                        Navigator.of(context).push(
-                                          CupertinoPageRoute(
-                                            builder: (context) => FatsView(
-                                              fats: objectBox
-                                                  .getFats(), // Replace with your fats getter
-                                              initiallySelected:
-                                                  selectedFats, // Replace with selectedFats if you have it
-                                            ),
-                                          ),
-                                        );
+                                        final result =
+                                            await Navigator.of(context).push(
+                                              CupertinoPageRoute(
+                                                builder: (context) => FatsView(
+                                                  fats: objectBox.getFats(),
+                                                  initiallySelected:
+                                                      selectedFats,
+                                                  previousPageTitle: 'Home',
+                                                ),
+                                                title: 'Home'
+                                              ),
+                                            );
+                                        if (result != null &&
+                                            result is List<Ingredient>) {
+                                          setState(() {
+                                            selectedFats = result;
+                                          });
+                                        }
                                       }
                                     }
                                   },
@@ -107,7 +132,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                 sections: [
                                   PieChartSectionData(
                                     value: 40,
-                                    color: Colors.white,
+                                    color: selectedProteins.isNotEmpty
+                                        ? Colors.green
+                                        : Colors.white,
                                     title: 'Proteins',
                                     radius: 100,
                                     titleStyle: const TextStyle(
@@ -126,7 +153,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                   ),
                                   PieChartSectionData(
                                     value: 35,
-                                    color: Colors.white,
+                                    color: selectedCarbs.isNotEmpty
+                                        ? Colors.green
+                                        : Colors.white,
                                     title: 'Carbs',
                                     radius: 100,
                                     titleStyle: const TextStyle(
@@ -145,7 +174,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                   ),
                                   PieChartSectionData(
                                     value: 25,
-                                    color: Colors.white,
+                                    color: selectedFats.isNotEmpty
+                                        ? Colors.green
+                                        : Colors.white,
                                     title: 'Fats',
                                     radius: 100,
                                     titleStyle: const TextStyle(
@@ -195,7 +226,8 @@ class _HomeScreenState extends State<HomeScreen> {
                               Navigator.of(context).push(
                                 CupertinoPageRoute(
                                   builder: (context) =>
-                                      const RecipeDetailView(),
+                                      RecipeDetailView(),
+                                  title: 'Home'
                                 ),
                               );
                             },
@@ -226,7 +258,6 @@ class _HomeScreenState extends State<HomeScreen> {
                                       ),
                                     ),
                                   ),
-                                  // Use a Material icon or Unicode arrow for best compatibility
                                   const Icon(
                                     Icons.arrow_forward_ios,
                                     color: Colors.grey,
