@@ -36,7 +36,7 @@ class ObjectBox {
 
   List<Ingredient> getFats() {
     final query = objectBox.ingreBox
-        .query(Ingredient_.macro.equals("fats"))
+        .query(Ingredient_.macro.equals("fat"))
         .build();
     final fats = query.find();
     query.close();

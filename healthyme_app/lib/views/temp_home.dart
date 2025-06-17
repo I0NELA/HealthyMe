@@ -4,21 +4,19 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:healthyme_app/main.dart';
 import 'package:healthyme_app/models/ingredient.dart';
 import 'package:healthyme_app/views/MacroViews/carbs_view.dart';
-import 'package:healthyme_app/views/MacroViews/proteins_view.dart';
-import 'package:healthyme_app/views/MacroViews/fats_view.dart';
 import 'package:healthyme_app/views/recipe_detail_view.dart';
 
 class HomeScreen extends StatefulWidget {
+  //const HomeScreen({super.key});
+
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  List<Ingredient> selectedCarbs = [];
-  List<Ingredient> selectedProteins = [];
-  List<Ingredient> selectedFats = [];
-
   @override
+  List<Ingredient> selectedCarbs = [];
+
   Widget build(BuildContext context) {
     return CupertinoTabScaffold(
       tabBar: CupertinoTabBar(
@@ -62,45 +60,19 @@ class _HomeScreenState extends State<HomeScreen> {
                                   touchCallback: (event, response) {
                                     if (response != null &&
                                         response.touchedSection != null &&
+                                        response
+                                                .touchedSection!
+                                                .touchedSectionIndex ==
+                                            1 &&
                                         event is FlTapUpEvent) {
-                                      final index = response
-                                          .touchedSection!
-                                          .touchedSectionIndex;
-                                      if (index == 0) {
-                                        // Proteins tapped
-                                        Navigator.of(context).push(
-                                          CupertinoPageRoute(
-                                            builder: (context) => ProteinsView(
-                                              proteins: objectBox
-                                                  .getProts(), // Replace with your proteins getter
-                                              initiallySelected:
-                                                  selectedCarbs, // Replace with selectedProteins if you have it
-                                            ),
+                                      Navigator.of(context).push(
+                                        CupertinoPageRoute(
+                                          builder: (context) => CarbsView(
+                                            carbs: objectBox.getCarbs(),
+                                            initiallySelected: selectedCarbs,
                                           ),
-                                        );
-                                      } else if (index == 1) {
-                                        // Carbs tapped
-                                        Navigator.of(context).push(
-                                          CupertinoPageRoute(
-                                            builder: (context) => CarbsView(
-                                              carbs: objectBox.getCarbs(),
-                                              initiallySelected: selectedCarbs,
-                                            ),
-                                          ),
-                                        );
-                                      } else if (index == 2) {
-                                        // Fats tapped
-                                        Navigator.of(context).push(
-                                          CupertinoPageRoute(
-                                            builder: (context) => FatsView(
-                                              fats: objectBox
-                                                  .getFats(), // Replace with your fats getter
-                                              initiallySelected:
-                                                  selectedFats, // Replace with selectedFats if you have it
-                                            ),
-                                          ),
-                                        );
-                                      }
+                                        ),
+                                      );
                                     }
                                   },
                                 ),
