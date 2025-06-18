@@ -7,6 +7,7 @@ import 'package:healthyme_app/views/MacroViews/carbs_view.dart';
 import 'package:healthyme_app/views/MacroViews/proteins_view.dart';
 import 'package:healthyme_app/views/MacroViews/fats_view.dart';
 import 'package:healthyme_app/views/recipe_detail_view.dart';
+import 'package:modal_bottom_sheet/modal_bottom_sheet.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
@@ -65,9 +66,24 @@ class _HomeScreenState extends State<HomeScreen> {
                                           .touchedSectionIndex;
                                       if (index == 0) {
                                         // Proteins tapped
-                                        final result =
-                                            await Navigator.of(context).push(
-                                              CupertinoPageRoute(
+                                        final result = await
+
+                                          
+                                              showCupertinoModalBottomSheet(
+                                                expand: true,
+  context: Navigator.of(context, rootNavigator: true).context,
+  builder: (context) => Container(
+    height: 400,
+    color: CupertinoColors.systemBackground,
+    child: ProteinsView(
+                                              proteins: objectBox.getProts(),
+                                              initiallySelected: selectedProteins,
+                                              previousPageTitle: 'Home',
+                                            ),
+  ),
+);
+
+                                         /*      CupertinoPageRoute(
                                                 builder: (context) =>
                                                     ProteinsView(
                                                       proteins: objectBox
@@ -77,8 +93,8 @@ class _HomeScreenState extends State<HomeScreen> {
                                                       previousPageTitle: 'Home',
                                                     ),
                                                 title: 'Home'
-                                              ),
-                                            );
+                                              ), */
+                                            
                                         if (result != null &&
                                             result is List<Ingredient>) {
                                           setState(() {
@@ -88,16 +104,19 @@ class _HomeScreenState extends State<HomeScreen> {
                                       } else if (index == 1) {
                                         // Carbs tapped
                                         final result =
-                                            await Navigator.of(context).push(
-                                              CupertinoPageRoute(
-                                                builder: (context) => CarbsView(
-                                                  carbs: objectBox.getCarbs(),
-                                                  initiallySelected:
-                                                      selectedCarbs,
-                                                  previousPageTitle: 'Home',
-                                                ),
-                                                title: 'Home'
-                                              ),
+                                            await showCupertinoModalBottomSheet(
+                                                expand: true,
+  context: Navigator.of(context, rootNavigator: true).context,
+  builder: (context) => Container(
+    height: 400,
+    color: CupertinoColors.systemBackground,
+    child: CarbsView(
+                                              carbs: objectBox.getCarbs(),
+                                              initiallySelected: selectedCarbs,
+                                              previousPageTitle: 'Home',
+                                            ),
+  ),
+
                                             );
                                         if (result != null &&
                                             result is List<Ingredient>) {
@@ -108,15 +127,22 @@ class _HomeScreenState extends State<HomeScreen> {
                                       } else if (index == 2) {
                                         // Fats tapped
                                         final result =
-                                            await Navigator.of(context).push(
-                                              CupertinoPageRoute(
-                                                builder: (context) => FatsView(
+                                            await showCupertinoModalBottomSheet(
+                                              expand: true,
+                                              context: Navigator.of(
+                                                context,
+                                                rootNavigator: true,
+                                              ).context,
+                                              builder: (context) => Container(
+                                                height: 400,
+                                                color: CupertinoColors
+                                                    .systemBackground,
+                                                child: FatsView(
                                                   fats: objectBox.getFats(),
                                                   initiallySelected:
                                                       selectedFats,
                                                   previousPageTitle: 'Home',
                                                 ),
-                                                title: 'Home'
                                               ),
                                             );
                                         if (result != null &&
@@ -224,6 +250,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: GestureDetector(
                             onTap: () {
                               Navigator.of(context).push(
+                                
                                 CupertinoPageRoute(
                                   builder: (context) =>
                                       RecipeDetailView(),
