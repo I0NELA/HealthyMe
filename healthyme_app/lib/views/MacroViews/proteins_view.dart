@@ -50,6 +50,11 @@ class _ProteinsViewState extends State<ProteinsView> {
     return CupertinoPageScaffold(
       navigationBar: CupertinoNavigationBar(
         middle: const Text('Proteins'),
+        leading: CupertinoButton(
+          padding: EdgeInsets.zero,
+          child: Text('Cancel'),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         previousPageTitle: widget.previousPageTitle,
         trailing: CupertinoButton(
           padding: EdgeInsets.zero,

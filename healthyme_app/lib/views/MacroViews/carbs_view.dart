@@ -50,6 +50,11 @@ class _CarbsViewState extends State<CarbsView> {
     return CupertinoPageScaffold(
       navigationBar: CupertinoNavigationBar(
         middle: const Text('Carbs'),
+        leading: CupertinoButton(
+          padding: EdgeInsets.zero,
+          child: Text('Cancel'),
+          onPressed: () => Navigator.of(context).pop(),
+        ),
         previousPageTitle: widget.previousPageTitle,
         trailing: CupertinoButton(
           padding: EdgeInsets.zero,
