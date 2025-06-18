@@ -60,6 +60,7 @@ class _FatsViewState extends State<FatsView> {
           child: const Text('Done'),
         ),
       ),
+      child: SafeArea(
       child: CustomScrollView(
         slivers: [
           SliverToBoxAdapter(
@@ -117,6 +118,7 @@ class _FatsViewState extends State<FatsView> {
           const SliverToBoxAdapter(child: SizedBox(height: 100)),
         ],
       ),
+    ),
     );
   }
 }
