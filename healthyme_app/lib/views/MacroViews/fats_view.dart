@@ -1,21 +1,19 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:healthyme_app/models/ingredient.dart';
-import 'package:healthyme_app/views/homescreen_view.dart';
 import 'package:healthyme_app/widgets/ingredient_card.dart';
 
 class FatsView extends StatefulWidget {
   final List<Ingredient> fats;
-  //final Set<int> selectedIds;
   final List<Ingredient> initiallySelected;
   final String previousPageTitle;
 
   const FatsView({
     required this.fats,
-    //required this.selectedIds,
     required this.initiallySelected,
     required this.previousPageTitle,
-  });
+    Key? key,
+  }) : super(key: key);
 
   @override
   State<FatsView> createState() => _FatsViewState();
@@ -27,8 +25,7 @@ class _FatsViewState extends State<FatsView> {
   @override
   void initState() {
     super.initState();
-    selectedIngredients = [...widget.initiallySelected]; // clone to local
-    print(selectedIngredients);
+    selectedIngredients = [...widget.initiallySelected];
   }
 
   void toggleIngredient(Ingredient ingredient) {
@@ -47,97 +44,77 @@ class _FatsViewState extends State<FatsView> {
 
   @override
   Widget build(BuildContext context) {
-    // Filter out selected from suggested
     final suggestedIngredients = widget.fats
         .where((i) => !_isSelected(i))
         .toList();
 
     return CupertinoPageScaffold(
-      child: Stack(
-        children: [
-          CustomScrollView(
-            slivers: [
-              CupertinoSliverNavigationBar(
-                largeTitle: const Text('Fats'),
-                previousPageTitle: widget.previousPageTitle,
+      navigationBar: CupertinoNavigationBar(
+        middle: const Text('Fats'),
+        previousPageTitle: widget.previousPageTitle,
+        trailing: CupertinoButton(
+          padding: EdgeInsets.zero,
+          onPressed: () {
+            Navigator.pop(context, selectedIngredients); // return selection
+          },
+          child: const Text('Done'),
+        ),
+      ),
+      child: CustomScrollView(
+        slivers: [
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 10),
+              child: const Text(
+                "Fats provide essential fatty acids, energy, and help the body absorb vitamins, playing a role in hormone production.",
+                style: TextStyle(fontSize: 18),
               ),
-              SliverToBoxAdapter(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(
-                    horizontal: 40,
-                    vertical: 10,
-                  ),
-                  child: Text(
-                    "Fats provide essential fatty acids, energy, and help the body absorb vitamins, playing a role in hormone production.",
-                    style: TextStyle(fontSize: 18),
-                  ),
-                ),
-              ),
-              if (selectedIngredients.isNotEmpty) ...[
-                SliverToBoxAdapter(
-                  child: Padding(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 40,
-                      vertical: 10,
-                    ),
-                    child: Text(
-                      'Selected',
-                      style: TextStyle(
-                        fontSize: 20,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                  ),
-                ),
-              ],
-              SliverList(
-                delegate: SliverChildBuilderDelegate((context, index) {
-                  final ingredient = selectedIngredients[index];
-                  return IngredientCard(
-                    ingredient: ingredient,
-                    isAdded: true,
-                    onToggle: () => toggleIngredient(ingredient),
-                  );
-                }, childCount: selectedIngredients.length),
-              ),
-
-              SliverToBoxAdapter(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(
-                    horizontal: 40,
-                    vertical: 10,
-                  ),
-                  child: Text(
-                    'Suggested',
-                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-                  ),
-                ),
-              ),
-              SliverList(
-                delegate: SliverChildBuilderDelegate((context, index) {
-                  final ingredient = suggestedIngredients[index];
-                  return IngredientCard(
-                    ingredient: ingredient,
-                    isAdded: false,
-                    onToggle: () => toggleIngredient(ingredient),
-                  );
-                }, childCount: suggestedIngredients.length),
-              ),
-
-              const SliverToBoxAdapter(child: SizedBox(height: 100)),
-            ],
-          ),
-          Positioned(
-            bottom: 90,
-            left: 0,
-            right: 0,
-            child: CupertinoButton.filled(
-              onPressed: () {
-                Navigator.pop(context, selectedIngredients); // return selection
-              },
-              child: const Text('Next'),
             ),
           ),
+          if (selectedIngredients.isNotEmpty) ...[
+            SliverToBoxAdapter(
+              child: Padding(
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 40,
+                  vertical: 10,
+                ),
+                child: const Text(
+                  'Selected',
+                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                ),
+              ),
+            ),
+          ],
+          SliverList(
+            delegate: SliverChildBuilderDelegate((context, index) {
+              final ingredient = selectedIngredients[index];
+              return IngredientCard(
+                ingredient: ingredient,
+                isAdded: true,
+                onToggle: () => toggleIngredient(ingredient),
+              );
+            }, childCount: selectedIngredients.length),
+          ),
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 10),
+              child: const Text(
+                'Suggested',
+                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+              ),
+            ),
+          ),
+          SliverList(
+            delegate: SliverChildBuilderDelegate((context, index) {
+              final ingredient = suggestedIngredients[index];
+              return IngredientCard(
+                ingredient: ingredient,
+                isAdded: false,
+                onToggle: () => toggleIngredient(ingredient),
+              );
+            }, childCount: suggestedIngredients.length),
+          ),
+          const SliverToBoxAdapter(child: SizedBox(height: 100)),
         ],
       ),
     );
